@@ -1,0 +1,2123 @@
+DEPOSIT_NA,CRITICAL_M,DEPOSIT_TY,LATITUDE,LONGITUDE,LOCATION,LOC_DETAIL
+Coeur d'Alene district,Antimony,Simple Sb,47.5340699996,-116.2485,United States of America,Idaho
+Krasna Gora,Antimony,Au-Sb,49.5819900003,14.3354700001,Czech Republic,
+Hillgrove,Antimony,Au-Sb,-30.5713800003,151.90687,Australia,
+Blue Spec,Antimony,Au-Sb,-21.8298700001,120.24929,Australia,
+Becker Cochrane,Antimony,Simple Sb,60.1833299996,-135.21666,Canada,
+La Cruz Mine Zone,Antimony,Disseminated Sb,18.2506800004,-99.6670299997,Mexico,
+San Jose mines,Antimony,Simple Sb,23.5499999998,-100.95,Mexico,
+Brioude-Massiac,Antimony,Simple Sb,45.20611,3.18750000003,France,
+La Lucette,Antimony,Au-Sb,48.4165999998,0.95,France,
+Sentachan,Antimony,Au-Sb,66.4616699999,136.92511,Russia,
+Lake George,Antimony,Disseminated Sb,45.86663,-67.0325900001,Canada,
+Beaver Brook (Hunan),Antimony,Simple Sb,48.7014120003,-55.2338849998,Canada,
+Olympiada,Antimony,Au-Sb,59.8698809996,92.918007,Russia,
+Sarylakh,Antimony,Au-Sb,64.3489199998,142.5291,Russia,
+Cutaway basin,Barite,Bedded-sedimentary,68.1499999997,-157.454,United States of America,Alaska
+Nevada,Barite,Bedded-sedimentary,40.5800000003,-116.696,United States of America,Nevada
+Flagstaff Mountain,Barite,Bedded-sedimentary,48.9079999997,-117.868,United States of America,Washington
+Ouachita Mountains,Barite,Bedded-sedimentary,34.4710000003,-92.8160000001,United States of America,Arkansas
+Selwyn Basin,Barite,Bedded-sedimentary,63.0000000001,-130,Canada,
+Cuddapah,Barite,Bedded-sedimentary,14.0199999996,79.3200000004,India,
+Jiangnan,Barite,Bedded-sedimentary,27.1499999998,109.167,China,
+Qinling,Barite,Bedded-sedimentary,30.0000000004,110,China,
+Sardinia,Barite,Bedded-sedimentary,40.2289999999,9.0300000004,Italy,Sardinia
+Aggeneys-Gamsberg,Barite,Bedded-sedimentary,-29.2499999999,18.7899999996,South Africa,
+Lasbela-Khuzdar,Barite,Bedded-sedimentary,27.0590000004,66.6650000001,Pakistan,
+Chiganak,Barite,Bedded-sedimentary,44.2840000002,72.9459999999,Kazakhstan,
+Neuquen-Mendoza,Barite,Bedded-sedimentary,-36.9999999997,-70.0000000003,Argentina,
+La Helvecia,Barite,Bedded-sedimentary,-29.9000000004,-66.9989999998,Argentina,
+Camamu,Barite,Bedded-sedimentary,-13.9239999997,-39.0080000004,Brazil,
+Sonora,Barite,Bedded-sedimentary,28.8330000002,-110.133,Mexico,
+Northern Thailand,Barite,Bedded-sedimentary,18.6050000001,99.0089999997,Thailand,
+Gertrudas-Jugua,Barite,Bedded-sedimentary,22.485,-83.7789999999,Cuba,
+Barite Hill,Barite,Bedded-volcanic,33.8749999999,-82.2800000004,United States of America,South Carolina
+Zhayrem district,Barite,Bedded-volcanic,48.2700000004,70.2419999998,Kazakhstan,
+Kuroko,Barite,Bedded-volcanic,41.738,140.976,Japan,
+Madneuli,Barite,Bedded-volcanic,44.4916669999,41.3616670004,Russia,
+Dorreh Kashan,Barite,Bedded-volcanic,32.8419999999,51.7669999999,Iran,
+Jebel Irhoud,Barite,"Vein, cavity-fill, metasomatic",31.5760000002,-9.022,Morocco,
+Zelmou,Barite,"Vein, cavity-fill, metasomatic",32.1999999996,-2.7999999997,Morocco,
+Flinders Range,Barite,"Vein, cavity-fill, metasomatic",-31.3439999996,138.692,Australia,
+Chaillac,Barite,"Vein, cavity-fill, metasomatic",46.4349999998,1.29700000035,France,
+Nghe An,Barite,"Vein, cavity-fill, metasomatic",19.353,105.403,Vietnam,
+Mau Xe,Barite,"Vein, cavity-fill, metasomatic",21.9829999996,103.975,Vietnam,
+Isparta,Barite,"Vein, cavity-fill, metasomatic",38.0759999998,31.3680000004,Turkey,
+Southeast Missouri Barite district,Barite,Residual,38.0121427521,-90.7241822296,United States of America,Missouri
+Cartersville,Barite,Residual,34.1610000002,-84.7979999999,United States of America,Georgia
+Tuareg massif,Beryllium,Non-pegmatite,23.2833329997,5.51666699958,Algeria,
+Sierras Pampeanas,Beryllium,Non-pegmatite,-31.9999999998,-65.0000000004,Argentina,
+Greenbushes,Beryllium; Lithium; Niobium and Tantalum; Tin,Pegmatite; Li-Cs-Ta type pegmatite; Hydrothermal,-33.8667329997,116.062458,Australia,
+Brockman,Beryllium,Volcanogenic-hosted Be,-22.4272900004,117.341301,Australia,
+Poona,Beryllium,Non-pegmatite,-26.9666667002,117.4666667,Australia,
+Curlew,Beryllium,Non-pegmatite,-21.1714299998,119.74352,Australia,
+Menzies,Beryllium,Non-pegmatite,-29.9433330004,121.126111,Australia,
+Londonderry,Beryllium,Pegmatite,-30.9500000001,121.15,Australia,
+Finniss River,Beryllium,Pegmatite,-12.9500000001,130.45,Australia,
+Wycheproof,Beryllium,Pegmatite,-36.083333,143.233333,Australia,
+Mole Granite,Beryllium,Non-pegmatite,-30.5143424996,151.6669644,Australia,
+Torrington,Beryllium,Non-pegmatite,-29.313089,151.681915,Australia,
+Habachtal,Beryllium,Non-pegmatite,47.2000000002,12.3666670003,Austria,
+Weinebene,Beryllium,Pegmatite,46.8391669996,14.9919439997,Austria,
+Diabazovoe,Beryllium,Non-pegmatite,52.2333300002,27.86667,Belarus,
+Rondonia,Beryllium,Non-pegmatite,-11.0000000004,-62.9999999999,Brazil,
+Santa Terezinha de Goiás,Beryllium,Non-pegmatite,-14.4333332996,-49.6955599998,Brazil,
+Taquaral,Beryllium,Pegmatite,-21.0719440003,-48.4102780003,Brazil,
+Minas Gerais,Beryllium,Be Type Rare-Metal Pegmatite,-19.8167000002,-43.9500000002,Brazil,
+Humaitá,Beryllium,Pegmatite,-21.7697222004,-43.4902778001,Brazil,
+Jaguaraçú,Beryllium,Pegmatite,-19.5258069999,-42.6411260001,Brazil,
+Aracuai,Beryllium,Pegmatite,-16.7786109998,-41.9105560001,Brazil,
+Maxixe,Beryllium,Pegmatite,-16.8036109997,-41.89,Brazil,
+Brumado,Beryllium,Non-pegmatite,-14.2333329996,-41.666667,Brazil,
+Galiléia,Beryllium,Pegmatite,-18.9962999999,-41.5348000001,Brazil,
+Sapucaia,Beryllium,Pegmatite,-18.9008329996,-41.484444,Brazil,
+Lavra do Urucum,Beryllium,Pegmatite,-19.0230559999,-41.4599999996,Brazil,
+Socotó,Beryllium,Non-pegmatite,-10.3100999999,-40.8108,Brazil,
+Carnaiba,Beryllium,Non-pegmatite,-10.3978499996,-40.5822719997,Brazil,
+Rila Mountains,Beryllium,Pegmatite,42.1333000001,23.5499999998,Bulgaria,
+Logtung,Beryllium,Non-pegmatite,59.9999999998,-131.6,Canada,
+Finlayson Lake,Beryllium,Non-pegmatite,61.6913890004,-130.773889,Canada,
+Yellowknife field,Beryllium,Pegmatite,62.4422220004,-114.3975,Canada,
+FI,Beryllium,Pegmatite,62.5001200003,-113.00135,Canada,
+Violet,Beryllium,Pegmatite,54.8873359998,-100.021786,Canada,
+High Grade Dyke pegmatite,Beryllium,Pegmatite,56.6152999999,-95.8360999003,Canada,
+Shatford Lake,Beryllium,Pegmatite,50.3918999,-95.4999998999,Canada,
+Bernic Lake,Beryllium,Be Type Rare-Metal Pegmatite,50.4172688,-95.4361724998,Canada,
+Buck-Coe-Pegli pegmatite,Beryllium,Pegmatite,50.4178009999,-95.3850169996,Canada,
+Silver Leaf-Greer Lake,Beryllium,Pegmatite,50.3505999002,-95.2686,Canada,
+Yitt pegmatite,Beryllium,Pegmatite,51.7273000001,-91.8228,Canada,
+Nama Creek,Beryllium,Pegmatite,49.0000190002,-86.9999770003,Canada,
+James Bay (Lithium One),Beryllium,Be Type Rare-Metal Pegmatite,52.2014139997,-78.5062029996,Canada,
+Height of Land Mine,Beryllium,Pegmatite,48.4269440002,-78.3452779997,Canada,
+Québec Lithium,Beryllium,Pegmatite,48.410833,-77.8091670001,Canada,
+Beryl Pit,Beryllium,Pegmatite,45.3141669999,-77.3783329999,Canada,
+Matthews Yankee,Beryllium,Pegmatite,44.5833090001,-76.4162900004,Canada,
+Mont Saint-Hilaire,Beryllium,Non-pegmatite,45.5627780001,-73.141667,Canada,
+New Brunswick,Beryllium,Non-pegmatite,46.5653163004,-66.4619164004,Canada,
+Nova Scotia,Beryllium,Non-pegmatite,44.6819865999,-63.7443109996,Canada,
+Prince Edward Island,Beryllium,Non-pegmatite,46.2382400003,-63.1310704001,Canada,
+Mann #1,Beryllium,Non-pegmatite,54.2333329999,-62.3833329996,Canada,
+Seal Lake,Beryllium,Peralkaline intrusion Be,54.2333329999,-62.3833329996,Canada,
+Nain Complex,Beryllium,Non-pegmatite,56.522222,-61.5280559999,Canada,
+Barkam,Beryllium,Pegmatite,31.9053240002,102.212808,China,
+Jiuquling,Beryllium,Pegmatite,22.9333330004,111.958333,China,
+Nanshan,Beryllium,Pegmatite,22.5330099998,113.93047,China,
+Shirenzhang-Meiziwo,Beryllium,Pegmatite,24.8,114.225,China,
+Huanggang,Beryllium,Pegmatite,30.4500000004,114.8,China,
+Baishizhang,Beryllium,Pegmatite,24.0166670004,115.533333,China,
+Huangzhen-Zhujiachong,Beryllium,Pegmatite,30.4666670001,116.15,China,
+Wanfengshan,Beryllium,Non-pegmatite,23.8911111,116.6263889,China,
+Shixi,Beryllium,Non-pegmatite,30.5833330004,119.875,China,
+Baerzhe,Beryllium,Non-pegmatite,45.455556,120.475,China,
+Dongshanwan,Beryllium,Pegmatite,45.9811500003,127.80394,China,
+Peñas Blancas,Beryllium,Non-pegmatite,5.5013890001,-75.7763889998,Colombia,
+Muzo,Beryllium,Non-pegmatite,5.5313890004,-74.1038889997,Colombia,
+Gachalá,Beryllium,Non-pegmatite,4.69916699996,-73.5227779996,Colombia,
+Somondoco,Beryllium,Non-pegmatite,4.98333300032,-73.4280560004,Colombia,
+Chivor,Beryllium,Non-pegmatite,4.90361100035,-73.3688890004,Colombia,
+Otov,Beryllium,Pegmatite,49.4864999999,12.8425,Czech Republic,
+Sušice,Beryllium,Pegmatite,49.2310600004,13.5201799999,Czech Republic,
+Bližná,Beryllium,Pegmatite,48.7224199996,14.0951599996,Czech Republic,
+Kostelní Vydrí,Beryllium,Pegmatite,49.1078,15.4228,Czech Republic,
+Kracovice,Beryllium,Pegmatite,49.1938300004,15.8402600004,Czech Republic,
+Vežná,Beryllium,Pegmatite,49.4477780003,16.2747219997,Czech Republic,
+Sekeit,Beryllium,Non-pegmatite,24.7000000002,34.7749999999,Egypt,
+Cornwall,Beryllium,Non-pegmatite,50.1308329998,-5.7013890004,England,
+Eujaroki,Beryllium,Non-pegmatite,61.2023561996,21.7339844996,Finland,
+Rosendal,Beryllium,Pegmatite,60.1122200002,22.5744400002,Finland,
+Kimito,Beryllium,Pegmatite,60.1639000002,22.7278000002,Finland,
+Hirvikallio,Beryllium,Pegmatite,60.7263337703,23.6210821796,Finland,
+Pyörönmaa,Beryllium,Pegmatite,61.3150800001,23.9768699998,Finland,
+Kangasala,Beryllium,Pegmatite,61.4666670002,24.0666670003,Finland,
+Viitaniemi,Beryllium,Pegmatite,61.5844439996,24.6772220002,Finland,
+Kymi,Beryllium,Non-pegmatite,60.5811499,26.8989086002,Finland,
+Schwarzwald,Beryllium,Non-pegmatite,48.3666670003,8.21666699958,Germany,
+Triberg,Beryllium,Non-pegmatite,48.1362999996,8.23649999958,Germany,
+Aschaffenburg,Beryllium,Pegmatite,49.9652779996,9.18416699981,Germany,
+Fichtelgebirge,Beryllium,Pegmatite,50,12.0000000004,Germany,
+Hagendorf-Süd,Beryllium,Pegmatite,49.650278,12.459722,Germany,
+Königshein,Beryllium,Pegmatite,50.9666667001,12.8833333002,Germany,
+Greifenstein,Beryllium,Pegmatite,50.6486110003,12.9311109998,Germany,
+Tittling,Beryllium,Pegmatite,48.7277780003,13.3811109998,Germany,
+Ivigtut,Beryllium,Non-pegmatite,61.2061110004,-48.1755560003,Greenland,
+Kvanefjeld,Beryllium,Peralkaline intrusion Be,60.9749999997,-45.9916670003,Greenland,
+Trivandrum,Beryllium,Pegmatite,8.48333299962,76.9833330003,India,
+Val Vigezzo,Beryllium,Pegmatite,46.128889,8.41388899968,Italy,
+Baveno,Beryllium,Pegmatite,45.9166669998,8.5000000002,Italy,
+Cuasso al Monte,Beryllium,Pegmatite,45.8666669999,8.86666700008,Italy,
+Chiavenna Mountain,Beryllium,Pegmatite,46.3166999996,9.4000000002,Italy,
+Kobe,Beryllium,Pegmatite,34.6910999997,135.1973,Japan,
+Aqshatau,Beryllium,Skarn and Greisen-Hosted Be-F,47.9811109999,74.0561109999,Kazakhstan,
+Bota Burum,Beryllium,Pegmatite,46.1666670002,81.5833330001,Kazakhstan,
+Zhanuzak,Beryllium,Pegmatite,49.6851300001,82.1726599996,Kazakhstan,
+Kokshetau,Beryllium,Non-pegmatite,53.2777780002,69.3888890001,Kazakhstan,
+Elenovsk Complex,Beryllium,Non-pegmatite,53.3333329999,69.4166669996,Kazakhstan,
+Qaraoba,Beryllium,Non-pegmatite,47.2666669998,72.2499999996,Kazakhstan,
+Kounrad,Beryllium,Non-pegmatite,47.0188890002,75.135,Kazakhstan,
+Qatpar,Beryllium,Non-pegmatite,52.6883262,76.4868851004,Kazakhstan,
+Verkhnee Espe,Beryllium,Non-pegmatite,48.1000000002,81.4500000001,Kazakhstan,
+Ampandramaika pegmatite,Beryllium,Pegmatite,-20.84835,45.8738500002,Madagascar,
+Bemokto,Beryllium,Pegmatite,-21.1499999999,45.95,Madagascar,
+Ambatovita,Beryllium,Pegmatite,-20.7466669999,46.0749999998,Madagascar,
+Anjanabonoina,Beryllium,Rare-metal pegmatite,-19.9166670003,46.533333,Madagascar,
+Ambatonapetraka (Miandrarivo),Beryllium,Pegmatite,-19.9786109997,46.9511109998,Madagascar,
+Antsofimbato,Beryllium,Pegmatite,-19.984722,46.9522219997,Madagascar,
+Bemasoandrao pegmatite,Beryllium,Pegmatite,-21.4535999998,47.0858000003,Madagascar,
+Malakialina,Beryllium,Pegmatite,-18.6666700002,47.2000000002,Madagascar,
+Madagascar,Beryllium,Non-pegmatite,-18.3714000004,47.5423999998,Madagascar,
+Marivolanitra,Beryllium,Pegmatite,-18.1666700003,48.0000000004,Madagascar,
+Ambodibonara pegmatite,Beryllium,Pegmatite,-13.15849,48.8551099996,Madagascar,
+Khaldzan-Burgtey,Beryllium,Pegmatite,48.4086110001,91.9508330004,Mongolia,
+Altai,Beryllium,Non-pegmatite,48.5388890004,92.9249999997,Mongolia,
+Altai #3,Beryllium,Pegmatite,46.3727780001,96.2572219996,Mongolia,
+Hutag Ull Ord,Beryllium,Pegmatite,49.395,102.69333,Mongolia,
+Goricho,Beryllium,Pegmatite,48.1502000003,107.576,Mongolia,
+Undur Tsagaan,Beryllium,Pegmatite,47.8666670004,110.166667,Mongolia,
+Buren-Tsogto Mine,Beryllium,Pegmatite,46.7333329996,111.716667,Mongolia,
+Khukh-Del-Ula,Beryllium,Pegmatite,50.0999999998,114.6667,Mongolia,
+Yugozor mine,Beryllium,Pegmatite,45.9000000001,115.4,Mongolia,
+Muambe,Beryllium,Non-pegmatite,-16.3230600001,34.0941700003,Mozambique,
+Donkerhoek,Beryllium,Pegmatite,-23.6333299996,15.9666700004,Namibia,
+Taghouaji,Beryllium,Non-pegmatite,17.1616670002,8.51083299974,Niger,
+Nasarawa Eggon,Beryllium,Pegmatite,8.52943999986,7.72417000035,Nigeria,
+Ririwai,Beryllium,Non-pegmatite,10.4400000001,8.4399999996,Nigeria,
+Nandu,Beryllium,Pegmatite,9.23332999978,8.51667000002,Nigeria,
+Saiya-Shokobo,Beryllium,Non-pegmatite,10.3833330003,8.93333299962,Nigeria,
+Sabon Wana,Beryllium,Pegmatite,9.16666700038,9.7500000004,Nigeria,
+Bauchi,Beryllium,Pegmatite,10.3098199998,9.84517199969,Nigeria,
+Skarsfjell,Beryllium,Pegmatite,58.7345799999,5.74520000018,Norway,
+Evje-Iveland,Beryllium,Pegmatite,58.5999999999,7.8499999997,Norway,
+Heftetjern,Beryllium,Pegmatite,59.1833329999,8.7499999997,Norway,
+Tørdal district,Beryllium,Pegmatite,59.1499999997,8.7999999996,Norway,
+Høydalen,Beryllium,Pegmatite,59.1399999999,9.266,Norway,
+Langesundsfjord,Beryllium,Pegmatite,59.0004999997,9.7473,Norway,
+Byrud Minnesund,Beryllium,Non-pegmatite,60.3940558004,11.2207785996,Norway,
+Eidsvoll,Beryllium,Non-pegmatite,60.3167000004,11.2332999998,Norway,
+Høgtuva Mountain,Beryllium,Pegmatite,66.4041670002,13.8763889996,Norway,
+Makhad,Beryllium,Non-pegmatite,33.1307985997,71.7392639003,Pakistan,
+Gujar Kili,Beryllium,Non-pegmatite,35.3166670003,71.8333329998,Pakistan,
+Swat,Beryllium,Non-pegmatite,34.7933330997,72.2889308002,Pakistan,
+Mingora,Beryllium,Non-pegmatite,34.7833000004,72.3666999997,Pakistan,
+Charbagh,Beryllium,Non-pegmatite,34.8333333004,72.4416667004,Pakistan,
+Stak Nala,Beryllium,Pegmatite,35.6999999998,74.0666670002,Pakistan,
+Khaltaro,Beryllium,Pegmatite,36.1977936003,74.0851664998,Pakistan,
+Gilgit,Beryllium,Non-pegmatite,35.9520349996,74.5931921,Pakistan,
+Shengus,Beryllium,Pegmatite,35.8166670002,74.8166669996,Pakistan,
+Indus Suture,Beryllium,Non-pegmatite,31.0000000002,87.9999999996,China,
+Macusani,Beryllium,Non-pegmatite,-14.1452918768,-70.2359951966,Peru,
+Strzegom,Beryllium,Pegmatite,50.9833330001,16.3333330001,Poland,
+Western Iberia,Beryllium,Non-pegmatite,41.7636110002,-6.73499999975,Portugal,
+Pitkäranta,Beryllium,Non-pegmatite,61.5750000002,31.4777778,Russia,
+Murmansk,Beryllium,Pegmatite,68.9543000003,33.1076000002,Russia,
+Orlinogorski,Beryllium,Non-pegmatite,68.1499999997,33.2833330004,Russia,
+Khibiny,Beryllium,Pegmatite,67.6166669996,33.8833330001,Russia,
+Western Keivy,Beryllium,Pegmatite,67.6333330001,36.6999999996,Russia,
+Voznesenkoye,Beryllium,Skarn and Greisen-Hosted Be-F,44.5598199997,41.0339899999,Russia,
+Mursink,Beryllium,Pegmatite,57.0000000004,61.4666670002,Russia,
+Troitsky,Beryllium,Non-pegmatite,54.0833332997,61.5666666996,Russia,
+Reft River,Beryllium,Non-pegmatite,57.0536450002,61.8266749997,Russia,
+Boevskoe,Beryllium,Non-pegmatite,56.4166670004,62.0333329996,Russia,
+Upper Tura River,Beryllium,Pegmatite,57.1500000001,65.5333329998,Russia,
+Marinksy,Beryllium,Non-pegmatite,56.2166667004,87.7500000001,Russia,
+Ermakovskoe,Beryllium,Non-pegmatite,52.5035117999,92.5932658004,Russia,
+Kyzyl City,Beryllium,Non-pegmatite,51.7166669999,94.4500000002,Russia,
+Buryatia,Beryllium,Non-pegmatite,54.8331146002,112.4060529,Russia,
+Sherlova Gora,Beryllium,Non-pegmatite,50.5200000004,116.3,Russia,
+Baid al Jimalah,Beryllium,Non-pegmatite,25.1500000002,42.6916669999,Saudi Arabia,
+Gravelotte,Beryllium; Titanium,Non-pegmatite; Sedimentary related,-23.9499999997,30.6166669998,South Africa,
+Noumas,Beryllium,Pegmatite,-29.8167,22.55,South Africa,
+Franqueira,Beryllium,Non-pegmatite,42.1821799996,-8.35985000038,Spain,
+Forcarei,Beryllium,Pegmatite,42.5922999996,-8.35090000043,Spain,
+Galicia,Beryllium,Non-pegmatite,42.5751110002,-8.13386600042,Spain,
+Ratnapura,Beryllium,Non-pegmatite,6.66666699998,80.4000000004,Sri Lanka,
+Sri Lanka,Beryllium,Pegmatite,7.5652999999,80.4303000001,Sri Lanka,
+Elahera,Beryllium,Non-pegmatite,7.71500000015,80.7847220001,Sri Lanka,
+Högsbo,Beryllium,Pegmatite,57.6636109999,11.9455559997,Sweden,
+Klintberget,Beryllium,Pegmatite,59.9833330001,13.9333330004,Sweden,
+Långban,Beryllium,Pegmatite,59.8536110002,14.2594439997,Sweden,
+Stora Vika,Beryllium,Pegmatite,58.9333330004,17.7999999996,Sweden,
+Stockholm area,Beryllium,Pegmatite,59.3294440001,18.0686110003,Sweden,
+Rånö,Beryllium,Pegmatite,58.9330999996,18.1831000001,Sweden,
+Norrö,Beryllium,Pegmatite,59.4999999999,18.2666670002,Sweden,
+Utö,Beryllium; Lithium,Pegmatite,58.9666669998,18.3166670001,Sweden,
+Nyköping,Beryllium,Pegmatite,58.9833330003,18.3333329997,Sweden,
+Ytterby,Beryllium,Pegmatite,59.4266669996,18.3533330002,Sweden,
+Varuträsk,Beryllium; Lithium,Pegmatite,64.8008329998,20.7411110002,Sweden,
+Blauberg,Beryllium,Non-pegmatite,46.6200000001,8.4900000004,Switzerland,
+Griesserental,Beryllium,Non-pegmatite,46.7666669999,8.73333300002,Switzerland,
+Rangkul',Beryllium,Pegmatite,38.4730559999,74.2538889996,Tajikistan,
+Phuket Island,Beryllium,Non-pegmatite,7.8899999998,98.3983000002,Thailand,
+Khao Kata Kwham,Beryllium,Non-pegmatite,8.58333300032,98.5000000002,Thailand,
+Perga,Beryllium,Non-pegmatite,51.3980600004,27.89444,Ukraine,
+Korosten pluton,Beryllium,Pegmatite,50.9999999998,28.4999999998,Ukraine,
+Seward Peninsula,Beryllium,Skarn and Greisen-Hosted Be-F,65.536944,-167.143333,United States of America,Alaska
+Golden Horn batholith,Beryllium,Pegmatite,48.5241669996,-120.653056,United States of America,Washington
+Oreana,Beryllium,Non-pegmatite,38.865,-119.47722,United States of America,Nevada
+Steamboat Springs,Beryllium,Pegmatite,38.5888889996,-119.377778,United States of America,Nevada
+Mount Wheeler,Beryllium,Veins,38.6776931001,-119.1168176,United States of America,Nevada
+Birch Creek,Beryllium,Non-pegmatite,37.3744439996,-118.136111,United States of America,California
+Golconda,Beryllium,Pegmatite,40.9500000001,-117.483333,United States of America,Nevada
+Pala Chief Mine,Beryllium,Pegmatite,33.3874999999,-117.051389,United States of America,California
+Mesa Mountain,Beryllium,Pegmatite,33.293056,-116.964722,United States of America,California
+Rincon Mountain,Beryllium,Pegmatite,33.2880559997,-116.958333,United States of America,California
+Clark Extension,Beryllium,Pegmatite,33.2577780001,-116.937778,United States of America,California
+Himalaya,Beryllium,Pegmatite,33.2119439998,-116.797778,United States of America,California
+Sawtooth,Beryllium,Pegmatite,43.9127779998,-115.891389,United States of America,Idaho
+McCullough Butte,Beryllium,Carbonate-hosted Be,35.6028930003,-115.180082,United States of America,Nevada
+Alphabet Group Prospect,Beryllium,Pegmatite,43.9527779999,-114.981111,United States of America,Idaho
+Magnet Cove,Beryllium,Pegmatite,34.8833329999,-113.95,United States of America,Arizona
+Rodenhouse Wash,Beryllium,Pegmatite/granite Be,40.1183330001,-113.798333,United States of America,Utah
+Gold Hill,Beryllium,Veins,40.1613889999,-113.79,United States of America,Utah
+Honeycomb Hills,Beryllium,Non-pegmatite,39.705833,-113.586944,United States of America,Utah
+Tungstona mine,Beryllium,Non-pegmatite,34.629444,-113.154167,United States of America,Arizona
+Black Pearl mine,Beryllium,Non-pegmatite,34.6872219998,-113.034444,United States of America,Arizona
+Wah-Wah,Beryllium,Non-pegmatite,38.4394440003,-112.715833,United States of America,Utah
+Sheeprock,Beryllium,Skarn and Greisen-Hosted Be-F,39.9377779997,-112.508611,United States of America,Utah
+Black Mountains,Beryllium,Non-pegmatite,33.4797901001,-107.7455959,United States of America,New Mexico
+Silverton,Beryllium,Non-pegmatite,37.8119410004,-107.6645057,United States of America,Colorado
+Iron Mountain,Beryllium,Carbonate-hosted Be,33.4697220001,-107.636944,United States of America,New Mexico
+Apache Warm Springs,Beryllium,Volcanogenic-hosted Be,33.561944,-107.595556,United States of America,New Mexico
+Brown Derby,Beryllium,Pegmatite,38.5416670001,-106.625556,United States of America,Colorado
+Mount Antero,Beryllium,Non-pegmatite,38.6738890002,-106.246944,United States of America,Colorado
+Harding,Beryllium; Lithium,Pegmatite,36.1926477146,-105.794821937,United States of America,New Mexico
+Meyers Ranch,Beryllium,Pegmatite,38.7930559998,-105.595278,United States of America,Colorado
+Cornudas Mountain,Beryllium,Non-pegmatite,32.0494440003,-105.525,United States of America,New Mexico
+Wind Mountain,Beryllium,Pegmatite,32.0252780002,-105.515278,United States of America,New Mexico
+Sierra Blanca,Beryllium,Carbonate-hosted Be,31.2874999996,-105.451667,United States of America,Texas
+Boomer mine,Beryllium,Skarn and Greisen-Hosted Be-F,39.0763889996,-105.448333,United States of America,Colorado
+Redskin Granite,Beryllium,Non-pegmatite,39.0991669996,-105.417778,United States of America,Colorado
+Big Bertha,Beryllium,Pegmatite,39.3369440002,-105.2175,United States of America,Colorado
+Twin Cedars,Beryllium,Pegmatite,39.3813890002,-105.211389,United States of America,Colorado
+Pidlite,Beryllium,Pegmatite,35.9867000001,-104.9191,United States of America,New Mexico
+Pikes Peak,Beryllium,Pegmatite,38.8175000002,-104.914167,United States of America,Colorado
+St. Peter's Dome,Beryllium,Pegmatite,38.7474999998,-104.911111,United States of America,Colorado
+Tip Top,Beryllium,Pegmatite,43.7155559997,-103.669444,United States of America,South Dakota
+Roosevelt pegmatite,Beryllium,Pegmatite,43.7275000001,-103.6125,United States of America,South Dakota
+Dan Patch,Beryllium,Pegmatite,43.8944439997,-103.441667,United States of America,South Dakota
+Hugo,Beryllium,Pegmatite,43.8711110002,-103.425,United States of America,South Dakota
+Peerless,Beryllium,Pegmatite,43.890278,-103.419444,United States of America,South Dakota
+Etta,Beryllium,Pegmatite,43.8805559996,-103.418889,United States of America,South Dakota
+Barringer Hill,Beryllium,Pegmatite,30.7061999998,-98.5553999998,United States of America,Texas
+Llano County,Beryllium,Pegmatite,30.7581000001,-98.2280999996,United States of America,Texas
+Hurricane Mountain,Beryllium,Pegmatite,35.8858329999,-82.2788890004,United States of America,North Carolina
+South Toe River,Beryllium,Pegmatite,35.8052780002,-82.2130559997,United States of America,North Carolina
+Gaston McDowell,Beryllium,Pegmatite,35.8355559998,-82.173611,United States of America,North Carolina
+McKinney,Beryllium,Pegmatite,35.916667,-82.0666670002,United States of America,North Carolina
+Wiseman,Beryllium,Pegmatite,35.916667,-82.0666670002,United States of America,North Carolina
+Brush Creek Mountain,Beryllium,Pegmatite,35.8822219997,-82.0569439997,United States of America,North Carolina
+Plumtree,Beryllium,Pegmatite,36.0597219996,-82.0108330001,United States of America,North Carolina
+Bessemer City,Beryllium,Pegmatite,35.3379420002,-81.3101060004,United States of America,North Carolina
+Hiddenite,Beryllium,Non-pegmatite,35.9000000003,-81.083333,United States of America,North Carolina
+Franklin,Beryllium; Gallium,Pegmatite; Ga in Clastic-dominated Pb-Zn,41.1156687502,-74.587437571,United States of America,New Jersey
+Ridgefield,Beryllium,Pegmatite,41.2930560002,-73.516389,United States of America,Connecticut
+Brookfield,Beryllium,Pegmatite,41.4824999996,-73.409444,United States of America,Connecticut
+Danbury line,Beryllium,Pegmatite,41.451111,-73.3950000003,United States of America,Connecticut
+Biermann,Beryllium,Pegmatite,41.3541669999,-73.3505560004,United States of America,Connecticut
+East Village pegmatite,Beryllium,Pegmatite,41.3658330001,-73.1847219998,United States of America,Connecticut
+Smith-Bullock,Beryllium,Pegmatite,43.6114999999,-71.7929000002,United States of America,New Hampshire
+Crooker pegmatite,Beryllium,Pegmatite,44.544167,-70.7236110004,United States of America,Maine
+Dunton Gem Quarry,Beryllium,Pegmatite,44.5427779998,-70.723056,United States of America,Maine
+Newry,Beryllium,Pegmatite,44.5444440002,-70.7211110003,United States of America,Maine
+Rockport,Beryllium,Pegmatite,42.6556000004,-70.6207999996,United States of America,Massachusetts
+Mount Mica,Beryllium; Lithium,Pegmatite,44.2691965361,-70.4733082226,United States of America,Maine
+Peg Claims,Beryllium,Pegmatite,44.1203,-69.2400000002,United States of America,Maine
+Kafubu,Beryllium,Non-pegmatite,-12.8280560001,28.1933329996,Zambia,
+Filabusi,Beryllium,Non-pegmatite,-20.5398099997,29.2828099996,Zimbabwe,
+Mweza,Beryllium,Non-pegmatite,-20.9166680001,29.9333319999,Zimbabwe,
+Fort Victoria,Beryllium,Non-pegmatite,-20.0744399996,30.8327799996,Zimbabwe,
+Harare,Beryllium,Pegmatite,-17.8638890004,31.0297220003,Zimbabwe,
+Kambalda,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-31.6359999997,121.649,Australia,
+Mount Keith,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-27.713,120.533,Australia,
+Savannah,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-17.3530000001,128.022,Australia,
+Americano do Brasil,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-16.1029999999,-50.0749999997,Brazil,
+Fortaleza de Minas,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-20.9970000003,-48.4989999999,Brazil,
+Santa Rita,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-14.1850000001,-39.7249999997,Brazil,
+Dumont,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,48.6489999998,-78.4420000003,Canada,
+Ferguson Lake,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,62.917,-96.9670000001,Canada,
+Makwa,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,50.4669999998,-95.433,Canada,
+Nunavik,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,61.574,-73.2599999999,Canada,
+Raglan,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,61.5930000002,-74.2910000002,Canada,
+Shakespeare,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit,46.3500000001,-81.8330000002,Canada,
+Sudbury Complex,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Sudbury,46.6329999998,-81.3830000002,Canada,
+Thompson,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,53.7609999998,-98.8140000002,Canada,
+Turnagain,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,58.4760000004,-128.828,Canada,
+Voisey's Bay,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,45.4989999998,-73.57,Canada,
+Wellgreen,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,60.7500000001,-139.502,Canada,
+Jinchuan,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit,38.4670000003,102.167,China,
+Yangliuping,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit,30.6669999998,102,China,
+Hitura,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Synorogenic,63.842,25.0509999998,Finland,
+Kevitsa,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Atypical; pipe-like ore bodies,67.6999999997,29.9670000002,Finland,
+Kotalahti,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,62.5220000003,27.6810000002,Finland,
+Laukunkangas,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,62.0449999999,28.7699999998,Finland,
+Stormi,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,61.3319999998,24.9029999997,Finland,
+Bruvann,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,68.3320000002,16.9439999998,Norway,
+Stormyra,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,61.3440000001,9.6579999999,Norway,
+Ertelien,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,60.0700000002,10.0459999997,Norway,
+Flåt,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,58.5980000003,7.87099999955,Norway,
+NKT,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,67.9400000003,32.8199999998,Russia,
+Pechenga,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,69.332,29.7370000003,Russia,
+Sopchuaivench,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,67.8799999997,32.8199999998,Russia,
+Nkomati,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-25.6669999997,30.5000000003,South Africa,
+Aguablanca,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Synorogenic,37.85,-6.18300000035,Spain,
+Kabanga,Cobalt; Platinum-Group Elements,Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit,-2.86700000025,30.5830000003,Tanzania,
+Eagle,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,46.7479999997,-87.8950000001,United States of America,Michigan
+Mesaba,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,47.6320000002,-91.883,United States of America,Minnesota
+Northmet,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,47.6000000003,-91.9670000002,United States of America,Minnesota
+Twin Metals,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,47.8010000001,-91.7559999997,United States of America,Minnesota
+Munali,Cobalt,Magmatic Ni-Cu(-Co-PGE) sulfide,-15.9970000004,28.0010000001,Zambia,
+Browns,Cobalt,Stratiform sediment-hosted Cu-Co,-13.0679999999,131.079,Australia,
+Emmie Bluff,Cobalt,Stratiform sediment-hosted Cu-Co,-31.0999999998,137.167,Australia,
+Mount Gunson,Cobalt,Stratiform sediment-hosted Cu-Co,-31.45,137.25,Australia,
+Pyrite Hill-Big Hill,Cobalt,Stratiform sediment-hosted Cu-Co,-32.1170000002,141.2,Australia,
+Windabout,Cobalt,Stratiform sediment-hosted Cu-Co,-31.3000000003,137.16,Australia,
+Tangdan,Cobalt,Stratiform sediment-hosted Cu-Co,26.1169999999,103.167,China,
+Deziwa,Cobalt,Stratiform sediment-hosted Cu-Co,-10.775,25.7679999999,Democratic Republic of the Congo,Kinshasa
+Dilala East,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7000000001,25.4670000002,Democratic Republic of the Congo,Kinshasa
+DIMA,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7410000004,25.3749999998,Democratic Republic of the Congo,Kinshasa
+Disele,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7540000001,26.2539999999,Democratic Republic of the Congo,Kinshasa
+Écaille C,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7599999998,26.1150000002,Democratic Republic of the Congo,Kinshasa
+Etoile,Cobalt,Stratiform sediment-hosted Cu-Co,-11.6339999996,27.5809999996,Democratic Republic of the Congo,Kinshasa
+Kababankola,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7330000002,26.4229999999,Democratic Republic of the Congo,Kinshasa
+Kabolela,Cobalt,Stratiform sediment-hosted Cu-Co,-10.6900000003,26.4500000003,Democratic Republic of the Congo,Kinshasa
+Kakanda,Cobalt,Stratiform sediment-hosted Cu-Co,-10.739,26.3979999999,Democratic Republic of the Congo,Kinshasa
+Kalukundi-Kii,Cobalt,Stratiform sediment-hosted Cu-Co,-10.624,25.9090000001,Democratic Republic of the Congo,Kinshasa
+Kambove,Cobalt,Stratiform sediment-hosted Cu-Co,-10.851,26.6110000001,Democratic Republic of the Congo,Kinshasa
+Kamfundwa,Cobalt,Stratiform sediment-hosted Cu-Co,-10.8130000004,26.5860000001,Democratic Republic of the Congo,Kinshasa
+Kamoto-KOV-Musonie-Mupine,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7199999997,25.401,Democratic Republic of the Congo,Kinshasa
+Kananga,Cobalt,Stratiform sediment-hosted Cu-Co,-10.6769999998,25.477,Democratic Republic of the Congo,Kinshasa
+Kazibizi,Cobalt,Stratiform sediment-hosted Cu-Co,-10.833,26.5669999999,Democratic Republic of the Congo,Kinshasa
+Kipapila,Cobalt,Stratiform sediment-hosted Cu-Co,-12.0159999997,27.9010000003,Democratic Republic of the Congo,Kinshasa
+Kipoi Central,Cobalt,Stratiform sediment-hosted Cu-Co,-11.2559999996,27.0989999997,Democratic Republic of the Congo,Kinshasa
+Kipoi North,Cobalt,Stratiform sediment-hosted Cu-Co,-11.2559999996,27.0989999997,Democratic Republic of the Congo,Kinshasa
+Kisanfu,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7739999997,25.9750000003,Democratic Republic of the Congo,Kinshasa
+Luishia,Cobalt,Stratiform sediment-hosted Cu-Co,-11.1669999999,27.0080000003,Democratic Republic of the Congo,Kinshasa
+Luiswishi,Cobalt,Stratiform sediment-hosted Cu-Co,-11.5140000002,27.417,Democratic Republic of the Congo,Kinshasa
+Lupoto,Cobalt,Stratiform sediment-hosted Cu-Co,-11.5989999999,27.2630000001,Democratic Republic of the Congo,Kinshasa
+M'Sesa,Cobalt,Stratiform sediment-hosted Cu-Co,-10.8499999998,26.5830000002,Democratic Republic of the Congo,Kinshasa
+Mukondo,Cobalt,Stratiform sediment-hosted Cu-Co,-10.725,26.348,Democratic Republic of the Congo,Kinshasa
+Mutanda,Cobalt,Stratiform sediment-hosted Cu-Co,-10.786,25.8130000003,Democratic Republic of the Congo,Kinshasa
+Mutoshi,Cobalt,Stratiform sediment-hosted Cu-Co,-10.6500000002,25.5049999999,Democratic Republic of the Congo,Kinshasa
+Tenke Fungurume,Cobalt,Stratiform sediment-hosted Cu-Co,-10.5799999998,26.1900000001,Democratic Republic of the Congo,Kinshasa
+Tilwezembe,Cobalt,Stratiform sediment-hosted Cu-Co,-10.7999999999,25.6919999998,Democratic Republic of the Congo,Kinshasa
+Boleo,Cobalt,Stratiform sediment-hosted Cu-Co,27.3329999997,-112.3,Mexico,
+Kilembe,Cobalt,Stratiform sediment-hosted Cu-Co,0.21700000035,30.0500000003,Uganda,
+Sheep Creek,Cobalt,Stratiform sediment-hosted Cu-Co,46.7250000002,-110.895,United States of America,Montana
+Baluba-Muliashi-Luanshya,Cobalt,Stratiform sediment-hosted Cu-Co,-13.4999999999,28.3779999999,Zambia,
+Chambishi Southeast,Cobalt,Stratiform sediment-hosted Cu-Co,-12.6599999996,28.0480000002,Zambia,
+Chibuluma-Chibuluma West,Cobalt,Stratiform sediment-hosted Cu-Co,-12.9150000003,28.0819999997,Zambia,
+Chimiwungo,Cobalt,Stratiform sediment-hosted Cu-Co,-12.179,25.851,Zambia,
+Chingola-Nchanga,Cobalt,Stratiform sediment-hosted Cu-Co,-12.507,27.867,Zambia,
+Kalumbila,Cobalt,Stratiform sediment-hosted Cu-Co,-12.2099999996,25.3450000003,Zambia,
+Malundwe,Cobalt,Stratiform sediment-hosted Cu-Co,-12.1620000002,25.754,Zambia,
+Mindola-Nkana N-S,Cobalt,Stratiform sediment-hosted Cu-Co,-12.7960000003,28.1820000004,Zambia,
+Nama,Cobalt,Stratiform sediment-hosted Cu-Co,-12.2569999997,27.6209999997,Zambia,
+Talvivaara,Cobalt; Gallium,Black-Shale-Hosted Ni-Cu-Zn-Co; Ga in Clastic-dominated Pb-Zn,63.9830000001,28.1670000002,Finland,
+Basil,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-22.0669999997,135.55,Australia,
+Ernest Henry,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-20.4329999998,140.7,Australia,
+Greenmount,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-21.0330000003,140.533,Australia,
+Mount Oxide,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-19.4829999999,139.467,Australia,
+Rover 1,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-20.002,133.658,Australia,
+Lala,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),26.1000000001,101.9,China,
+Guelb Moghrein,Cobalt,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),19.7500000002,-14.3830000001,Mauritania,
+NICO,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,63.5480000003,-116.751,Canada,
+Werner Lake,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,50.4690000002,-94.9709999998,Canada,
+Haarakumpu,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,66.4240000002,28.5740000003,Finland,
+Juomasuo,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,66.2889999998,29.2000000002,Finland,
+Kouvervaara,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,66.1309999999,28.8190000003,Finland,
+Vähäjoki,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,66.1119999996,25.2790000001,Finland,
+Skuterud,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,59.9129999997,9.8879999998,Norway,
+Blackbird,Cobalt,Metasedimentary-rock-hosted Co-Cu-Au,45.1230000002,-114.349,United States of America,Idaho
+Chu Chu,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,51.3809999997,-120.062,Canada,
+Soucy No. 1,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,58.3200000001,-69.8700000002,Canada,
+Windy Craggy,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,59.7329999997,-137.733,Canada,
+Deerni,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,34.3950000002,100.131,China,
+Dur'ngoi,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,34.3340000003,100.238,China,
+Luikonlahti,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,62.9229999998,28.6719999996,Finland,
+Outokumpu,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,62.7300000001,29.0100000004,Finland,
+Gaiskoye,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,51.4630000003,58.4879999998,Russia,
+Ishkinino,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,51.4499999998,58.2829999999,Russia,
+Ivanovskoe,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,52.4499999996,57.9170000001,Russia,
+Komsomolskoye,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,51.2299999997,56.9700000001,Russia,
+Letneye,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,51.0600000004,59.3699999998,Russia,
+Sibaiskoye,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,52.7,58.6300000002,Russia,
+Kure,Cobalt,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,41.8080000004,33.692,Turkey,
+Turner Albright,Cobalt; Gallium,Volcanogenic Cu(-Zn-Co-Ag-Au) massive sulfide,41.9999999998,-123.757,United States of America,Oregon
+Goroblagodat,Cobalt,Co in Fe-Cu-Co skarn,61.4170000003,60.4999999997,Russia,
+Magnitogorsk,Cobalt; Gallium,Co in Fe-Cu-Co skarn; Ga in Kuroko Massive Sulfide,53.4170000001,59.0999999998,Russia,
+Cornwall,Cobalt,Co in Fe-Cu-Co skarn,40.2670000003,-76.4000000001,United States of America,Pennsylvania
+Cobalt-Gowganda,Cobalt,Polymetallic (Ag-Ni-Co-As-Bi),47.3959999997,-79.6859999999,Canada,
+Bou Azzer,Cobalt,Polymetallic (Ag-Ni-Co-As-Bi),30.5299999997,-6.9100000003,Morocco,
+Karakul,Cobalt,Polymetallic (Ag-Ni-Co-As-Bi),49.91,89.5500000001,Russia,
+Bell Creek-Neck-Minnamoolka,Cobalt,Ni-Co laterite,-18.1369999999,144.789,Australia,
+Cawse,Cobalt,Ni-Co laterite,-30.3777777777,121.153888889,Australia,
+Claude Hills,Cobalt,Ni-Co laterite,-26.0000000001,129.3,Australia,
+Greenvale-Kokomo-Lucknow,Cobalt,Ni-Co laterite,-18.9702777775,144.934722223,Australia,
+Kalgoorlie Nickel,Cobalt,Ni-Co laterite,-30.1,121.05,Australia,
+Marlborough,Cobalt,Ni-Co laterite,-23.0083333337,149.891666667,Australia,
+Murrin Murrin,Cobalt,Ni-Co laterite,-28.7677777775,121.891111111,Australia,
+Ora Banda,Cobalt,Ni-Co laterite,-30.2397222218,120.995555555,Australia,
+Ravensthorpe,Cobalt,Ni-Co laterite,-33.6463888893,120.394722222,Australia,
+Summervale/Westlynn,Cobalt,Ni-Co laterite,-31.5459999997,147.165,Australia,
+Weld Range,Cobalt,Ni-Co laterite,-26.8199999999,117.75,Australia,
+Wingellina,Cobalt,Ni-Co laterite,-26.0644444449,128.969166667,Australia,
+Yerilla,Cobalt,Ni-Co laterite,-29.7260000001,122.036,Australia,
+Young,Cobalt,Ni-Co laterite,-35.7670000001,148.817,Australia,
+Jacaré,Cobalt,Ni-Co laterite,-6.21305555537,-52.8630555557,Brazil,
+Niquelandia,Cobalt,Ni-Co laterite,-14.3533333336,-48.3958333333,Brazil,
+Santa Fe,Cobalt,Ni-Co laterite,-15.6688888891,-51.1199999999,Brazil,
+Serra do Tapa,Cobalt,Ni-Co laterite,-6.84611111084,-49.3250000002,Brazil,
+Vale dos Sonhos,Cobalt,Ni-Co laterite,-6.96888888851,-49.259444444,Brazil,
+Vermelho,Cobalt,Ni-Co laterite,-6.23638888854,-49.7502777775,Brazil,
+Vila Oito,Cobalt,Ni-Co laterite,-7.78749999963,-49.3511111108,Brazil,
+Musongati,Cobalt,Ni-Co laterite,-3.78722222233,30.1877777781,Burundi,
+Nyabikere,Cobalt,Ni-Co laterite,-3.27638888924,30.0900000004,Burundi,
+Waga,Cobalt,Ni-Co laterite,-3.56194444468,29.9108333329,Burundi,
+Nkamouna,Cobalt,Ni-Co laterite,3.26638888874,13.8130555557,Cameroon,
+Moa,Cobalt,Ni-Co laterite,20.6024999996,-74.9549999998,Cuba,
+Nicaro,Cobalt,Ni-Co laterite,20.6261111108,-75.5427777776,Cuba,
+Pinares de Mayari,Cobalt,Ni-Co laterite,20.5391666663,-75.7186111115,Cuba,
+Punta Gorda,Cobalt,Ni-Co laterite,20.6258333336,-74.8922222218,Cuba,
+Sechol,Cobalt,Ni-Co laterite,15.4330555557,-89.6644444446,Guatemala,
+Bhimatangar,Cobalt,Ni-Co laterite,21.0133333338,85.7394444445,India,
+Kansa,Cobalt,Ni-Co laterite,21.0586111114,85.8563888893,India,
+Saruabil,Cobalt,Ni-Co laterite,21.0547222226,85.8169444445,India,
+Gag Island,Cobalt,Ni-Co laterite,-0.452222221978,129.882222222,Indonesia,
+Halmahera/Weda Bay,Cobalt,Ni-Co laterite,-0.494722222253,127.942222222,Indonesia,
+La Sampala,Cobalt,Ni-Co laterite,-2.70388888876,121.927777778,Indonesia,
+Tiuba-Biankouma,Cobalt,Ni-Co laterite,7.74388888896,-7.61555555544,Côte d’Ivoire,
+Gornostai,Cobalt,Ni-Co laterite,50.6122222225,78.7552777776,Kazakhstan,
+Kempirsai,Cobalt,Ni-Co laterite,50.3366666668,58.2802777781,Kazakhstan,
+Cikatova,Cobalt,Ni-Co laterite,42.2236111107,21.2558333336,Kosovo,Serbia
+Glavica,Cobalt,Ni-Co laterite,42.5436111115,21.0097222221,Kosovo,Serbia
+Ržanovo,Cobalt,Ni-Co laterite,41.1705555555,21.9877777774,Macedonia,
+Ambatovy,Cobalt,Ni-Co laterite,-18.8677777775,48.3530555552,Madagascar,
+Analamay,Cobalt,Ni-Co laterite,-18.8455555558,48.3708333336,Madagascar,
+Tavai,Cobalt,Ni-Co laterite,5.5840000002,117.333,Malaysia,
+Goro,Cobalt,Ni-Co laterite,-22.3047222226,166.932222223,New Caledonia,
+Kouaoua,Cobalt,Ni-Co laterite,-21.4152777776,165.738611111,New Caledonia,
+Nakety,Cobalt,Ni-Co laterite,-21.5138888888,166.052222222,New Caledonia,
+Nepoui,Cobalt,Ni-Co laterite,-21.2216666671,165.041666666,New Caledonia,
+Thio,Cobalt,Ni-Co laterite,-21.6152777781,166.181944444,New Caledonia,
+Tiébaghi,Cobalt,Ni-Co laterite,-20.444722222,164.217222222,New Caledonia,
+Mambare,Cobalt,Ni-Co laterite,-8.9999999999,147.7,Papua New Guinea,
+Ramu,Cobalt,Ni-Co laterite,-5.52555555584,145.1875,Papua New Guinea,
+Wowo Gap,Cobalt,Ni-Co laterite,-9.68277777807,148.960555555,Papua New Guinea,
+Acoje/Zambales,Cobalt,Ni-Co laterite,15.7241666668,120.041388889,Philippines,
+Agata/Bolobolo/Karihatag,Cobalt,Ni-Co laterite,9.28416666686,125.522777778,Philippines,
+Berong,Cobalt,Ni-Co laterite,9.39111111099,118.143333333,Philippines,
+Cagdianao,Cobalt,Ni-Co laterite,9.91805555572,125.664722222,Philippines,
+Ipilan,Cobalt,Ni-Co laterite,8.96749999963,117.975,Philippines,
+Mindoro,Cobalt,Ni-Co laterite,12.9422222226,121.066111111,Philippines,
+Nonoc,Cobalt,Ni-Co laterite,9.84277777777,125.619444444,Philippines,
+Rio Tuba,Cobalt,Ni-Co laterite,8.58700000035,117.405,Philippines,
+Taganaan,Cobalt,Ni-Co laterite,9.77500000035,125.717,Philippines,
+Taganito/Adlay,Cobalt,Ni-Co laterite,9.52888888881,125.8275,Philippines,
+Guanajibo,Cobalt,Ni-Co laterite,18.1263888885,-67.1577777774,Puerto Rico,
+Las Mesas,Cobalt,Ni-Co laterite,18.1919444448,-67.100555556,Puerto Rico,
+Akkermanov,Cobalt,Ni-Co laterite,51.2069444446,58.2300000001,Russia,
+Buruktal,Cobalt,Ni-Co laterite,50.8469444446,60.8344444445,Russia,
+Cheremshanskoe,Cobalt,Ni-Co laterite,56.1236111108,60.2963888893,Russia,
+Lipovskoe,Cobalt,Ni-Co laterite,57.4338888888,61.1100000001,Russia,
+Rogozhinskoe,Cobalt,Ni-Co laterite,56.1691666665,60.2636111108,Russia,
+Serovskoe,Cobalt,Ni-Co laterite,59.7138888891,60.5588888888,Russia,
+Sinarskoe,Cobalt,Ni-Co laterite,56.0686111114,60.396111111,Russia,
+Rudjinci,Cobalt,Ni-Co laterite,43.5866666668,20.8402777781,Serbia,
+Isabela Island,Cobalt,Ni-Co laterite,-8.38694444403,159.713888889,Solomon Islands,
+Dutwa,Cobalt,Ni-Co laterite,-3.66499999995,33.4209999998,Tanzania,
+Çaldag,Cobalt,Ni-Co laterite,38.6163888891,27.7691666666,Turkey,
+Clarion-Clipperton zone,Cobalt; Manganese,Sea-floor Fe-Mn(-Ni-Cu-Co-Mo) nodules and crusts,9.9999999999,-140,Pacific Ocean,
+Cook Islands EEZ,Cobalt,Sea-floor Fe-Mn(-Ni-Cu-Co-Mo) nodules,-9.9999999997,-170,Pacific Ocean,
+Pioneer,Cobalt,Sea-floor Fe-Mn(-Ni-Cu-Co-Mo) nodules,-13.9999999998,73.9999999997,Indian Ocean,
+Prime crust zone,Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,14.9999999998,160,Pacific Ocean,
+Nameless,Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,35.1999999999,-14.9999999996,Atlantic Ocean,
+Unicorn,Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,34.6000000002,-14.4999999997,Atlantic Ocean,
+MTR,Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,36.0000000001,-14.9999999996,Atlantic Ocean,
+Afanasiy-Nikitin seamount,Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,-3.0000000002,82.9999999997,Indian Ocean,
+Kimwarer,Fluorite,"Alkaline-volcanic-related epithermal veins, breccia-fills, and carbonate replacements",0.33340000011,35.6269999996,Kenya,
+El Hammam,Fluorite,Tin-granite-related,33.5577999996,-5.80810000031,Morocco,
+Jebel Tirremi,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,34.4427000002,-2.99700000035,Morocco,
+Canxixe area,Fluorite,Deposit type unclassified,-17.5778999996,34.3103,Mozambique,
+Chioco-Djanguire area,Fluorite,Deposit type unclassified,-16.4000000004,32.5833000003,Mozambique,
+Macossa,Fluorite,Deposit type unclassified,-17.9332999997,34.2000000001,Mozambique,
+Mount Muambe,Fluorite,Carbonatite-Related F,-16.3170000003,34.0829999997,Mozambique,
+Okorusu,Fluorite,Carbonatite-Related F,-20.0666999997,16.7667000002,Namibia,
+Buffalo,Fluorite,Tin-granite-related,-24.4814999998,28.6584000002,South Africa,
+Hlabisa,Fluorite,Deposit type unclassified,-28.1333,31.9000000002,South Africa,
+Vergenoeg,Fluorite,Tin-granite-related,-25.2552999996,28.5811000004,South Africa,
+Marico district,Fluorite,Mississippi Valley-type F,-25.7170000004,26.0919999999,South Africa,
+Zwartkloof,Fluorite,Tin granite,-24.8576999996,28.1707,South Africa,
+Jebel Semeih (J. Sumayh),Fluorite,Deposit type unclassified,12.7316000002,30.8371000001,Sudan,
+Hammam Zriba,Fluorite,Salt-Related Carbonate-Hosted F,36.3415000004,10.2044000001,Tunisia,
+Badu,Fluorite,"Related to volcanics of ""normal evolution""",28.0249999999,118.9008,China,
+Chenlou,Fluorite,Deposit type unclassified,33.7667000004,112.0833,China,
+Donggangshan,Fluorite,"Related to volcanics of ""normal evolution""",29.1832999999,112.9833,China,
+Houshu,Fluorite,"Related to volcanics of ""normal evolution""",28.9167000002,119.7,China,
+Huahe,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,31.4000000003,114.5667,China,
+Huayuan district,Fluorite,Mississippi Valley-type F,28.5852999998,109.4739,China,
+Hushan,Fluorite,"Related to volcanics of ""normal evolution""",28.6666999998,118.9333,China,
+Jianshan,Fluorite,"Related to volcanics of ""normal evolution""",32.5333000004,113.85,China,
+Mahuaping,Fluorite,Tin-granite-related,27.3000000004,100.0833,China,
+Shuangjiangkou,Fluorite,Deposit type unclassified,26.9500000002,112.8675,China,
+Sumochagan Obo,Fluorite,"Related to volcanics of ""normal evolution""",43.1230999999,111.27,China,
+Taolin,Fluorite,Tin granite,29.3667000002,113.45,China,
+Yangjia-Wuyi,Fluorite,"Related to volcanics of ""normal evolution""",28.9893,119.8893,China,
+Yinzishan,Fluorite,"Related to volcanics of ""normal evolution""",30.5832999998,119.8675,China,
+Zhuancum,Fluorite,Deposit type unclassified,30.5332999999,118.7675,China,
+Amba Dongar,Fluorite,Carbonatite-Related F,21.9969000002,74.0627999999,India,
+Karadzhal,Fluorite,"Skarns, greisens, veins, and replacements related to strongly differentiated granites",49.9818999999,78.7299000004,Kazakhstan,
+Adag,Fluorite,Alkaline-Volcanic-Related Epithermal F,46.4999999998,109.333,Mongolia,
+Berkh,Fluorite,Alkaline-Volcanic-Related Epithermal F,47.7732999998,111.1693,Mongolia,
+Bor Ondor,Fluorite,Alkaline-Volcanic-Related Epithermal F,46.2681000004,109.4417,Mongolia,
+Mushugai-Khudag,Fluorite,Carbonatite-Related F,44.3728999998,104.1629,Mongolia,
+Urgun (Örgön),Fluorite,Alkaline-Volcanic-Related Epithermal F,44.7058000002,110.7389,Mongolia,
+Zuum-Tsagaan-Del,Fluorite,Alkaline-Volcanic-Related Epithermal F,46.3671,110.0417,Mongolia,
+Kalat district,Fluorite,Mississippi Valley-type F,29.4379000002,67.1485,Pakistan,
+Auninsky,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,54.9000000001,113.1167,Russia,
+Chaakhol,Fluorite,Carbonatite-Related F,51.9097000002,92.3972000002,Russia,
+Kalangui,Fluorite,"Related to volcanics of ""normal evolution""",51.0107999996,116.5294,Russia,
+Karasug,Fluorite,Carbonatite-Related F,51.3050999997,92.1325,Russia,
+Naransky,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,50.9167000003,105.6167,Russia,
+Pogranichny,Fluorite,Tin-granite-related,44.1667000003,132.1833,Russia,
+Suran I & Suran II,Fluorite,Subalkaline-volcanic-related epithermal veins and replacements,53.8369999999,57.8089,Russia,
+"Yermakovka (Yermakovsky, Ermakovsky)",Fluorite,Peralkaline to Alkaline-Intrusion-Related F,51.6736999997,109.5605,Russia,
+Takob,Fluorite,Deposit type unclassified,38.8371000003,68.9387000004,Tajikistan,
+Ban Hong,Fluorite,Subalkaline-Volcanic-Related Epithermal F,18.2126999999,98.8188999997,Thailand,
+Doi Tao district,Fluorite,Deposit type unclassified,17.8791999998,98.7749999997,Thailand,
+Yang Hak district,Fluorite,Deposit type unclassified,13.3666999998,99.4667000004,Thailand,
+Kizilcaören (a.k.a. Beylikahir),Fluorite,Carbonatite-Related F,39.6169999999,31.3649999997,Turkey,
+Suppatash,Fluorite,Deposit type unclassified,41.2058,70.5330999998,Uzbekistan,
+Nui Phao,Fluorite,Tin-granite-related,21.6479000003,105.667,Vietnam,
+Moina,Fluorite; Beryllium,Tin-granite-related; Non-pegmatite,-41.4862,146.0687,Australia,
+Speewah,Fluorite,Carbonatite-Related F,-16.4075,127.9839,Australia,
+Argentolle,Fluorite,Salt-Related Carbonate-Hosted F,46.9740000004,4.0779999999,France,
+Escaro,Fluorite,Salt-Related Carbonate-Hosted F,42.5413999996,2.31479999992,France,
+Montroc,Fluorite,Salt-Related Carbonate-Hosted F,43.8210999998,2.37819999993,France,
+Le Barlet,Fluorite,Salt-Related Carbonate-Hosted F,45.0492,3.49510000007,France,
+Le Burc,Fluorite,Salt-Related Carbonate-Hosted F,43.8731000002,2.4060000004,France,
+Rossignol,Fluorite,Salt-Related Carbonate-Hosted F,46.4211,1.30809999962,France,
+Pakozd,Fluorite,Tin granite,47.2180000002,18.5050000003,Hungary,
+Bruncu Molentinu,Fluorite,Deposit type unclassified,39.4359999996,9.47500000005,Italy,
+Muscadroxiu-GennaTres Montis-S'Acqua Frida (Silius mine),Fluorite,Salt-Related Carbonate-Hosted F,39.5170000001,9.2560000002,Italy,
+Pianciano-Castel Giuliano,Fluorite,Tuffaceous Limy Lacustrine Sediment-hosted F,42.0670000003,12.1440999996,Italy,
+Santo Maria di Sala,Fluorite,Tuffaceous Limy Lacustrine Sediment-hosted F,42.5755000001,11.7469,Italy,
+Asturias region,Fluorite,Salt-Related Carbonate-Hosted F,43.4277000001,-5.62190000038,Spain,
+Osor,Fluorite,Salt-Related Carbonate-Hosted F,41.9496999996,2.59300000035,Spain,
+Sierra Gador district,Fluorite,Deposit type unclassified,36.9251000002,-2.54210000011,Spain,
+Northern Pennine Orefield,Fluorite,Mississippi Valley-type F,54.7946000004,-2.17340000001,United Kingdom,
+Southern Pennine Orefield,Fluorite,Mississippi Valley-type F,53.2742999998,-1.69290000003,United Kingdom,
+Fission (Richardson) mine,Fluorite,Carbonatite-Related F,45.0599999998,-78.1900000003,Canada,
+St. Lawrence district,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,46.9159000002,-55.4072,Canada,
+Aguachile,Fluorite; Beryllium,Alkaline-Volcanic-Related Epithermal F; Carbonate-hosted Be,29.2581999996,-102.5424,Mexico,
+El Refugio mine,Fluorite,"Related to volcanics of ""normal evolution""",21.5702,-100.1771,Mexico,
+Encantada-Buenavista,Fluorite,Salt-Related Carbonate-Hosted F,28.5424,-102.4964,Mexico,
+Las Cuevas,Fluorite,"Related to volcanics of ""normal evolution""",21.9440999998,-100.5816,Mexico,
+Parral district,Fluorite,Deposit type unclassified,26.8500000004,-105.8622,Mexico,
+"La Azul deposit, Taxco district",Fluorite,Deposit type unclassified,18.5889999998,-99.5445999998,Mexico,
+Brown's Canyon district,Fluorite,Deposit type unclassified,38.6315999997,-106.0664,United States of America,Colorado
+Crystal Mountain,Fluorite,"Skarns, greisens, veins, and replacements related to strongly differentiated granites",46.0061999998,-113.8881,United States of America,Montana
+Daisy mine,Fluorite,Alkaline-Volcanic-Related Epithermal F,36.8895999998,-116.6811,United States of America,Nevada
+Great Eagle,Fluorite,Alkaline-Volcanic-Related Epithermal F,32.7255,-108.6763,United States of America,New Mexico
+Hicks Dome,Fluorite; Beryllium,Carbonatite-Related F; Pegmatite,37.5209999997,-88.3539999997,United States of America,Illinois
+Huckleberry mine,Fluorite,Alkaline-Volcanic-Related Epithermal F,33.3171,-108.8214,United States of America,New Mexico
+Illinois-Kentucky fluorspar district,Fluorite; Gallium,Mississippi Valley-type,37.299,-88.2349999997,United States of America,Kentucky
+Indian Peak district,Fluorite,Alkaline-Volcanic-Related Epithermal F,38.2166999996,-113.8333,United States of America,At Cougar Spar Mine
+Jamestown district,Fluorite,Peralkaline to Alkaline-Intrusion-Related F,40.1279999998,-105.3987,United States of America,"At Burlington Mine, Colorado"
+Lost River,Fluorite; Beryllium; Tin,Skarn and Greisen-Hosted Be-F,65.4756000003,-167.155,United States of America,Alaska
+Meyers Cove,Fluorite,Subalkaline-volcanic-related epithermal veins and replacements,44.8540999997,-114.5036,United States of America,"At Big Lead Mine, Idaho"
+Northgate district,Fluorite,"Alkaline-volcanic-related epithermal veins, breccia-fills, and carbonate replacements",40.9244000004,-106.2744,United States of America,"At Pender Mine, Colorado"
+Rome occurrence,Fluorite,Tuffaceous Limy Lacustrine Sediment-hosted F,42.8080000002,-117.7199,United States of America,Oregon
+Sweetwater district,Fluorite; Barite,Mississippi Valley-type F; Residual,35.6013999998,-84.4611000004,United States of America,Tennessee
+White Eagle,Fluorite,Alkaline-Volcanic-Related Epithermal F,32.6123000003,-107.7541,United States of America,New Mexico
+Cerros Negros,Fluorite,"Volcanics of ""normal"" evolution",-32.5019000001,-64.7944999999,Argentina,
+Mato Preto,Fluorite,Carbonatite-Related F,-24.7471000002,-49.1810000002,Brazil,
+Santa Catarina district,Fluorite,"Alkaline-intrusion-related veins, skarns, and carbonate replacements",-26.6222000001,-49.2594999996,Brazil,At Shaft 3 on the Segunda Linha Torrens vein
+Abbeytown,Gallium,Ga in Mississippi Valley-type,54.2200000002,-8.5300000003,Ireland,
+Açailândia,Gallium,Ga in Bauxite,-4.92455555589,-47.5051805557,Brazil,
+Adamaoua,Gallium,Ga in Bauxite,7.41299166623,13.4371388891,Cameroon,
+Admiral Bay,Gallium,Ga in Mississippi Valley-type,-19.2269444441,122.28,Australia,
+Afterthought,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7333329999,-122.083333,United States of America,California
+Alapaevsk,Gallium,Ga in Bauxite,57.844183333,61.6987388888,Russia,
+Alcoa,Gallium,Ga in Bauxite,-32.0370450003,115.832882,Australia,
+Almeirim,Gallium,Ga in Bauxite,-0.898852777933,-52.3774611112,Brazil,
+Amapá,Gallium,Ga in Bauxite,1.43911111109,-52.0220111115,Brazil,
+Amarkantak,Gallium,Ga in Bauxite,22.7065277773,81.7392944447,India,
+Ammonoosuc,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.2686110001,-71.6308329998,United States of America,New Hampshire
+Anantagiri Hills,Gallium,Ga in Bauxite,18.3446239997,82.8631490002,India,
+Andoom,Gallium,Ga in Bauxite,-12.5338777781,141.836908333,Australia,
+Angarsky,Gallium,Ga in Bauxite,52.4600555559,103.976502778,Russia,
+Antler,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",63.8197219997,-148.96,United States of America,Alaska
+Apex Mine,Gallium; Germanium; Indium,Ga and Ge in Kipushi Cu-Zn,37.0694439998,-113.803611,United States of America,Utah
+Aqtas,Gallium,Ga in Bauxite,49.8417666665,73.0183861112,Kazakhstan,
+Arctic,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",67.1738889999,-156.386944,United States of America,Alaska
+Arditurri,Gallium,Ga in Clastic-dominated Pb-Zn,43.1699999998,-1.4899999998,Spain,
+Arqalyk,Gallium,Ga in Bauxite,50.2021194445,66.9193499997,Kazakhstan,
+Ashland,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",33.2722219997,-85.9555559998,United States of America,Alabama
+Astana,Gallium,Ga in Bauxite,51.2085805551,71.5132722219,Kazakhstan,
+Auronzo,Gallium,Ga in Mississippi Valley-type,46.5509700004,12.4435899998,Italy,
+Austinville,Gallium,Ga in Mississippi Valley-type,36.8469444447,-80.9202777778,United States of America,Virginia
+Awaso,Gallium,Ga in Bauxite,6.24754444452,-2.28740277772,Ghana,
+Bafangshan,Gallium,Ga in Clastic-dominated Pb-Zn,33.9499999997,106.833333,China,
+Bainiuchang,Gallium; Indium; Germanium,"Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn",23.5999999997,104.24,China,
+Bakhuis Mountains,Gallium,Ga in Bauxite,4.34811944426,-56.7500972219,Suriname,Guyana
+Balaklala,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7252779999,-122.498056,United States of America,California
+Bald Mountain,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",39.5090500004,-120.83936,United States of America,California
+Ballinalack,Gallium,Ga in Mississippi Valley-type,53.6358660001,-7.46281300032,Ireland,
+Balmat-Edwards,Gallium,Ga in Clastic-dominated Pb-Zn,44.2519444447,-75.3997222222,United States of America,New York
+Bamboutos Mount,Gallium,Ga in Bauxite,5.68065555531,10.2151583334,Cameroon,
+Barrett,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.9656000001,-67.2219300001,United States of America,Maine
+Barzas,Gallium,Ga in Bauxite,55.5430083338,86.0950750002,Russia,
+Beatson,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",60.058333,-147.903333,United States of America,Alaska
+Belgaum,Gallium,Ga in Bauxite,11.7466583333,78.1445277777,India,
+Belinsky,Gallium,Ga in Bauxite,53.0142666663,43.2097833334,Russia,
+Berdsk-Maisy,Gallium,Ga in Bauxite,54.6625249999,83.3428638885,Russia,
+Betts Cove,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",49.8833329996,-55.6333329996,Canada,
+Biela Lipa,Gallium,Ga in Bauxite,44.7168590002,21.2469060002,Serbia,
+Big Bend,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",39.6916669996,-121.431389,United States of America,California
+Big Hill,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.9652779997,-67.2111110003,United States of America,Maine
+Big Mike,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",40.5422220001,-117.556944,United States of America,Nevada
+Big Syncline,Gallium,Ga in Clastic-dominated Pb-Zn,-29.2572222223,18.8019444443,South Africa,
+Bilaspur,Gallium,Ga in Bauxite,22.0938972222,82.2024527781,India,
+Binghampton,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",34.4558329997,-112.193889,United States of America,Arizona
+Bintan Island,Gallium,Ga in Bauxite,0.781630555206,104.546266667,Indonesia,
+Black Angel,Gallium,Ga in Clastic-dominated Pb-Zn,71.1327779999,-51.2827779998,Greenland,
+Black Mountain,Gallium,Ga in Clastic-dominated Pb-Zn,-29.2324999996,18.730277778,South Africa,
+Bleiberg,Gallium,Ga in Mississippi Valley-type,46.6249999996,13.6516666666,Austria,
+Bleikvassli,Gallium,Ga in Clastic-dominated Pb-Zn,65.9233330001,13.8797220004,Norway,
+Bleiriese,Gallium,Ga in Mississippi Valley-type,46.7290299999,13.58206,Austria,
+Blue Ledge,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",41.9499999999,-123.116667,United States of America,California
+Blue Moon,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",35.467778,-115.513333,United States of America,California
+Boddington,Gallium,Ga in Bauxite,-32.8,116.467,Australia,
+Boé,Gallium,Ga in Bauxite,11.7491888889,-14.2170111112,Guinea-Bissau,
+Bokson,Gallium,Ga in Bauxite,51.626475,38.971502778,Russia,
+Bonnifield,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",63.9199999997,-147.38,United States of America,Alaska
+Britannia,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",49.6099999997,-123.141667,Canada,
+Broken Hill,Gallium,Ga in Clastic-dominated Pb-Zn,-31.9666669996,141.466667,Australia,
+Broken Hill,Gallium,Ga in Clastic-dominated Pb-Zn,-29.2572220002,18.801944,South Africa,
+Bruce,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",34.545,-113.230278,United States of America,Arizona
+BT,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",67.1097219996,-155.86,United States of America,Alaska
+Buchans,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",48.8249999997,-56.8583000001,Canada,
+Buick,Gallium,Ga in Mississippi Valley-type,37.58,-91.1299999998,United States of America,Missouri
+Bully Hill-Rising Star,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7991669998,-122.202778,United States of America,California
+Bushy Park,Gallium,Ga in Mississippi Valley-type,-28.4741666663,23.5969444442,South Africa,
+Callahan,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.3461110001,-68.8074999996,United States of America,Maine
+Cannington,Gallium,Ga in Clastic-dominated Pb-Zn,-21.8699999999,140.92,Australia,
+Cape Bougainville,Gallium,Ga in Bauxite,-14.0370166663,126.125869445,Australia,
+Carajás,Gallium,Ga in Bauxite,-2.96312777742,-51.8555638885,Brazil,
+Caribou,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",47.5613300004,-66.29644,Canada,
+Carrickittle,Gallium,Ga in Mississippi Valley-type,52.5100000002,-8.3699999999,Ireland,
+Carriére Sophie,Gallium,Ga in Bauxite,4.92342500036,-52.3271277776,French Guyana,
+Castine,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.3878547002,-68.7997521999,United States of America,Maine
+Castro Verde,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.7000000003,-8.08333300022,Portugal,
+Cataguases,Gallium,Ga in Bauxite,-21.4474833329,-42.8757555552,Brazil,
+Çatmakaya,Gallium,Ga in Bauxite,37.2860694441,31.8846666663,Turkey,
+Central,Gallium,Ga in Bauxite,59.1258027778,99.8605194448,Russia,
+Central Kentucky-Tennessee,Gallium,Ga in Mississippi Valley-type,36.7256970002,-85.3932099999,United States of America,Kentucky
+Central Missouri,Gallium; Barite,"Ga in Mississippi Valley-type; Vein, cavity-fill, metasomatic",38.5958329997,-92.8602779996,United States of America,Missouri
+Century,Gallium,Ga in Clastic-dominated Pb-Zn,-18.7500000002,138.63,Australia,
+Cevennes,Gallium,Ga in Mississippi Valley-type,43.9241666671,3.62277777797,France,
+Changba,Gallium,Ga in Clastic-dominated Pb-Zn,33.9794444447,105.691111111,China,
+Cheremukhovo,Gallium,Ga in Bauxite,60.3440000003,59.9853,Russia,
+Chestatee,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",34.2942000004,-83.9996999999,United States of America,Georgia
+Chester,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",47.1166300002,-66.2325499999,Canada,
+Cirque,Gallium,Ga in Clastic-dominated Pb-Zn,57.509722222,-125.16,Canada,
+Citronen Fjord,Gallium,Ga in Clastic-dominated Pb-Zn,83.0799999999,-28.2500000001,Greenland,
+Claremont-Moneague,Gallium,Ga in Bauxite,18.3554944443,-77.1230777778,Jamaica,
+Cockpit,Gallium,Ga in Bauxite,17.8858138893,-77.1522805552,Jamaica,
+Copper Hill,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",38.5019440002,-120.966667,United States of America,California
+Courtbrown,Gallium,Ga in Mississippi Valley-type,52.6139410001,-9.07138999965,Ireland,
+Coxco,Gallium,Ga in Mississippi Valley-type,-16.5386111107,136.149722222,Australia,
+Crandon,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",45.4708330003,-88.9194440003,United States of America,Wisconsin
+Crest,Gallium,Ga in Mississippi Valley-type,46.6249999996,13.6516666666,Austria,
+Croker Island,Gallium,Ga in Bauxite,-11.1670027779,132.557355556,Australia,
+Dabaoshan,Gallium; Indium; Germanium,"Ga, Ge, and In in Clastic-dominated Sedimentary exhalative Pb-Zn",24.5541666666,113.722222222,China,
+Dajia,Gallium,Ga in Bauxite,22.6247740002,109.184334,China,
+"Dalaba, Dabola",Gallium,Ga in Bauxite,11.688111111,-12.2196055559,Guinea,
+Darling Range,Gallium,Ga in Bauxite,-32.5735140003,116.165139,Australia,
+Degtyarskoe,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",56.7126319999,60.087957,Russia,
+Del Park,Gallium,Ga in Bauxite,-32.5476027775,115.990688889,Australia,
+Dengjiashan,Gallium,Ga in Clastic-dominated Pb-Zn,33.8458333329,105.360277778,China,
+Detour,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",49.8000000004,-78.9429800004,Canada,
+Diandian-Ouroubé,Gallium,Ga in Bauxite,10.7346750004,-13.0426444449,Guinea,
+Dogankuzu,Gallium,Ga in Bauxite,37.2745166668,31.8862944446,Turkey,
+Drenchwater,Gallium,Ga in Clastic-dominated Pb-Zn,68.5666670004,-158.683333,United States of America,Alaska
+Ducktown,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",35.0088890001,-84.3947219997,United States of America,Tennessee
+Duddar,Gallium,Ga in Clastic-dominated Pb-Zn,26.2333000004,64.6617000004,Pakistan,
+Dugald River,Gallium,Ga in Clastic-dominated Pb-Zn,-20.2499999999,140.15,Australia,
+Dy,Gallium,Ga in Clastic-dominated Pb-Zn,62.2300000002,-133.14,Canada,
+Early Bird,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7329500002,-122.5108,United States of America,California
+East Maui,Gallium,Ga in Bauxite,20.7133790001,-156.189599,United States of America,Hawaii
+East Sullivan,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",48.3180900004,-79.2013999997,Canada,
+Eastern Tennessee,Gallium,Ga in Mississippi Valley-type,36.0766666667,-83.6130555554,United States of America,Tennessee
+Eclipse,Gallium,Ga in Mississippi Valley-type,75.5694444445,-96.1938888892,Canada,
+Eight Dollar Mountain,Gallium,Ga in Bauxite,42.2587499999,-123.661233334,United States of America,Oregon
+Ekibastoz-Pavlodar,Gallium,Ga in Bauxite,51.6815500001,75.3933805559,Kazakhstan,
+Elmwood-Gordonsville district,Gallium; Germanium,Ga and Ge in Mississippi Valley-type,36.1952777774,-85.933333333,United States of America,Tennessee
+Elura,Gallium,Ga in Clastic-dominated Pb-Zn,-31.1613888891,145.656666667,Australia,
+Emerson,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.4099499997,-68.7732700003,United States of America,Maine
+Essex Valley,Gallium,Ga in Bauxite,17.983583333,-77.6266833334,Jamaica,
+Estação,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.8593500004,-8.15820999979,Portugal,
+Eufaula,Gallium,Ga in Mississippi Valley-type,31.7516666664,-85.2891666671,United States of America,Alabama
+Fankou,Gallium; Germanium,Ga in Mississippi Valley-type; Sedimentary-exhalative Pb-Zn,25.1100000001,113.629167,China,
+Faro,Gallium,Ga in Clastic-dominated Pb-Zn,62.3566666667,-133.366944445,Canada,
+Filizchai,Gallium,Ga in Clastic-dominated Pb-Zn,41.7172222226,46.4141666668,Azerbaijan,
+Filon Sur,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.2260299996,-3.64769999986,Spain,
+Flambeau,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",45.5139999999,-91.1399999996,United States of America,Wisconsin
+Flin Flon,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",54.7500000004,-102,Canada,
+Fongo-Tongo,Gallium,Ga in Bauxite,5.60409999992,10.0803277778,Cameroon,
+Fox,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",56.63537,-101.65235,Canada,
+"Fria, Fria Kimbo",Gallium,Ga in Bauxite,10.4038194441,-13.5733249998,Guinea,
+Friedensville,Gallium,Ga in Mississippi Valley-type,40.5544444442,-75.4049999998,United States of America,Pennsylvania
+Furutobe-Ainai,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.3984699999,140.71527,Japan,
+Galang Island,Gallium,Ga in Bauxite,0.746861111051,104.229213889,Indonesia,
+Galikonda,Gallium,Ga in Bauxite,18.2938777774,82.9800694448,India,
+Gamsberg,Gallium,Ga in Clastic-dominated Pb-Zn,-29.2519444448,18.9811111109,South Africa,
+Gánt,Gallium,Ga in Bauxite,47.3725500002,18.391827778,Hungary,
+Garrycam,Gallium,Ga in Mississippi Valley-type,53.6499999999,-7.7200000003,Ireland,
+Gayna River,Gallium,Ga in Mississippi Valley-type,64.9333333338,-130.683333333,Canada,
+Gays River,Gallium,Ga in Mississippi Valley-type,45.0286111108,-63.3388888888,Canada,
+Giant,Gallium,Ga in Mississippi Valley-type,49.1666669996,-121.033333,Canada,
+Golden Grove,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",-28.7794599997,116.96603,Australia,
+Gopher Ridge,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.9544439997,-120.744167,United States of America,California
+Gorno,Gallium,Ga in Mississippi Valley-type,45.8636111108,9.84249999968,Italy,
+Gove,Gallium,Ga in Bauxite,-12.263241667,136.840355555,Australia,
+Grand-Calumet,Gallium,Ga in Clastic-dominated Pb-Zn,45.7005555558,-76.6777777778,Canada,
+Gray Eagle,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",41.8633329998,-123.371111,United States of America,California
+Greens Creek,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",58.0794193001,-134.630475814,United States of America,Alaska
+Grum,Gallium,Ga in Clastic-dominated Pb-Zn,62.2692600003,-133.224426,Canada,
+H.B.,Gallium,Ga in Clastic-dominated Pb-Zn,49.1522219998,-117.198611,Canada,
+"Hall, Veneer",Gallium,Ga in Bauxite,34.2434444441,-83.7970027779,United States of America,Georgia
+Hanaoka,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.2984700001,140.56528,Japan,
+Hawley-Bernard,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",42.5644440002,-72.8783329999,United States of America,Massachusetts
+Heath Steele B-1,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",47.2832599996,-66.0825700002,Canada,
+Helicon,Gallium,Ga in Bauxite,38.3538749996,22.8241722221,Greece,
+Hillabee,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",32.9999999998,-85.931944,United States of America,Alabama
+Hilton,Gallium,Ga in Clastic-dominated Pb-Zn,-20.5467499996,139.28222,Australia,
+Hixbar,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",13.21701,124.14923,Philippines,
+Hochobir,Gallium,Ga in Mississippi Valley-type,46.4999999998,14.4833330002,Austria,
+Horne-Quemont,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",48.2499900003,-79.0164000003,Canada,
+Howard's Pass,Gallium,Ga in Clastic-dominated Pb-Zn,62.5644444441,-129.527222222,Canada,
+Huize,Gallium; Germanium,Ga and Ge in Mississippi Valley-type,26.6338888892,103.700277778,China,
+Huntly,Gallium,Ga in Bauxite,-32.5849111113,116.055736111,Australia,
+Iberian Pyrite Belt,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.6066670004,-7.12055600016,Spain,
+Iksa,Gallium,Ga in Bauxite,56.1901666664,37.4857277778,Russia,
+Indian Creek,Gallium,Ga in Mississippi Valley-type,38.0799999999,-90.8800000003,United States of America,Missouri
+Iron Dyke,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",45.0267600003,-116.85851,United States of America,Oregon
+Iron King,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",34.7053399998,-112.09044,United States of America,Arizona
+Iron Mountain,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7694439996,-122.465,United States of America,California
+Iszkaszentgyörgy,Gallium,Ga in Bauxite,47.2686444444,18.2927972222,Hungary,
+Ivdel,Gallium,Ga in Bauxite,60.697855556,60.4772777774,Russia,
+Jamnagar,Gallium,Ga in Bauxite,21.8624609996,70.2600589998,India,
+Jamu and Kashmir,Gallium,Ga in Bauxite,33.1189138889,74.8090361108,India,
+Jarrahdale,Gallium,Ga in Bauxite,-32.3244388887,116.064391667,Australia,
+Jerome,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",34.7508329996,-112.109444,United States of America,Arizona
+Jersey,Gallium,Ga in Clastic-dominated Pb-Zn,50.4898300004,-120.98126,Canada,
+Jiashengpan,Gallium,Ga in Clastic-dominated Pb-Zn,41.2305560004,109.32,China,
+Jinja,Gallium,Ga in Bauxite,0.433133332937,33.2182472221,Uganda,
+João Bernardo,Gallium,Ga in Bauxite,-3.79943055598,-49.6206277774,Brazil,
+Kal'ya,Gallium,Ga in Bauxite,60.2173444449,60.0013750003,Russia,
+Kalyanpur,Gallium,Ga in Bauxite,22.3181789998,69.04283,India,
+Kannur,Gallium,Ga in Bauxite,12.0287388886,75.2072305555,India,
+Kara,Gallium,Ga in Bauxite,63.648611111,62.1097222218,Russia,
+Karpinsk,Gallium,Ga in Bauxite,59.748730556,59.9576861115,Russia,
+Kasli,Gallium,Ga in Bauxite,55.8798138892,60.7546499996,Russia,
+Katni,Gallium,Ga in Bauxite,23.8129055557,80.3865083333,India,
+Kauai,Gallium,Ga in Bauxite,22.0592416664,-159.502275,United States of America,Hawaii
+Keel,Gallium,Ga in Mississippi Valley-type,53.6499999999,-7.7300000001,Ireland,
+Kendall Core,Gallium,Ga in Bauxite,18.0729805552,-77.5011444446,Jamaica,
+Keystone,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.984235797,-120.647826987,United States of America,California
+Khiona,Gallium,Ga in Bauxite,38.5428861112,22.6087250003,Greece,
+Kholodnina,Gallium,Ga in Clastic-dominated Pb-Zn,55.8801999996,109.7535,Russia,
+Khusib Springs,Gallium,Ga in Clastic-dominated Pb-Zn,-19.4261111112,18.0219444446,Namibia,
+Kibi,Gallium,Ga in Bauxite,6.16206944455,-0.592302777751,Ghana,
+Kidd Creek,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",48.6900000001,-81.3666669998,Canada,
+Kijang,Gallium,Ga in Bauxite,0.959913888815,104.493888889,Indonesia,
+Kindia,Gallium,Ga in Bauxite,9.88965000035,-13.1111222222,Guinea,
+Kipushi,Gallium; Germanium,Ga and Ge in Kipushi Zn-Pb-Cu,-11.7694439998,27.2355559999,Democratic Republic of the Congo,
+Kokpatas,Gallium,Ga in Bauxite,42.2639611107,63.9002055554,Uzbekistan,
+Kolhapur,Gallium,Ga in Bauxite,16.6904944448,74.2613527781,India,
+Koraput,Gallium,Ga in Bauxite,18.565352778,82.9645388888,India,
+Kotagiri,Gallium,Ga in Bauxite,11.4300000001,76.8799999997,India,
+Koushk,Gallium,Ga in Clastic-dominated Pb-Zn,31.7488309997,55.7677189998,Iran,
+Kozhim,Gallium,Ga in Bauxite,64.9548416664,59.6180972218,Russia,
+Kozyreevsky,Gallium,Ga in Bauxite,56.0485750004,159.881472222,Russia,
+Krasnaya Shapochka,Gallium,Ga in Bauxite,60.1677944442,59.991155556,Russia,
+Krasnovishersk,Gallium,Ga in Bauxite,60.4134749999,57.1375472226,Russia,
+Krasny Oktyabr,Gallium,Ga in Bauxite,47.6400722223,38.051013889,Ukraine,
+Kulga,Gallium,Ga in Bauxite,54.4677055558,36.2530222226,Russia,
+Kunitomi,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",43.0083329999,140.658333,Japan,
+Kunmin,Gallium,Ga in Bauxite,24.8775600001,102.821176,China,
+Kutch-Kathiawar,Gallium,Ga in Bauxite,23.6655190003,70.7318530003,India,
+Kutcho Creek,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",58.1999999998,-128.366667,Canada,
+La Zarza,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.69933,-6.89820999979,Spain,
+Lady Loretta,Gallium,Ga in Clastic-dominated Pb-Zn,-19.7675000003,139.07,Australia,
+Lages,Gallium,Ga in Bauxite,-27.8113166667,-50.3168555552,Brazil,
+Lake Monte,Gallium,Ga in Mississippi Valley-type,50.5171999999,-119.7999,Canada,
+"Langshon, Lang Sen",Gallium,Ga in Bauxite,21.8749638891,106.750166667,Vietnam,
+Lanjigarh,Gallium,Ga in Bauxite,19.7112750004,83.3986166662,India,
+Laochang,Gallium; Indium; Germanium,"Ga, Ge, and In in Volcanogenic Massive Sulfide, Kuroko type",22.7416670002,99.7250000004,China,
+Lelydorp,Gallium,Ga in Bauxite,5.64824166672,-55.2124611108,Suriname,Guyana
+Lijiagou,Gallium,Ga in Clastic-dominated Pb-Zn,33.9794444447,105.691111111,China,
+Limonitovoye,Gallium,Ga in Clastic-dominated Pb-Zn,58.2399999999,93.1900000002,Russia,
+Lisheen,Gallium; Germanium,Ga in Clastic-dominated Pb-Zn; Irish-type,52.7591666663,-7.71138888919,Ireland,
+Little Red Mountain,Gallium,Ga in Bauxite,39.9100000002,-123.67,United States of America,California
+Lohardaga,Gallium,Ga in Bauxite,23.4456950002,84.6916180001,India,
+Lokken,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",63.1333330001,9.6999999996,Norway,
+Los Islands,Gallium,Ga in Bauxite,9.47513333354,-13.7487583333,Guinea,
+Loz'va,Gallium,Ga in Bauxite,59.4464694442,62.3655472219,Russia,
+Mackat,Gallium,Ga in Bauxite,43.8424830002,19.8073970004,Serbia,
+Magmont-West,Gallium,Ga in Mississippi Valley-type,37.637373,-91.1297249997,United States of America,Missouri
+Mammoth,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7611300002,-122.45363,United States of America,California
+Manchester,Gallium,Ga in Bauxite,18.0699000004,-77.552697222,Jamaica,
+Marchinbar Island,Gallium,Ga in Bauxite,-11.2664027779,136.622416666,Australia,
+Martap,Gallium,Ga in Bauxite,6.89424444483,13.0476,Cameroon,
+Masatdagi,Gallium,Ga in Bauxite,36.5754229996,32.0469690004,Turkey,
+Mavrovouni,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",34.9333329998,32.8666669998,Cyprus,
+Maxer Baenke,Gallium,Ga in Mississippi Valley-type,46.6333329998,13.6666670004,Austria,
+McArthur River,Gallium,Ga in Clastic-dominated Pb-Zn,-16.4327777781,136.995833334,Australia,
+Mehdiabad,Gallium,Ga in Mississippi Valley-type; Clastic-dominated,31.0330560002,55.2805560002,Iran,
+Mengxing,Gallium,Ga in Mississippi Valley-type,23.8666669998,99.183333,China,
+Metalline district,Gallium,Ga in Mississippi Valley-type,48.882222222,-117.360833333,United States of America,Washington
+Mežica,Gallium,Ga in Mississippi Valley-type,46.5144444447,14.8522222222,Slovenia,
+Milan,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.5652300001,-71.2536099997,United States of America,New Hampshire
+Minim,Gallium,Ga in Bauxite,6.96812222206,12.8701083333,Cameroon,
+Mitchell Plateau,Gallium,Ga in Bauxite,-15.2218194442,125.990833334,Australia,
+Mochia,Gallium,Ga in Clastic-dominated Pb-Zn,24.3599999998,73.7199999999,India,
+Moengo-Ricanau,Gallium,Ga in Bauxite,5.57083333369,-54.2784999998,Suriname,Guyana
+Mofjellet,Gallium,Ga in Clastic-dominated Pb-Zn,66.2833000004,14.1999999996,Norway,
+Moinho,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.86685,-8.1649100003,Portugal,
+Mokanpura North,Gallium,Ga in Clastic-dominated Pb-Zn,24.9999999996,74.1299999998,India,
+Monarch-Kicking Horse,Gallium,Ga in Mississippi Valley-type,51.4238888893,-116.447222222,Canada,
+Monghyr,Gallium,Ga in Bauxite,25.3785630004,86.5095210001,India,
+Mons Cupri,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",-20.9965999999,117.99936,Australia,
+Morro Agudo,Gallium,Ga in Clastic-dominated Pb-Zn,-17.5038888889,-46.8208333329,Brazil,
+Moss Vale,Gallium,Ga in Bauxite,-34.5350138891,150.367022222,Australia,
+Motoyama,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",43.9275300002,142.73597,Japan,
+Mount Chase,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.4643999998,-68.7111000004,United States of America,Maine
+Mount Ejuanema,Gallium,Ga in Bauxite,6.5665138888,-0.766649999997,Ghana,
+Mount Read,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",-41.8333330002,145.533333,Australia,
+Mount Saddleback,Gallium,Ga in Bauxite,-32.9396944444,116.457763889,Australia,
+Mousoulos,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",34.7908800001,33.2595099999,Cyprus,
+Moyvoughly,Gallium,Ga in Mississippi Valley-type,53.4500000003,-7.6800000002,Ireland,
+Myra Falls,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",49.5755560004,-125.595833,Canada,
+Nancy Island,Gallium,Ga in Mississippi Valley-type,51.7999999002,-123.5499999,Canada,
+Nandana,Gallium,Ga in Bauxite,22.1220529998,69.2913250002,India,
+Nanisivik,Gallium,Ga in Mississippi Valley-type,73.0616666664,-84.5083333331,Canada,
+Nanting,Gallium,Ga in Bauxite,36.5430610001,120.127011,China,
+Nassau Mountains,Gallium,Ga in Bauxite,4.86355000013,-54.6302916662,Suriname,Guyana
+Naurzum,Gallium,Ga in Bauxite,51.5160083332,64.516955556,Kazakhstan,
+Navan,Gallium,Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type,53.6544444441,-6.71527777735,Ireland,
+New Brunswick No. 12,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",47.478889,-65.8922219996,Canada,
+New Georgia Group,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",32.7797430004,-83.3740639997,United States of America,Georgia
+Newfoundland Zinc,Gallium,Ga in Mississippi Valley-type,50.2799999998,-57.4699999998,Canada,
+Newton,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",38.3415699997,-120.88713,United States of America,California
+Nickel Mountain,Gallium,Ga in Bauxite,42.9650777777,-123.439883333,United States of America,Oregon
+Niujiaotang,Gallium,Ga in Mississippi Valley-type,26.235833333,107.665277778,China,
+Nizhnie Ser'gi,Gallium,Ga in Bauxite,56.6774111113,59.2826611108,Russia,
+North Haven,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.1297789003,-68.8741499004,United States of America,Maine
+North Keystone,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.9871200002,-120.64768,United States of America,California
+North Kottavalasa,Gallium,Ga in Bauxite,17.9085861112,83.232163889,India,
+Northern Arkansas,Gallium,Ga in Mississippi Valley-type,36.3408330002,-92.8077779996,United States of America,Arkansas
+Novo-Kalinskaya,Gallium,Ga in Bauxite,60.1988749997,59.9750055559,Russia,
+Obrovac,Gallium,Ga in Bauxite,45.3205472222,19.3497722225,Serbia,
+Obukhovo,Gallium,Ga in Bauxite,54.2469611113,85.7815638886,Russia,
+Old Lead Belt,Gallium,Ga in Mississippi Valley-type,37.8958333329,-90.5224999996,United States of America,Missouri
+Oldcastle,Gallium,Ga in Mississippi Valley-type,53.7731990002,-7.16421099974,Ireland,
+Onverdacht,Gallium,Ga in Bauxite,5.59198611127,-55.1102999996,Suriname,Guyana
+Orange & Gove,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",43.8833000002,-72.3536599998,United States of America,Vermont
+Orange Point,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",58.9228200003,-137.00212,United States of America,Alaska
+Orsk,Gallium,Ga in Bauxite,51.2962000002,58.4473055558,Russia,
+Ouro Prêto,Gallium,Ga in Bauxite,-20.2000333334,-43.4841555555,Brazil,
+Ouse-Saint Leonards,Gallium,Ga in Bauxite,-42.4213472224,146.526258334,Australia,
+Ozernoe,Gallium,Ga in Clastic-dominated Pb-Zn,52.5000000004,112.5,Russia,
+Padurea Craiului,Gallium,Ga in Bauxite,46.9159416667,22.5121861115,Romania,
+Paedang,Gallium,Ga in Mississippi Valley-type,16.6613888886,98.6619444446,Thailand,
+Palamau,Gallium,Ga in Bauxite,24.1284719996,84.1857080001,India,
+Palni Hills,Gallium,Ga in Bauxite,10.1977249998,77.5013805555,India,
+Paragominos,Gallium,Ga in Bauxite,-11.6902527779,-49.0773583334,Brazil,
+Parys Mountain,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",53.3865400002,-4.34122,Great Britain,
+Pavlodar,Gallium,Ga in Bauxite,52.2621249998,77.0803500002,Kazakhstan,
+Pavolovskoye,Gallium,Ga in Mississippi Valley-type,72.9199999997,55.1700000001,Russia,
+Pecos,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",35.7591983996,-105.668906,United States of America,New Mexico
+Pelican,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",45.5969399999,-89.295,United States of America,Wisconsin
+Penn,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",38.2301900003,-120.87491,United States of America,California
+Pering,Gallium,Ga in Mississippi Valley-type,-27.4305555556,24.2697222226,South Africa,
+Pillara,Gallium,Ga in Mississippi Valley-type,-18.3074999998,125.772222,Australia,
+Pine Point,Gallium,Ga in Mississippi Valley-type,60.8322222224,-114.448888889,Canada,
+Pita-Labé,Gallium,Ga in Bauxite,11.357986111,-12.4609194444,Guinea,
+Plesetsk,Gallium,Ga in Bauxite,62.6509694448,40.3931333329,Russia,
+Poço de Caldas,Gallium,Ga in Bauxite,-21.8608694449,-46.5858361115,Brazil,
+Pocuta,Gallium,Ga in Bauxite,44.2384899996,19.7464759996,Serbia,
+Polaris,Gallium,Ga in Mississippi Valley-type,75.3877777777,-96.9311111114,Canada,
+Portel,Gallium,Ga in Clastic-dominated Pb-Zn,38.3088689,-7.70474380039,Portugal,
+Porto Trombetas,Gallium,Ga in Bauxite,-1.67938055557,-56.4482416666,Brazil,
+Pripyat,Gallium,Ga in Bauxite,51.3403611113,29.9455250001,Ukraine,
+Pulaski-Saline,Gallium,Ga in Bauxite,34.6790527778,-92.2758444444,United States of America,Arkansas
+Puzla,Gallium,Ga in Bauxite,62.4294333334,54.6801388886,Russia,
+Pyhäsalmi,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",63.65771,25.05159,Finland,
+Qingchengzi,Gallium,Ga in Clastic-dominated Pb-Zn,40.73,123.59,China,
+Queyang,Gallium,Ga in Bauxite,26.659226,106.590368,China,
+Quoddy,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.9295235002,-67.0302577001,United States of America,Maine
+Raibl,Gallium,Ga in Mississippi Valley-type,46.4411111107,13.5713888892,Italy,
+Raibl Bed,Gallium,Ga in Mississippi Valley-type,47.2789169999,11.2576939997,Austria,
+Rajpura-Dariba,Gallium,Ga in Clastic-dominated Pb-Zn,24.9502777778,74.1338888887,India,
+Rakkejaur,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",64.8653399996,20.3365199997,Sweden,
+Rammelsberg,Gallium; Barite,Ga in Clastic-dominated Pb-Zn; Bedded-sedimentary,51.8905555553,10.4194444443,Germany,
+Rampura-Agucha,Gallium,Ga in Clastic-dominated Pb-Zn,25.8322222222,74.7386111115,India,
+Ranchi,Gallium,Ga in Bauxite,24.6553030002,84.5772430002,India,
+Red Flats,Gallium,Ga in Bauxite,42.3522222221,-124.298333333,United States of America,Oregon
+Reeves-MacDonald,Gallium,Ga in Clastic-dominated Pb-Zn,49.0302777777,-117.344166666,Canada,
+Reocin,Gallium,Ga in Mississippi Valley-type,43.3450000003,-4.08472222245,Spain,
+Riau Archipelago,Gallium,Ga in Bauxite,0.241588888716,101.747805555,Indonesia,
+Rio Tinto,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.6927499996,-6.59628999998,Spain,
+Robb Lake,Gallium,Ga in Mississippi Valley-type,56.93,-123.713055555,Canada,
+Rosh Pinah,Gallium,Ga in Clastic-dominated Pb-Zn,-27.950555556,16.7644444448,Namibia,
+Roura Mountains,Gallium,Ga in Bauxite,4.72605555552,-52.3092833334,French Guyana,
+Ruby Creek (Bornite),Gallium,Ga in Kipushi Cu-Zn,67.0627780003,-156.946944,United States of America,Alaska
+Ruby Lake,Gallium,Ga in Mississippi Valley-type,54.0999019891,-122.986344391,Canada,
+Russell Cove,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",58.9414200001,-136.81742,United States of America,Alaska
+Ruttan,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",56.4750700002,-99.6377799998,Canada,
+Saint Ann,Gallium,Ga in Bauxite,18.3275861115,-77.2403861108,Jamaica,
+Saint Catherine,Gallium,Ga in Bauxite,18.0345805551,-77.0560111114,Jamaica,
+Saint Elizabeth,Gallium,Ga in Bauxite,17.9638611115,-77.6207833329,Jamaica,
+Saladipura,Gallium,Ga in Clastic-dominated Pb-Zn,27.6499999997,75.5299999997,India,
+Salafossa,Gallium,Ga in Mississippi Valley-type,46.5669444447,12.5833333332,Italy,
+Salem,Gallium,Ga in Bauxite,11.7031611108,78.1219666663,India,
+Sambalpur,Gallium,Ga in Bauxite,21.487741667,83.9804166666,India,
+San Antonio,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",41.3294440001,0.872778000205,Spain,
+Sangaredi,Gallium,Ga in Bauxite,11.0938305558,-13.7675555553,Guinea,
+Santa Lucia,Gallium,Ga in Clastic-dominated Pb-Zn,22.6427777774,-83.9558333331,Cuba,
+São João del Rei,Gallium,Ga in Bauxite,-21.1145194447,-44.2094500002,Brazil,
+Schmalgraf,Gallium,Ga in Mississippi Valley-type,50.697222,5.98638899985,Belgium,
+Schugorsk,Gallium,Ga in Bauxite,61.6472694443,50.8529777777,Russia,
+Severoural'sk,Gallium,Ga in Bauxite,60.1351333337,59.9530166669,Russia,
+Seydisehir,Gallium,Ga in Bauxite,37.4493305554,31.8781972223,Turkey,
+Shasta King,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7329100002,-122.49721,United States of America,California
+Shchuchinsky,Gallium,Ga in Bauxite,52.9247361115,70.1699444442,Kazakhstan,
+Shevaroy Hills,Gallium,Ga in Bauxite,11.8270805553,78.2278305552,India,
+Shimkent,Gallium,Ga in Bauxite,42.2945000001,69.6182555553,Kazakhstan,
+Silesia-Krakow,Gallium,Ga in Mississippi Valley-type,50.3500000002,18.9666669997,Poland,
+Silver Basin,Gallium,Ga in Mississippi Valley-type,63.9625,-135.1616667,Canada,
+Silvermines,Gallium; Germanium,Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type; Sedimentary exhalative Pb-Zn,52.7897222219,-8.25444444466,Ireland,
+Sindesar,Gallium,Ga in Clastic-dominated Pb-Zn,25.0036109997,74.1455560004,India,
+Smartville,Gallium,"Ga in Volcanogenic Massive Sulfide, Cypress type",39.1750000001,-121.291667,United States of America,California
+Snake River,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",45.5077779999,-116.561667,United States of America,Oregon
+Sokolovo,Gallium,Ga in Bauxite,57.2045583334,35.3307416664,Russia,
+Sorby Hills,Gallium,Ga in Mississippi Valley-type,-15.4427777781,128.958888889,Australia,
+Sos'va-Salekhard,Gallium,Ga in Bauxite,63.930225,61.4675416664,Russia,
+Sotiel,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",37.3993400001,-6.52821999955,Spain,
+South Kottavalasa,Gallium,Ga in Bauxite,17.9069499997,83.2046722219,India,
+Southeast Missouri Pb-Zn district,Gallium,Ga in Mississippi Valley-type,37.6329099722,-90.7240657063,United States of America,Missouri
+Standing Pond,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",43.1563750001,-72.290946,United States of America,New Hampshire
+Stowell,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.71235,-122.51554,United States of America,California
+Sulat,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",11.80045,125.38251,Philippines,
+Sullivan,Gallium,Ga in Clastic-dominated Pb-Zn,49.7083333336,-116.005555556,Canada,
+Sumdum,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",57.7847220002,-133.450833,United States of America,Alaska
+Surguja,Gallium,Ga in Bauxite,21.2492861109,81.6075499999,India,
+Sutro,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.7812400004,-122.46443,United States of America,California
+Swim,Gallium,Ga in Clastic-dominated Pb-Zn,62.2099999997,-133.03,Canada,
+Tambourine,Gallium,Ga in Bauxite,-27.8564361115,153.114363889,Australia,
+Tapley,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",44.3681300002,-68.7408200003,United States of America,Maine
+Tatestown,Gallium,Ga in Mississippi Valley-type,53.6865969996,-6.70945599989,Ireland,
+Tayan,Gallium,Ga in Bauxite,0.149991666682,110.798433333,Indonesia,
+Tekeli,Gallium,Ga in Clastic-dominated Pb-Zn,44.8108333337,78.8619444446,Kazakhstan,
+Tikhvin,Gallium,Ga in Bauxite,59.5384694447,33.6642638892,Russia,
+Timsher,Gallium,Ga in Bauxite,62.2383277781,55.118825,Russia,
+Topla,Gallium,Ga in Mississippi Valley-type,46.4667000002,14.8000000002,Slovenia,
+Tougué,Gallium,Ga in Bauxite,11.4915138889,-11.8047694445,Guinea,
+Touissit-Bou Beker-El Abed,Gallium,Ga in Mississippi Valley-type,32.8236111115,-4.93749999993,Morocco,
+Tran,Gallium,Ga in Bauxite,42.8361027781,22.650113889,Bulgaria,
+Trepça,Gallium,Ga in Clastic-dominated Pb-Zn,42.9388889999,20.9166670003,Serbia,
+Tres Marias,Gallium,Ga in Mississippi Valley-type,29.142778,-103.665833,Mexico,
+Tri-State District,Gallium,Ga in Mississippi Valley-type,37.0833333337,-94.6499999996,United States of America,Kansas
+Tsumeb,Gallium,Ga in Clastic-dominated Pb-Zn,-19.2394444441,17.7161111114,Namibia,
+Tucuruí,Gallium,Ga in Bauxite,-3.80603333347,-49.6636250002,Brazil,
+Tula,Gallium,Ga in Bauxite,54.1709222218,37.7160388892,Russia,
+Tverrfjellet,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",62.2288300002,9.48306000032,Norway,
+Tynagh,Gallium,Ga in Clastic-dominated Pb-Zn; Mississippi Valley-type,53.1650000001,-8.37638888894,Ireland,
+Uchalinskoe,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",54.3018589998,59.4184369996,Russia,
+Uchinotai-Uwamuki,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",40.3284700004,140.7483,Japan,
+Ukhta,Gallium,Ga in Bauxite,63.5573250004,53.9935416663,Russia,
+Upper Mississippi Valley district,Gallium,Ga in Mississippi Valley-type,42.8271236905,-90.0121687346,United States of America,Wisconsin
+Urslja Gora,Gallium,Ga in Mississippi Valley-type,46.5113600003,14.9514900003,Slovenia,
+Vangorda,Gallium,Ga in Clastic-dominated Pb-Zn,62.2499999998,-133.18,Canada,
+Vezhayu-Vorykva,Gallium,Ga in Bauxite,64.7313770002,49.668999,Russia,
+Viburnum Trend,Gallium,Ga in Mississippi Valley-type,37.7047960002,-91.109683,United States of America,Missouri
+Viscaria,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",67.8487100002,20.0036499998,Sweden,
+Vislovo,Gallium,Ga in Bauxite,54.3571166666,35.817330556,Russia,
+Voelsberg,Gallium,Ga in Bauxite,51.1335499999,11.2417472221,Germany,
+Vysokopl'ye,Gallium,Ga in Bauxite,46.5920444448,33.0478833337,Ukraine,
+Walton,Gallium,Ga in Clastic-dominated Pb-Zn,45.2055555553,-64.0416666666,Canada,
+Washington,Gallium,Ga in Bauxite,47.4245361115,-120.213341666,United States of America,Washington
+Weipa,Gallium,Ga in Bauxite,-12.6498861115,141.866691667,Australia,
+West Fork,Gallium,Ga in Mississippi Valley-type,37.5099999996,-91.12,United States of America,Missouri
+West Maui,Gallium,Ga in Bauxite,21.0005555557,-156.545277778,United States of America,Hawaii
+Willowdale,Gallium,Ga in Bauxite,-32.8945666665,115.925913889,Australia,
+Windisch-Bleiberg,Gallium,Ga in Mississippi Valley-type,46.4906999999,14.2335299999,Austria,
+Winterville,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",46.9702999997,68.5716999996,Kazakhstan,
+Wisconsin-Illinois,Gallium,Ga in Mississippi Valley-type,42.492713,-89.0321299997,United States of America,Illinois
+Woodlawn,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",-33.0796000002,149.16524,Australia,
+Xinxu,Gallium,Ga in Bauxite,23.2044459996,106.348675,China,
+Yakovlevo,Gallium,Ga in Bauxite,50.8740027778,36.4316888886,Russia,
+Yavapai,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",33.0855559999,-109.360556,United States of America,Arizona
+Yercaud I,Gallium,Ga in Bauxite,11.8322944441,78.2305833333,India,
+Yercaud II,Gallium,Ga in Bauxite,11.8162694444,78.2198638893,India,
+Yuzhnoural'sk,Gallium,Ga in Bauxite,54.4307361109,61.2029388892,Russia,
+Zaostrovsk,Gallium,Ga in Bauxite,58.0082055557,56.1311166664,Russia,
+Zapadno-Ozernoye,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",54.3141999996,59.4341999998,Russia,
+Zawar,Gallium,Ga in Clastic-dominated Pb-Zn,24.3636111115,73.716111111,India,
+Zhairem,Gallium,Ga in Clastic-dominated Pb-Zn,48.2763888885,70.2294444442,Kazakhstan,
+Zinkgruvan,Gallium,Ga in Clastic-dominated Pb-Zn,58.82,15.0999999996,Sweden,
+Quebrada Del Gato,Graphite,Crystalline Graphite,-31.4307499999,-68.1327499999,Argentina,
+Undercliff,Graphite,Amorphous Graphite,-28.6606999999,152.21,Australia,
+Jack's Creek,Graphite,Amorphous Graphite,-20.66525,147.86667,Australia,
+Koppio-Uley mines,Graphite,Crystalline Graphite,-34.8013200002,135.71167,Australia,
+Munglinup River,Graphite,Crystalline Graphite,-33.4960000003,120.84919,Australia,
+Doppl-Muehldorf-Zettlitz,Graphite,Crystalline Graphite,48.38199,15.45211,Austria,
+Kaisersberg-Trieben,Graphite,Amorphous Graphite,47.3478699997,15.0666700004,Austria,
+Itanhem,Graphite,Crystalline Graphite,-17.0988000003,-40.3500000002,Brazil,
+Itapacerica,Graphite,Crystalline Graphite,-20.4319000003,-45.1333000002,Brazil,
+Pedra Azul,Graphite,Crystalline Graphite,-15.8821700002,-45.1333000002,Brazil,
+Bisset Creek,Graphite,Crystalline Graphite,46.2311899998,-78.0666700002,Canada,
+Coronation,Graphite,Crystalline Graphite,45.2892500002,-77.9416699996,Canada,
+Graphite Lake-Ryerson-Todd area,Graphite,Crystalline Graphite,45.7297999997,-79.0777799997,Canada,
+Kirkham-Portland-Timmins area,Graphite,Crystalline Graphite,44.5575799998,-76.57444,Canada,
+Tagliamonte,Graphite,Crystalline Graphite,46.2311600002,-78.0666999998,Canada,
+Graphex-Graphico-Orwell mines,Graphite,Crystalline Graphite,46.1431399998,-75.55472,Canada,
+North American Mine,Graphite,Crystalline Graphite,45.5166499998,-75.54959,Canada,
+St-Amime-Lac Des Iles,Graphite,Crystalline Graphite,46.2478599996,-75.5332999997,Canada,
+Lac Knife,Graphite,Crystalline Graphite,52.5500000003,-61.1832999996,Canada,
+Pollon Lake area,Graphite,Crystalline Graphite,56.38136,-103.125,Canada,
+Haikou,Graphite,Amorphous Graphite,20.0819499999,110.41667,China,
+Heling,Graphite,Amorphous Graphite,46.3145300003,129.55,China,
+Jixi (Liu Mao),Graphite,Amorphous Graphite,45.2811899999,131,China,
+Liu Mao,Graphite,Amorphous Graphite,45.2978599997,131.06667,China,
+Honan Deposits,Graphite,Amorphous Graphite,32.4986699997,113.88269,China,
+Hunan,Graphite,Amorphous Graphite,25.9991499998,112.99946,China,
+Panshi,Graphite,Amorphous Graphite,42.9311900001,125.96667,China,
+Hohot,Graphite,Crystalline Graphite,40.81489,111.61609,China,
+Shandong Peninsula,Graphite,Crystalline Graphite,37.0317400004,120.31587,China,
+Xing He,Graphite,Crystalline Graphite,40.8833329996,113.883333,China,
+Cesky Krumlov,Graphite,Crystalline Graphite,48.7987099996,14.3188400004,Czech Republic,
+Kolledeye,Graphite,Crystalline Graphite,49.2154000004,14.4521500002,Czech Republic,
+Velke Vbrno-Konstantin Vvk,Graphite,Amorphous Graphite,50.1312199997,17.3333299998,Czech Republic,
+East Godavari,Graphite,Crystalline Graphite,17.3831700004,81.8502900001,India,
+Khammam,Graphite,Crystalline Graphite,17.3831700004,81.3336000003,India,
+Srikakulam,Graphite,Crystalline Graphite,18.3330799997,83.1002599998,India,
+Visakhapatnam,Graphite,Crystalline Graphite,18.0165099997,82.9335599998,India,
+Khamdih,Graphite,Crystalline Graphite,23.9659800003,84.2169399997,India,
+Sokra,Graphite,Crystalline Graphite,23.9659800003,84.1335400001,India,
+Dandatapa Area,Graphite,Crystalline Graphite,20.7995499998,84.6002200004,India,
+Sargipali Area,Graphite,Crystalline Graphite,20.8995499996,83.0835600004,India,
+Titlagarh Area,Graphite,Crystalline Graphite,20.1996100002,83.36695,India,
+Tumdibandh-Phulbani Area,Graphite,Crystalline Graphite,19.8329400002,83.6335499997,India,
+Tamatia Mines,Graphite,Crystalline Graphite,23.6160299997,74.5004899997,India,
+Madurai,Graphite,Crystalline Graphite,10.0672799999,77.8336800002,India,
+Chawia,Graphite,Crystalline Graphite,-3.46480000012,38.3844700004,Kenya,
+Oldoinyo-Nyiro,Graphite,Crystalline Graphite,0.749940000331,36.9999999999,Kenya,
+Yonghung-Kaechon area,Graphite,Amorphous Graphite,39.8316499996,127.43224,North Korea,
+Songjin Deposits,Graphite,Crystalline Graphite,40.6650300004,129.19888,North Korea,
+Wolmyong-Kaerim-Pongmyong,Graphite,Amorphous Graphite,36.4146199999,127.75,South Korea,
+Yongwon-GunJa-Pyongtack-Shihung,Graphite,Crystalline Graphite,36.9146100003,127.66667,South Korea,
+Ambatomitamba Sahanovo Area,Graphite,Crystalline Graphite,-18.3468800001,49.1010499999,Madagascar,
+Perinet-Ambatovy-Area,Graphite,Crystalline Graphite,-18.9301400004,48.4510599998,Madagascar,
+Telixtlahuaca,Graphite,Crystalline Graphite,17.3263200003,-96.8649500002,Mexico,
+Las Trincheras,Graphite,Amorphous Graphite,30.3981299997,-111.53333,Mexico,
+Lourdes area,Graphite,Amorphous Graphite,28.6002300003,-110.50065,Mexico,
+Tonichi,Graphite,Amorphous Graphite,28.5815300004,-109.56667,Mexico,
+Skaland-Senja,Graphite,Crystalline Graphite,69.4488099998,17.2872899999,Norway,
+La Galgada-La Limena-San Carlos mines,Graphite,Amorphous Graphite,-8.46467999988,-78.1330999997,Peru,
+Baia De Fier,Graphite,Amorphous Graphite,45.23119,23.7500000003,Romania,
+Botogolsk,Graphite,Crystalline Graphite,52.4646000002,100.75,Russia,
+Boyarsk,Graphite,Crystalline Graphite,51.8478000001,106.09947,Russia,
+Kureyka,Graphite,Amorphous Graphite,66.4817699996,87.1666700002,Russia,
+Noginskoje,Graphite,Amorphous Graphite,64.4983399997,91.2500000003,Russia,
+Soyusnoye,Graphite,Crystalline Graphite,47.9145400002,130.93333,Russia,
+Tayginsk,Graphite,Crystalline Graphite,55.6313399996,60.6500000003,Russia,
+Gumbu Graphite Mine,Graphite,Crystalline Graphite,-22.3151599997,30.6666699998,South Africa,
+Malonga Graphite Mine,Graphite,Amorphous Graphite,-22.6484799997,30.8833299997,South Africa,
+Kahatagaha-Kolongaha,Graphite,Crystalline Graphite,7.56753000021,80.5336099997,Sri Lanka,
+Zaval'E,Graphite,Crystalline Graphite,48.1978699998,30.0333299996,Ukraine,
+Christophosen Creek,Graphite,Crystalline Graphite,65.0254000001,-165.63222,United States of America,Alaska
+Graphite Creek,Graphite,Crystalline Graphite,65.0392900003,-165.53833,United States of America,Alaska
+Imuruk Basin Graphite,Graphite,Crystalline Graphite,65.0358600004,-165.5528,United States of America,Alaska
+Kigluaik Mountains Graphite District,Graphite,Crystalline Graphite,65.0431900003,-165.54083,United States of America,Alaska
+Southern California area,Graphite,Crystalline Graphite,34.6538,-118.4689,United States of America,California
+Black Lady Nos. 1 and 2,Graphite,Crystalline Graphite,36.8987399996,-118.0744,United States of America,California
+Eureka Plumbago-Morgan mines,Graphite,Crystalline Graphite,38.0176899998,-120.37989,United States of America,California
+Skinner Ranch,Graphite,Crystalline Graphite,38.19042,-122.5919,United States of America,California
+Unnamed,Graphite,Crystalline Graphite,36.2780000003,-121.55518,United States of America,California
+Unnamed Location,Graphite,Crystalline Graphite,41.2120500004,-123.76753,United States of America,California
+Wedge,Graphite,Crystalline Graphite,32.8024899999,-115.97861,United States of America,California
+Graphite Basin,Graphite,Crystalline Graphite,38.5898099998,-106.3778,United States of America,Colorado
+Unnamed Graphite Deposit,Graphite,Crystalline Graphite,38.6736099999,-105.98059,United States of America,Colorado
+Graphite Mines,Graphite,Crystalline Graphite,41.8553700004,-73.3677999997,United States of America,Connecticut
+Lead Hill Mine Graphite Deposits,Graphite,Crystalline Graphite,41.9382799999,-72.1842000002,United States of America,Connecticut
+Unnamed Graphite Mine,Graphite,Crystalline Graphite,34.1191100002,-84.7425,United States of America,Georgia
+Detroit-Northern Graphite Quarries,Graphite,Amorphous Graphite,46.6346999999,-88.34724,United States of America,Michigan
+Black Diamond Carbon Graphitic,Graphite,Crystalline Graphite,46.3164600002,-111.6336,United States of America,Montana
+Crystal Graphite Mine,Graphite,Crystalline Graphite,45.1026800003,-112.50587,United States of America,Montana
+Boston-Goshen-Osgood Mines area,Graphite,Crystalline Graphite,43.27346,-72.0985999999,United States of America,New Hampshire
+Stone Mills Graphite Mine,Graphite,Crystalline Graphite,40.6812100001,-74.8772200003,United States of America,New Jersey
+Adirondack Mining & Milling Mine,Graphite,Crystalline Graphite,43.5582799999,-73.45533,United States of America,New York
+Essex-Warren area,Graphite,Crystalline Graphite,43.8989600002,-73.4694000004,United States of America,New York
+Champlain Graphite Mine,Graphite,Crystalline Graphite,43.5377799997,-73.4809299997,United States of America,New York
+M. B. Hooper Graphite Mine,Graphite,Crystalline Graphite,43.5534599998,-73.4983000003,United States of America,New York
+Pope Mills-Rossie Deposits,Graphite,Crystalline Graphite,44.4707799999,-75.5545999999,United States of America,New York
+Rowland Graphite Mine area,Graphite,Crystalline Graphite,43.6038800002,-73.9717499999,United States of America,New York
+Silver Leaf Graphite Co.Mine,Graphite,Crystalline Graphite,43.5914600003,-73.4331000001,United States of America,New York
+Dillinger Mine & Mill,Graphite,Crystalline Graphite,35.89857,-82.1814000004,United States of America,North Carolina
+Cranston-Penners Ledge Mines,Graphite,Amorphous Graphite,41.7661700004,-71.4582999997,United States of America,Rhode Island
+Copper Cliff Mine,Graphite,Crystalline Graphite,44.1213499999,-103.8353,United States of America,South Dakota
+Burnet-Llano District,Graphite,Crystalline Graphite,30.7849099999,-98.3578299999,United States of America,Texas
+Rabbit Creek Area,Graphite,Crystalline Graphite,42.2081700002,-105.2317,United States of America,Wyoming
+Taskazgan,Graphite,Crystalline Graphite,40.8145499996,63.3833300004,Uzbekistan,
+Lynx Mine,Graphite,Crystalline Graphite,-16.4304299998,29.3013399997,Zimbabwe,
+Clayton Valley,Lithium,Li Basin Brines,37.7761649792,-117.568148773,United States of America,Nevada
+Searles Lake,Lithium,Li Basin Brines,35.73621549,-117.331231313,United States of America,California
+Salton Sea,Lithium,Li Basin Brines,33.3637765696,-115.869160816,United States of America,California
+Zhabuye Lake,Lithium,Li Basin Brines,31.4259417613,84.051862516,Tibet,
+Taijanier Lake,Lithium,Li Basin Brines,37.4979577869,93.9395490993,China,Qaidam
+Dead Sea,Lithium,Li Basin Brines,31.4164621416,35.4269184791,Israel,
+DXC,Lithium,Li Basin Brines,31.5812325751,86.747997738,Tibet,
+Salar de Uyuni,Lithium,Li Basin Brines,-20.2012799952,-67.4100282368,Bolivia,Altiplano
+Salar de Atacama,Lithium,Li Basin Brines,-23.4812386184,-68.3146699392,Chile,Altiplano
+Salar de Hombre Muerto,Lithium,Li Basin Brines,-25.3906033549,-67.1080607942,Argentina,Puna
+Salar del Rincon,Lithium,Li Basin Brines,-24.1037142462,-67.1058243241,Argentina,
+Salar de Cuachari and Salar de Olaroz,Lithium,Li Basin Brines,-23.471169619,-66.7418292811,Argentina,
+Salar de Llullaillaco,Lithium,Li Basin Brines,-24.7971000207,-68.301272521,Argentina,
+Salar de Copaisa,Lithium,Li Basin Brines,-19.2217176932,-68.0900757866,Bolivia,
+Salar de Pastos Grandes,Lithium,Li Basin Brines,-21.6523761669,-67.7811998266,Bolivia,
+Salar de Maricunga,Lithium,Li Basin Brines,-26.9360453196,-69.0693640417,Chile,
+Great Salt Lake,Lithium,Li Basin Brines,41.2531052632,-112.705063644,United States of America,Utah
+Salar de Surire,Lithium,Li Basin Brines,-18.8374038418,-69.0053451759,Chile,
+Orrvik,Lithium,Pegmatite,64.2000000004,20.7691600004,Sweden,
+Haapaluoma,Lithium,Pegmatite,63.5083300001,22.9824999997,Finland,
+Ullava (Länttä),Lithium; Beryllium,Pegmatite,63.4255500003,23.7061099998,Finland,
+Seinajoki,Lithium,Pegmatite,62.7794400003,22.8155499998,Finland,
+Little Nahanni,Lithium,Pegmatite,62.1999999999,-128.833,Canada,NWT
+Borkenas-Orust,Lithium,Pegmatite,58.1694399998,11.6788800001,Sweden,
+Lipovy Log,Lithium,Pegmatite,57.56667,61.3166699997,Russia,Central Urals
+Leinster,Lithium,Pegmatite,52.7853060003,-6.53742300037,Ireland,
+Favourable Lake,Lithium,Pegmatite,52.5983289996,-93.3787850004,Canada,Ontario
+Whabouchi,Lithium,Pegmatite,51.6832520004,-75.8458299996,Canada,Quebec
+Orlovka,Lithium,Pegmatite,51.0571779998,114.834199,Russia,Transbaikalia
+Root,Lithium,Pegmatite,50.8000000002,-91.7000000001,Canada,Ontario
+Malkhan,Lithium,Pegmatite,50.6515000004,109.879833,Russia,Transbaikalia
+Greer,Lithium,Pegmatite,50.3439999996,-95.3169999999,Canada,Manitoba
+Big Whopper,Lithium,Pegmatite,50.2500000004,-94.0599999997,Canada,Ontario
+Gullwing Lake,Lithium,Pegmatite,49.8633299999,-92.5311099996,Canada,
+Mavis,Lithium,Pegmatite,49.8213769996,-92.6563289996,Canada,Ontario
+Oldrich,Lithium,Pegmatite,49.4208300004,16.0027699996,Czech Republic,
+Lacorne,Lithium,Pegmatite,48.4108299999,-77.8081699999,Canada,Quebec
+Altai,Lithium,Pegmatite,47.1899230004,88.8125789998,China,NW
+Koralpe,Lithium,Pegmatite,46.8673980001,14.931632,Austria,
+Brissago,Lithium,Pegmatite,46.0041699997,8.70888999967,Italy,
+Chedeville,Lithium,Pegmatite,45.9791600002,1.38610999978,France,
+Animikie,Lithium,Pegmatite,45.8505599999,-88.3527800001,United States of America,Wisconsin
+Brazil Lake,Lithium,Pegmatite,44.0091699996,-65.9966700004,Canada,Nova Scotia
+Palermo,Lithium; Beryllium,Be Type Rare-Metal Pegmatite,43.7513799997,-71.8895900003,United States of America,New Hampshire
+Beryl Mountain,Lithium,Pegmatite,43.1810700004,-72.2941999998,United States of America,New Hampshire
+Black Mountain,Lithium,Pegmatite,42.7680499997,-107.44208,United States of America,Wyoming
+Elba,Lithium,Pegmatite,42.7512009997,10.2050339996,Italy,
+Clark,Lithium,Pegmatite,42.4195050001,-72.8725850001,United States of America,Massachusetts
+Covas de Barroso,Lithium,Pegmatite,41.6347,-7.78384700024,Portugal,
+Anderson,Lithium,Pegmatite,41.5922320003,-72.5916379998,United States of America,Connecticut
+Crystal Mountain,Lithium; Beryllium,Pegmatite,40.5463899999,-105.37333,United States of America,Colorado
+Quartz Cr,Lithium,Pegmatite,38.5416700003,-106.62556,United States of America,Colorado
+Talbuzanak,Lithium,Pegmatite,37.202,70.5600000001,Afghanistan,
+Eshkashim,Lithium,Pegmatite,36.4549999996,71.6059999997,Afghanistan,
+Pachighram,Lithium,Pegmatite,35.528,71.0000000003,Afghanistan,
+Kantiway,Lithium,Pegmatite,35.4360000004,70.772,Afghanistan,
+Panjsher,Lithium,Pegmatite,35.3329999999,69.3330000002,Afghanistan,
+Marid,Lithium,Pegmatite,35.2330000001,71.3329999999,Afghanistan,
+Kings Mountain,Lithium; Beryllium,Be Type Rare-Metal Pegmatite,35.2201829998,-81.3543170004,United States of America,North Carolina
+Nilaw-Kolum,Lithium,Pegmatite,35.2080000001,70.3539999999,Afghanistan,
+Kurghal,Lithium,Pegmatite,35.0680000002,70.3059999996,Afghanistan,
+Parun,Lithium,Pegmatite,34.9090000001,70.8709999996,Afghanistan,
+Alinghar,Lithium,Pegmatite,34.8780000004,70.2800000003,Afghanistan,
+Darra-i-Pech,Lithium,Pegmatite,34.6720000002,70.7819999998,Afghanistan,
+Darrahe-Nur,Lithium,Pegmatite,34.617,70.7499999999,Afghanistan,
+Shahidan,Lithium,Pegmatite,34.5250000003,69.9039999999,Afghanistan,
+Surkh-Rod,Lithium,Pegmatite,34.4350000003,70.2559999997,Afghanistan,
+Taghawlor,Lithium,Pegmatite,33.7080000004,66.3249999998,Afghanistan,
+Guanpo,Lithium,Pegmatite,33.7000000002,110.8,China,
+San Diego,Lithium,Pegmatite,33.2117269997,-116.798272,United States of America,California
+McAllister,Lithium,Pegmatite,32.885179,-86.2480429999,United States of America,Alabama
+Nanping,Lithium; Niobium and Tantalum,Li-Cs-Ta type pegmatite,26.6700000004,118.1,China,
+Maoantan,Lithium,Pegmatite,26.1999999999,111.8,China,
+Khnefissat,Lithium,Pegmatite,20.7938880004,-15.5705560004,Mauritania,
+Igbeti,Lithium,Pegmatite,8.31665999996,3.02500000035,Nigeria,
+Kokobin,Lithium,Pegmatite,5.9999999998,-0.9999999997,Ghana,
+Bijyojyo,Lithium,Pegmatite,-1.99194000013,29.61694,Rwanda,
+Ruhembe,Lithium,Pegmatite,-2.7608300001,29.3080499998,Burundi,
+Kivuvu,Lithium,Pegmatite,-2.83406100021,29.530003,Burundi,
+Mamoes,Lithium,Pegmatite,-6.91844100015,-36.723513,Brazil,Minas Gerais
+Alto Ligonha,Lithium,Pegmatite,-15.7373819999,38.2537320004,Mozambique,
+Urucum Pegmatite,Lithium,Pegmatite,-19.0230499997,-41.4599999996,Brazil,
+Betafo,Lithium,Pegmatite,-19.9166700004,46.5333000003,Madagascar,
+Tabba,Lithium,Pegmatite,-20.6666000002,118.92306,Australia,
+Rubicon,Lithium,Pegmatite,-22.1030599997,15.9938900002,Namibia,
+Union,Lithium,Pegmatite,-24.116999,30.8940209999,South Africa,
+Niobe,Lithium,Pegmatite,-27.7072199996,117.26694,Australia,
+Homestead,Lithium,Pegmatite,-28.7690780002,18.4956960003,Namibia,
+Edon,Lithium,Pegmatite,-29.30722,117.68333,Australia,
+Marion,Lithium,Pegmatite,-31.0780500002,121.46666,Australia,
+Tantalite,Lithium,Pegmatite,-31.0972200002,121.07528,Australia,
+Bald,Lithium,Pegmatite,-31.5155500002,122.17944,Australia,
+Deans,Lithium,Pegmatite,-32.30694,121.785,Australia,
+Las Cuevas,Lithium,Pegmatite,-32.3861099997,-65.7069399998,Argentina,
+San Luis,Lithium,Pegmatite,-32.9833299998,-65.9833300004,Argentina,
+Cattlin,Lithium,Pegmatite,-33.5638800001,120.03972,Australia,
+Meldon,Lithium; Beryllium,Pegmatite,50.7144626979,-4.03015312786,England,
+Podlesi,Lithium,Pegmatite,50.421821,12.7896150001,Czech Republic,
+Kalahari,Manganese,Marine sedimentary Mn,-27.1833333335,22.9500000001,South Africa,
+Molango,Manganese,Marine sedimentary Mn,20.8333333338,-98.7333333335,Mexico,
+Bolshe Tokmak,Manganese,Marine sedimentary Mn,47.2500000001,35.6999999998,Ukraine,
+Nikopol,Manganese,Marine sedimentary Mn,47.5666666664,34.4166666666,Ukraine,
+Groote Eylandt,Manganese,Marine sedimentary Mn,-13.9999999998,136.5,Australia,
+Urkut,Manganese,Marine sedimentary Mn,47.0833333335,17.6666666668,Hungary,
+Tchiatura,Manganese,Marine sedimentary Mn,42.316666667,43.2999999999,Georgia,
+Azul,Manganese,Secondary enrichment,-6.13333333327,-50.35,Brazil,
+Urucum,Manganese,Marine sedimentary Mn,-19.1333333334,-57.55,Brazil,
+Madhya Pradesh,Manganese,Marine sedimentary Mn,21.8333333336,80.2999999997,India,
+Orissa,Manganese,Secondary enrichment,21.6333333331,85.6666666667,India,Chatrapur
+Varna,Manganese,Marine sedimentary Mn,43.216666667,27.916666667,Bulgaria,
+Serro do Navio,Manganese,Secondary enrichment,0.9999999999,-52.0000000003,Brazil,
+Nsuta,Manganese,Secondary enrichment,5.2799999998,-1.9499999996,Ghana,
+Tambao,Manganese,Secondary enrichment,14.7833333333,-0.0666666667332,Burkina Fasso,
+Karnataka,Manganese,Marine sedimentary Mn,13.9333333332,75.5166666663,India,
+Postmasburg,Manganese,Secondary enrichment,-28.0499999996,23.0499999999,South Africa,
+Western Transval,Manganese,Secondary enrichment,-26.2499999996,27.016666667,South Africa,
+Goa,Manganese,Secondary enrichment,15.4999999997,73.9166666668,India,
+Morro da Mina,Manganese,Secondary enrichment,-20.5833333332,-43.8333333335,Brazil,
+Wafangtzu,Manganese,Marine sedimentary Mn,39.5833333332,122,China,
+Gujarat,Manganese,Marine sedimentary Mn,23,72.5,India,
+Andhra Pradesh Vizianagaram-Visakhapatnam Manganese Belt,Manganese,Secondary enrichment,18.3666666663,83.4499999997,India,
+Imini,Manganese,Marine sedimentary Mn,30.7333333338,-6.8999999996,Morocco,
+Blue River,Niobium and Tantalum,Carbonatite,52.3166666668,-119.166666667,Canada,
+Tanco,Niobium and Tantalum; Beryllium; Lithium,Be Type Rare-Metal Pegmatite; Li-Cs-Ta type pegmatite,50.4333333331,-95.4499999998,Canada,Manitoba
+Niobec,Niobium and Tantalum,Carbonatite,48.5333333333,-71.1499999998,Canada,
+Crevier,Niobium and Tantalum,Carbonatite,49.5000000001,-72.816666667,Canada,
+Oka,Niobium and Tantalum,Carbonatite,45.504166667,-74.0222222221,Canada,
+Araxá,Niobium and Tantalum; Barite; Rare-Earth Elements,"Carbonatite; Vein, cavity-fill, metasomatic",-19.6666666662,-46.9499999996,Brazil,
+Volta Grande,Niobium and Tantalum; Beryllium; Lithium,Li-Cs-Ta type pegmatite,-21.0833333331,-44.5833333338,Brazil,
+Pitinga,Niobium and Tantalum,Alkaline granite and syenite,0.783611111464,-60.0786111111,Brazil,
+Morro dos Seis Lagos,Niobium and Tantalum,Carbonatite,0.28194444478,-66.6802777782,Brazil,
+Ilimaussaq complex,Niobium and Tantalum; Rare-Earth Elements; Beryllium,Peralkaline intrusion Be,61.0107705988,-45.7058245378,Greenland,
+Ghurayyah,Niobium and Tantalum,Alkaline granite and syenite,27.916666667,35.7999999996,Saudi Arabia,
+El Nuweiba,Niobium and Tantalum,Rare-metal granite,25.2008583337,34.4989305554,Egypt,
+Umm Naggat,Niobium and Tantalum,Rare-metal granite,25.2008583337,34.4989305554,Egypt,
+Bonga,Niobium and Tantalum,Carbonatite,-14.2680555558,13.9672222223,Angola,
+Kenticha,Niobium and Tantalum; Lithium,Li-Cs-Ta type pegmatite,5.51666666683,39.0333333334,Ethiopia,
+Kanyika,Niobium and Tantalum,Alkaline granite and syenite,-12.0105555553,33.6333333334,Malawi,
+Marropino,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-16.5111111115,37.9027777782,Mozambique,
+Morrua,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-16.2666666667,37.8666666669,Mozambique,
+Muriane,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-15.7374999999,38.2527777775,Mozambique,
+Tantalite Valley,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-28.716666667,18.8000000003,Namibia,
+Three Aloes,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-21.2186111107,14.8675000004,Namibia,
+Palinesberg,Niobium and Tantalum,Alkaline granite and syenite,-24.2333333331,27.0666666669,South Africa,
+Eagle,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-18.4999999998,32.4333333331,Zimbabwe,
+Donsa,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-18.4999999998,32.4333333331,Zimbabwe,
+Tomtor,Niobium and Tantalum,Carbonatite,71.053611111,116.571111111,Russia,
+Katuginskoye,Niobium and Tantalum,Alkaline granite and syenite,56.3,119.2,Russia,
+Etykinskoye,Niobium and Tantalum,Rare-metal granite,47.5600000002,134.72,Russia,
+Vishnyalovskoye,Niobium and Tantalum; Beryllium,Lithium-Cesium-Tantalum type pegmatite,55.22,97.7499999999,Russia,
+Voznesenovskoye,Niobium and Tantalum,Rare-metal granite,44.1666666669,132.233333333,Russia,
+Alakhinskoye,Niobium and Tantalum,Rare-metal granite,49.439166667,86.9608333331,Russia,
+Halzan-Buregtei,Niobium and Tantalum,Alkaline granite and syenite,48.4166666665,91.9666666667,Mongolia,
+Yichun,Niobium and Tantalum; Lithium,Rare-metal granite; Li-Cs-Ta type pegmatite,27.6494722227,114.517794444,China,
+801,Niobium and Tantalum,Rare-metal granite,44.6166666669,120.966666666,China,
+Sokli,Niobium and Tantalum,Carbonatite,67.7666666665,29.2333333332,Finland,
+Beauvoir-Echassieres,Niobium and Tantalum; Beryllium; Lithium,Rare-metal granite; Non-pegmatite; Li-Cs-Ta type pegmatite,46.1833333335,2.93333333357,France,
+Elk Creek,Niobium and Tantalum; Rare-Earth Elements,Carbonatite,40.2702777774,-96.1900000003,United States of America,Nebraska
+Iron Hill,Niobium and Tantalum; Titanium,Carbonatite; Alkalic/metasomatized,38.2347222219,-106.708611111,United States of America,Colorado
+Bald Hill,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-31.5155555553,122.179444445,Australia,
+Mount Deans,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-32.3069444444,121.785,Australia,
+Bayan Obo,Niobium and Tantalum; Rare-Earth Elements,Carbonatite,41.7991666668,109.974444444,China,Inner Mongolia
+Mutala,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-15.0152777778,37.9166666668,Mozambique,
+Wellgreen Intrusion,Platinum-Group Elements,Conduit,61.466,-139.521,Canada,
+Nunatak-Brady Glacier,Platinum-Group Elements,Contact,58.5540000001,-136.925,United States of America,Alaska
+Bird River (Page Zone and Ore Fault Zone),Platinum-Group Elements,Contact,50.4819999999,-95.5069999997,Canada,
+Duluth Complex,Platinum-Group Elements,Contact,47.7300000004,-91.7999999999,United States of America,Minnesota
+Great Lakes Nickel,Platinum-Group Elements,Contact,48.0790000003,-89.6249999998,Canada,
+Lac des Iles,Platinum-Group Elements,Atypical; pipe-like ore bodies,49.1669999997,-89.6170000004,Canada,
+Thunder Bay North Project,Platinum-Group Elements,Contact,48.7539999999,-88.9009999997,Canada,
+Eagle Nickel,Platinum-Group Elements,Conduit,46.7479999997,-87.8890000004,United States of America,Michigan
+Geordie Lake,Platinum-Group Elements,Contact,48.8179999997,-86.4850000004,Canada,
+Marathon,Platinum-Group Elements,Contact,48.7929999998,-86.3159999996,Canada,
+Eagle's Nest,Platinum-Group Elements,Conduit,52.7370000002,-86.3059999998,Canada,
+River Valley,Platinum-Group Elements,Contact,46.6909999999,-80.259,Canada,
+Ivakkak,Platinum-Group Elements,Komatiitic,61.4429999997,-77.1659999999,Canada,
+Mequillon,Platinum-Group Elements,Komatiitic,61.5140000003,-73.7529999999,Canada,
+Expo,Platinum-Group Elements,Komatiitic,61.5570000002,-73.4490000003,Canada,
+Mesamax,Platinum-Group Elements,Komatiitic,61.5750000002,-73.257,Canada,
+Las Aguilas,Platinum-Group Elements,Conduit,-33.1110000003,-66.1279999998,Argentina,
+Pedra Branca,Platinum-Group Elements,"Reef, chromitite",-5.5979999999,-39.9620000004,Brazil,
+Skaergaard Intrusion,Platinum-Group Elements,"Reef, sulfide",68.1859999997,-31.6649999998,Greenland,
+Brattbakken,Platinum-Group Elements,Hydrothermal or remobilized (stockwork),63.9383790001,12.3388580003,Norway,
+Stormyrplutten,Platinum-Group Elements,Synvolcanic gabbroic body,64.7763120004,13.4743960002,Norway,
+Karhunjupukka,Platinum-Group Elements,"Reef, Ti-V layers",67.2902939999,24.4795409996,Finland,
+Stella Intrusion,Platinum-Group Elements,"Reef, Ti-V layers",-26.3140000003,24.8629999996,South Africa,
+Paasivaara Reef (PV Reef),Platinum-Group Elements,"Reef, sulfide",65.81138665,24.9769811504,Finland,
+Ala-Penikkavaara (AP Reef),Platinum-Group Elements,Reef,65.8186655198,25.0059005298,Finland,
+Sompujärvi (SJ Reef),Platinum-Group Elements,"Reef, sulfide",65.9421455897,25.1387307602,Finland,
+Karenhaugen,Platinum-Group Elements,Hydrothermal or remobilized,70.0333780001,25.2212919999,Norway,
+Portimo Igneous Complex,Platinum-Group Elements,Contact,66.1325219999,26.1659380002,Finland,
+Lomalampi,Platinum-Group Elements,Komatiitic,67.9049999997,26.9149999996,Finland,
+Koitelainen LC,Platinum-Group Elements,"Reef, chromitite",67.7980903701,27.1049387996,Finland,
+Koitelainen UC,Platinum-Group Elements,"Reef, chromitite",67.8274064,27.3163073396,Finland,
+Dikolati Nickel project,Platinum-Group Elements,Contact,-22.0330000001,27.741,Botswana,
+Selkirk,Platinum-Group Elements,Contact,-21.2134640002,27.7708329997,Botswana,
+Rusamo,Platinum-Group Elements,Contact,65.7766529997,27.9547420001,Finland,
+Haukiaho,Platinum-Group Elements,Contact,65.8508449803,28.0615215401,Finland,
+Lavotta,Platinum-Group Elements,Contact,65.7973659998,28.1390770004,Finland,
+Kaukua,Platinum-Group Elements,Contact,65.9419000002,28.1821999997,Finland,
+Akanvaara UC,Platinum-Group Elements,"Reef, chromitite",67.1758746598,28.1968639799,Finland,
+Akanvaara LC,Platinum-Group Elements,"Reef, chromitite",67.1955969299,28.19784274,Finland,
+Hietaharju,Platinum-Group Elements,Komatiitic,65.1490719998,29.0788279998,Finland,
+Peura-aho,Platinum-Group Elements,Komatiitic,65.1968349999,29.1166720003,Finland,
+Vaara,Platinum-Group Elements,Komatiitic,65.2793789996,29.2906480004,Finland,
+Great Dyke,Platinum-Group Elements; Tellurium,"Reef, sulfide; Tellurium in Magmatic Cu-Ni-PGM Sulfide",-19.7400000002,30.0399999996,Zimbabwe,
+Semiletka,Platinum-Group Elements,Conduit,69.3800000003,30.3300000001,Russia,
+Kootsel'vaara-Kammikivi,Platinum-Group Elements,Conduit,69.3999999999,30.3300000001,Russia,
+Nkomati Mine (MMZ and PCMZ),Platinum-Group Elements,Conduit,-25.7249999998,30.6000000001,South Africa,
+Verkhnee,Platinum-Group Elements,Conduit,69.3999999999,30.6300000004,Russia,
+Zhdanovskoe,Platinum-Group Elements,Conduit,69.4419999996,30.668,Russia,
+Tundrovskoe,Platinum-Group Elements,Conduit,69.3999999999,30.6699999996,Russia,
+Sputnik,Platinum-Group Elements,Conduit,69.3999999999,30.6699999996,Russia,
+Bystrinskoe,Platinum-Group Elements,Conduit,69.3999999999,30.7300000002,Russia,
+Zapolyarnoe,Platinum-Group Elements,Conduit,69.3999999999,30.7499999998,Russia,
+Lukkulaisvaara - total resources,Platinum-Group Elements,Contacts of macrodike and reef,66.3179999998,30.866,Russia,
+Nadezhda,Platinum-Group Elements,Contacts of macrodike,66.3179999998,30.866,Russia,
+Showing No. 2 (massif Lukkulaisvaara),Platinum-Group Elements,Reef,66.3166,30.866,Russia,
+Showing No. 15 (massif Lukkulaisvaara),Platinum-Group Elements,Reef,66.3160000002,30.866,Russia,
+Vostochnoe-critical zone,Platinum-Group Elements,Reef,66.3200000003,30.9000000004,Russia,
+Mount General'skaya,Platinum-Group Elements,Contact,69.4200000004,31.0800000004,Russia,
+Karikjavr,Platinum-Group Elements,Conduit,69.3000000001,31.4299999997,Russia,
+Monchetundorvskoe,Platinum-Group Elements,Contact,67.8799999997,32.7500000003,Russia,
+Fedorov-Pana Intrusion,Platinum-Group Elements,"Reef, sulfide",67.5300000004,35.2700000003,Russia,
+Pazhskoe,Platinum-Group Elements,"Hydrothermal, vein swarm",62.7124999998,35.7576999996,Russia,
+Onega Intrusion,Platinum-Group Elements,"Reef, Ti-V layers",62.283333,35.9000000003,Russia,
+Burakovskaya Intrusion,Platinum-Group Elements,"Reef, chromitite",62.1000000001,36.4738829998,Russia,
+Kingashskoe and Verkhnekingashskoye,Platinum-Group Elements,Komatiitic,54.9180000001,95.3549999997,Russia,
+Jinbasoshan,Platinum-Group Elements,Conduit,25.0130000001,100.76,China,
+Main sulfide layer (Ferguson Reef),Platinum-Group Elements,"Reef, sulfide",-21.1400000001,116.84,Australia,
+Parks Reef,Platinum-Group Elements,"Reef, sulfide",-26.8400000004,117.75,Australia,
+Chinei intrusion. all deposits (reserves only),Platinum-Group Elements,Contact,56.4780000004,118.575,Russia,
+Nebo-Babel,Platinum-Group Elements,Conduit,-26.104,127.711,Australia,
+Top and Middle Reefs,Platinum-Group Elements,"Reef, chromitite",-17.77,127.83,Australia,
+Vodorazdelny,Platinum-Group Elements,Conduit,55.347777778,132.4425,Russia,
+Ikenskoe,Platinum-Group Elements,Conduit,55.3275000003,132.534166667,Russia,
+"Owendale (includes Owendale North, Cincinnati, and Milverton)",Platinum-Group Elements,Alaskan-Uralian,-32.6939999996,147.461,Australia,
+Bushveld Complex,Platinum-Group Elements; Tellurium,Contact and Reef; Te in Magmatic Cu-Ni-PGM sulfide,-24.7368101534,28.5151314323,South Africa,
+Goodnews Bay,Platinum-Group Elements,Placer,59.0667000002,-161.8667,United States of America,Alaska
+Kondyor,Platinum-Group Elements,Placer,57.5500000002,134.633333333,Russia,
+Kytlym,Platinum-Group Elements,Placer,59.5409099997,58.9666699999,Russia,
+Daluxiang (Dalucao),Rare-Earth Elements,Carbonatite,27.1675000001,101.851666667,China,Sichuan Province
+Maoniuping,Rare-Earth Elements; Fluorite,Carbonatite-Related F,28.456666667,101.9775,China,Sichuan Province
+Weishan,Rare-Earth Elements,Carbonatite,34.7555555564,117.208055556,China,Shandong
+Mount Weld,Rare-Earth Elements,Carbonatite,-28.8644444438,122.548055556,Australia,Western
+Lovozero Deposit,Rare-Earth Elements; Beryllium; Niobium and Tantalum,Peralkaline igneous; Non-pegmatite; Alkaline granite and syenite,67.8916999997,34.6114999999,Russia,Northern Region
+Buena Norte mining district,Rare-Earth Elements,Heavy-mineral sand,-21.5169999999,-41.0829999999,Brazil,East Coast
+Dong Pao mine,Rare-Earth Elements,REE in clays,22.5236099998,103.27167,Vietnam,
+Heling,Rare-Earth Elements,REE in clays,24.8963899997,115.70417,China,Southern
+Longnan,Rare-Earth Elements,REE in clays,24.9833000002,114.6069,China,Southern
+Guposhan,Rare-Earth Elements,REE in clays,24.5680999997,111.4603,China,Southern
+Huashan,Rare-Earth Elements,REE in clays,24.5852999997,111.2308,China,Southern
+Bear Lodge,Rare-Earth Elements,Carbonatite,44.4897499997,-104.44528,United States of America,Wyoming
+Cummins Range,Rare-Earth Elements,Carbonatite,-19.2866666666,127.1625,Australia,Western
+Eldor property,Rare-Earth Elements,Carbonatite,56.6000000003,-68.4167000002,Canada,Quebec
+Glenover project,Rare-Earth Elements,Carbonatite,-24.6830000002,27.3500000003,South Africa,
+Lavergne-Springer property,Rare-Earth Elements,Carbonatite,46.4499999999,-79.9500000002,Canada,Ontario
+Montviel project,Rare-Earth Elements,Carbonatite,49.8290000004,-76.5555999999,Canada,Quebec
+Ngualla,Rare-Earth Elements,Carbonatite,-7.6999999998,32.8330000003,Tanzania,
+Nolans Bore,Rare-Earth Elements,Carbonatite,-22.583,133.233,Australia,Northern Territory
+Sarfartoq,Rare-Earth Elements,Carbonatite,66.5000000003,-51.25,Greenland,
+Wigu Hill,Rare-Earth Elements,Carbonatite,-7.43299999965,37.5670000003,Tanzania,
+Zandkopsdrift,Rare-Earth Elements,Carbonatite,-30.8829999996,17.9500000002,South Africa,
+Bokan Mountain,Rare-Earth Elements,Peralkaline igneous,54.9089999997,-132.1257,United States of America,Alaska
+Clay-Howells project,Rare-Earth Elements,Peralkaline igneous,49.7399999998,-82.0759999998,Canada,Ontario
+Foxtrot project,Rare-Earth Elements,Peralkaline igneous,52.3992999998,-55.8233999998,Canada,Labrador
+Hastings Project,Rare-Earth Elements,Peralkaline igneous,-18.364,127.777,Australia,Western
+Hoidas Lake deposit,Rare-Earth Elements,Peralkaline igneous,59.8000000002,-107.724,Canada,Saskatchewan
+Kipawa,Rare-Earth Elements,Peralkaline igneous,46.8000000001,-78.5000000004,Canada,Quebec
+Kutessay II project,Rare-Earth Elements,Peralkaline igneous,42.8611000001,76.1197000002,Kyrgyzstan,
+Norra Kärr,Rare-Earth Elements,Peralkaline igneous,58.1370000002,14.6219999998,Sweden,Southern
+Round Top,Rare-Earth Elements,Peralkaline igneous,31.2811000004,-105.482,United States of America,Texas
+TRE project,Rare-Earth Elements,Peralkaline igneous,-13.8500000001,48.182,Madagascar,Northern
+Two Tom,Rare-Earth Elements,Peralkaline igneous,54.2060000003,-62.1300000002,Canada,Labrador
+Eco Ridge mine,Rare-Earth Elements,Polymetallic,46.3849999999,-82.5359999996,Canada,Ontario
+Milo project,Rare-Earth Elements,Polymetallic,-20.7459999997,140.228,Australia,
+Plant in Stepnogorsk,Rare-Earth Elements,Polymetallic,52.3499999998,71.8899999996,Kazakhstan,Northern
+Steenkampskraal,Rare-Earth Elements,Polymetallic,-30.9860000001,18.6289999999,South Africa,
+Charley Creek deposits,Rare-Earth Elements,Heavy-mineral sand,-23.4999999997,133,Australia,Central
+Canakli deposit,Rare-Earth Elements,Heavy-mineral sand,37.569,30.6059999998,Turkey,
+Kerala deposits,Rare-Earth Elements; Titanium,Heavy-mineral sand; Sedimentary related,9.14,76.4619999996,India,
+Bagdad,Rhenium,Porphyry Cu-(Mo-Au),34.5858333334,-113.211944444,United States of America,Arizona
+Bingham,Rhenium; Titanium; Tellurium,Porphyry Cu-(Mo-Au),40.528310061,-112.136471234,United States of America,Utah
+Butte,Rhenium,Porphyry Cu-(Mo-Au),46.0172222221,-112.511111111,United States of America,Montana
+Morenci,Rhenium,Porphyry Cu-(Mo-Au),33.1036111113,-109.361111111,United States of America,Arizona
+Santa Rita,Rhenium,Porphyry Cu-(Mo-Au),32.7902777776,-108.072777778,United States of America,New Mexico
+Sierrita,Rhenium,Porphyry Cu-(Mo-Au),31.8694444446,-111.12,United States of America,Arizona
+Chuquicamata-Radomiro Tomic,Rhenium,Porphyry Cu-(Mo-Au),-22.2750000003,-68.8999999998,Chile,
+La Escondida,Rhenium,Porphyry Cu-(Mo-Au),-24.2650000001,-69.0716666668,Chile,
+El Salvador,Rhenium,Porphyry Cu-(Mo-Au),-26.2541666666,-69.5505555556,Chile,
+Los Bronces-Rio Blanco,Rhenium,Porphyry Cu-(Mo-Au),-33.1333333333,-70.2666666667,Chile,
+Los Pelambres,Rhenium,Porphyry Cu-(Mo-Au),-31.7083333334,-70.5000000002,Chile,
+La Caridad,Rhenium,Porphyry Cu-(Mo-Au),30.3180555554,-109.556666667,Mexico,
+Antamina,Rhenium,Cu-Zn-Mo skarn,-9.616,-76.9499999999,Peru,
+Cerro Verde,Rhenium,Porphyry Cu-(Mo-Au),-16.535277778,-71.5916666668,Peru,
+Toquepala,Rhenium,Porphyry Cu-(Mo-Au),-17.2450000001,-70.6138888887,Peru,
+Kadjaran,Rhenium,Porphyry Cu-(Mo-Au),39.1438888892,46.1377777777,Armenia,
+Kalmakyr (Almalyk),Rhenium,Porphyry Cu-(Mo-Au),40.8138888891,69.6463888886,Uzbekistan,
+Zuun Mod Molybdenum,Rhenium,Porphyry Cu-(Mo-Au),43.9799999998,99.2200000002,Mongolia,
+Lubin-Sieroszowice,Rhenium,Reduced-facies stratabound Cu,51.3999999999,16.1329999996,Poland,
+Mansfeld-Sangerhausen,Rhenium,Reduced-facies stratabound Cu,51.6000000004,11.4660000001,Germany,
+Dzhezkazgan,Rhenium,Sandstone stratabound Cu,48.1220000003,67.3920000001,Kazakhstan,
+Merlin,Rhenium,Deposit type unclassified,-21.6499999998,140.5,Australia,
+Pirquitas Mine,Tin,Hydrothermal,-22.72,-66.4799999996,Argentina,Jujuy
+Ardlethan,Tin,Hydrothermal,-34.3333333336,146.85,Australia,New South Wales
+Doradilla,Tin,Hydrothermal,-30.3333333335,146.35,Australia,New South Wales
+Taronga,Tin,Hydrothermal,-29.4500000004,151.533333333,Australia,New South Wales
+Maranboy/Yeuralba,Tin,Hydrothermal,-14.5302777781,132.785555555,Australia,Northern Territory
+Mount Wells,Tin,Hydrothermal and placer/alluvial,-13.5061111108,131.720277778,Australia,Northern Territory
+Collingwood,Tin,Hydrothermal,-15.7666666668,145.25,Australia,Queensland
+Gillian (Herberton area),Tin,Hydrothermal,-17.7166666665,145.05,Australia,Queensland
+Mount Garnet,Tin,Hydrothermal,-17.5833333338,145.166666667,Australia,Queensland
+Cleveland (Aberfoyle and Rossarden),Tin,Hydrothermal,-41.6600000001,147.750555556,Australia,Tasmania
+Heemskirk (Queen Hill) (Zeehan tin project),Tin,Hydrothermal,-41.8822222223,145.323055555,Australia,Tasmania
+Mount Bischoff,Tin; Beryllium,Hydrothermal; Non-pegmatite,-41.412777778,145.515277778,Australia,Tasmania
+Renison-Bell,Tin,Hydrothermal,-41.7833333331,145.783333333,Australia,Tasmania
+Rentails,Tin,Tailings,-41.7833333331,145.783333333,Australia,Tasmania
+Colquiri tailings,Tin,Tailings,-17.3833333333,-67.1166666667,Bolivia,La Paz Department
+"Central (Llallagua, (San Jose/Oruro, Huanuni)",Tin,Hydrothermal,-17.9999999999,-67,Bolivia,Oruro Department
+Bolivian placers,Tin,Placer/alluvial,-17.9999999999,-65.0000000004,Bolivia,Potosi Department
+Catavi tailings,Tin,Tailings,-18.433333333,-66.5666666669,Bolivia,Potosi Department
+"Southern (Cerro Rico, Chorolque)",Tin,Hydrothermal,-18.9999999997,-66.0000000002,Bolivia,Potosi Department
+"Northern (Chojlla, Colquiri)",Tin,Hydrothermal,-16.0000000003,-67,Bolivia,San Jose Department
+Mawchi Mine,Tin,Hydrothermal,18.8166666663,97.1666666662,Myanmar,Kaya Province
+"Tenasserim Valley, Southeast Asian tin belt",Tin,Placer/alluvial,12.0000000004,99.0000000001,Myanmar,Kaya Province
+Dachang,Tin,Hydrothermal,24.833333333,107.833333333,China,Guangxi Province
+Cuomolong,Tin,Hydrothermal,30.5000000003,99.3666666663,China,Sichuan Province
+Datongchang,Tin,Hydrothermal,25.5333333334,98.7333333337,China,Yunnan Province
+Diantan,Tin,Hydrothermal,25.6500000001,98.4333333334,China,Yunnan Province
+Lailishan,Tin,Hydrothermal,24.9166666667,98.2666666667,China,Yunnan Province
+Laopingshan,Tin,Hydrothermal,24.9999999996,98.3666666665,China,Yunnan Province
+Xiaolonghe,Tin,Hydrothermal,25.4499999996,98.4333333334,China,Yunnan Province
+Mapuero tin district,Tin,Placer/alluvial,-0.7500000002,-60.1166666663,Brazil,Amazonas State
+Serra Branca,Tin,Hydrothermal and placer/alluvial,-13.6166666666,-48.066666667,Brazil,Goias State
+Brascan Group (Rondonia tin province),Tin,Hydrothermal and placer/alluvial,-8.9999999999,-62.9999999999,Brazil,
+Mocambo,Tin,Hydrothermal and placer/alluvial,-6.83333333367,-51.9500000004,Brazil,Para State
+Rhodia-Espeng,Tin,Placer/alluvial,-6.03333333347,-53.7166666665,Brazil,Para State
+Brumadinho Group,Tin,Hydrothermal and placer/alluvial,-9.5499999997,-62.4166666662,Brazil,Rodonia and Goias States
+Best Group,Tin,Placer/alluvial,-9.4499999999,-65.1333333332,Brazil,Rodonia and Para States
+C–75 Garimpo,Tin,Hydrothermal and placer/alluvial,-9.8999999999,-63.433333333,Brazil,Rodonia State
+Mount Pleasant,Tin,Hydrothermal,45.4333333332,-66.8166666664,Canada,New Brunswick Province
+East Kemptville,Tin,Hydrothermal,44.1000000001,-65.683333333,Canada,Nova Scotia Province
+Cinovec (Zinnwald),Tin,Hydrothermal,50.7319444447,13.7688888886,Czech Republic,Teplice District
+Kivu mines,Tin,Placer/alluvial,-6.5000000004,27.5,Democratic Republic of the Congo,Northern Kivu Province
+Abu Dabbab,Tin; Niobium and Tantalum,Hydrothermal and placer/alluvial; Rare-metal granite,25.3402777781,34.543055556,Egypt,Al bahr al Ahamar Governorate
+Antonsthal district in the Westerzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.5119444446,12.7430555555,Germany,Saxony
+Auersberg-Wildenthal district in the West-erzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.4561111109,12.6388888887,Germany,Saxony
+Breitbrunn district in the Westerzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.4800000003,12.7700000003,Germany,Saxony
+Elbenstock-Sosa district in the Westerzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.4941666671,12.6330555559,Germany,Saxony
+Geyer-Southwest,Tin,Hydrothermal,50.6166666666,12.9000000004,Germany,Saxony
+Gottesberg,Tin,Hydrothermal,50.416666667,12.4833333334,Germany,Saxony
+Hammerlein-Tellerhauser district in the West-erzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.4530555555,12.8711111107,Germany,Saxony
+Muhlleithen district in the West-erzgebirge (Western Ore Mountains),Tin,Hydrothermal,50.4130555554,12.4538888893,Germany,Saxony
+"Sauschwemme, West-erzgebirge (Western Ore Mountains)",Tin,Placer/alluvial,50.4411111108,12.6619444447,Germany,Saxony
+P.T. Koba Tin,Tin,Placer/alluvial,-2.58333333317,106.4,Indonesia,Bangka island
+P.T. Tambang Tamah,Tin,Placer/alluvial,-2.0000000004,106,Indonesia,Bangka island
+Kelapa Kampit,Tin,Tailings,-2.7499999998,108.083333333,Indonesia,Belitung island
+P.T. Tambang Belitun,Tin,Placer/alluvial,-2.66666666693,107.833333333,Indonesia,Belitung island
+Pt Timah Singkep Mine,Tin,Placer/alluvial,-2.0000000004,114,Indonesia,Singkep Island
+Akenobe,Tin,Hydrothermal,35.2166666668,134.683333334,Japan,"Hyogo Prefecture, Honshu Island"
+Suzuyama,Tin,Hydrothermal,31.5000000001,130.433333333,Japan,Kyushu Island
+Syrymbet,Tin,Hydrothermal,53.4833333333,67.9833333331,Kazakhstan,North Kazakhstan Province
+Malaysian dredges,Tin,Placer/alluvial,4.0000000002,103,Malaysia,
+Malaysian gravel pump mines,Tin,Placer/alluvial,4.0000000002,103,Malaysia,
+Sungai Lembing,Tin,Hydrothermal,3.86666666653,103.083333333,Malaysia,Pahang State
+Kinta tin field,Tin,Hydrothermal and placer/alluvial,4.28,101.17,Malaysia,Perak State
+Kuala Langat Mining Sdn Bhd,Tin,Placer/alluvial,2.81805555552,101.616388889,Malaysia,Selangor State
+Oortsog Ovoo,Tin,Hydrothermal,45.5666699997,108.1,Mongolia,Dundgovi Province
+Narsiin Khundlen (Amerilangui Ujin),Tin,Hydrothermal,48.7408333334,112.526388889,Mongolia,Khentii (or Hentiy) Province
+Achmmach,Tin,Hydrothermal,33.3226472225,-5.45463333306,Morocco,Mecknes-Tafilalet region
+Bou El Jaj,Tin,Hydrothermal,33.2844444447,-5.4802777782,Morocco,Meknes
+Bou El Jaz,Tin,Hydrothermal,33.2844444447,-5.48055555539,Morocco,Mecknes-Tafilalet region
+Uis tin mine,Tin,Hydrothermal,-21.2166666667,14.866666667,Namibia,Southern Damaraland
+"Jos Plateau deposits (Bauchi, Benue, Kano, and Zaria States)",Tin,Placer/alluvial,9.7500000004,8.86666666643,Nigeria,"Bauchi, Benue, Kano, and Zaria States"
+San Rafael,Tin,Hydrothermal,-14.1977777782,-70.4663888891,Peru,Puno Department
+San Rafael tailings,Tin,Tailings,-14.1977777782,-70.4663888891,Peru,Puno Department
+"Neves-Corvo District. Four principal individual deposits: Graca, Corvo, Neves, Zambujal and Lombador",Tin,Hydrothermal,37.5999999996,-7.96666666623,Portugal,Baixo Alentejo Province
+Southern mining regions of the former Soviet Union,Tin,Hydrothermal,53.0000000003,124,Russia,"Chita, Khabarovsk"
+Pyrkakay,Tin,Hydrothermal,65.2822222225,175.78,Russia,Chukotskiy Avtonomnyy Okrug
+Pravourmiyskoe,Tin,Hydrothermal,50.4333333331,134.25,Russia,Khabarovsk Kray
+Northern mining regions of the former Soviet Union,Tin,Hydrothermal,68.9999999998,140,Russia,"Magadan, Oblast and Sakha Republic"
+Lendakhskaya,Tin,Hydrothermal,59.3299999997,92.8499999998,Russia,Western Siberia
+Kuils River,Tin,Hydrothermal,-33.9333333335,18.7333333335,South Africa,Cape Province
+Van Rooi’s Vley,Tin,Hydrothermal,-28.4999999996,20.8833333337,South Africa,Cape Province
+Rooiberg tin mines,Tin,Hydrothermal,-24.7499999999,27.7500000004,South Africa,Transvaal
+Union tin mine,Tin,Hydrothermal,-24.4833333335,28.4999999998,South Africa,Transvaal
+Zaaiplaats tin mine,Tin,Hydrothermal,-24.0500000004,28.7500000002,South Africa,Transvaal
+Oropesa,Tin,Hydrothermal,37.9999999997,-5.48333333367,Spain,Cordoba Province
+"Thai dredging operations, Southeast Asian tin belt",Tin,Placer/alluvial,9.0000000001,99.0000000001,Thailand,
+"Thai gravel pump operations, Southeast Asian tin belt",Tin,Placer/alluvial,8.0000000003,99.0000000001,Thailand,
+"Thai hard-rock and open pit operations, Southeast Asian tin belt",Tin,Hydrothermal,13.8666666663,99.1166666668,Thailand,
+Geevor,Tin,Hydrothermal,50.1499999997,-5.68333333327,United Kingdom,Cornwall
+Redmoor,Tin,Hydrothermal,50.4991666665,-4.31444444426,United Kingdom,Cornwall
+South Crofty,Tin,Hydrothermal,50.232222222,-5.28111111109,United Kingdom,Cornwall
+Wheal Jane,Tin,Hydrothermal,50.2333333335,-5.11666666653,United Kingdom,Cornwall
+Agnes Water,Titanium,Sedimentary related,-24.2166669998,151.9,Australia,
+Bridge Hill Ridge,Titanium,Sedimentary related,-32.4166669996,152.466667,Australia,
+Fraser Island,Titanium,Sedimentary related,-25.3666670002,153.116667,Australia,
+Moreton Island,Titanium,Sedimentary related,-27.1833329998,153.4,Australia,
+North Stradbroke Island,Titanium,Beach (strandline) and (or) coastal dune,-27.5833329999,153.45,Australia,
+Stockton,Titanium,Sedimentary related,-32.8333330002,151.85,Australia,
+Tomago,Titanium,Sedimentary related,-32.8050000003,151.567,Australia,
+Capel,Titanium,Sedimentary related,-33.5829999996,115.672,Australia,
+Gingin,Titanium,Sedimentary related,-31.3849999999,115.914,Australia,
+Jurien,Titanium,Sedimentary related,-30.3130000001,115.1666,Australia,
+Waroona,Titanium,Sedimentary related,-32.8959999997,115.923,Australia,
+Jacinth-Ambrosia,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,-31.0239999997,132.178,Australia,Eucla Basin
+Typhoon,Titanium,Sedimentary related,-31.0300000003,132.26,Australia,
+Atacama,Titanium,Sedimentary related,-30.9290000002,132.219,Australia,
+Cyclone,Titanium,Sedimentary related,-29.4429999996,128.885,Australia,
+Ginkgo,Titanium,Sedimentary related,-33.279,142.198,Australia,
+Kulwin,Titanium,Sedimentary related,-35.0220000002,142.631,Australia,
+"Woornack, Rownack & Pirro",Titanium,Sedimentary related,-35.086,142.188,Australia,
+Cox's Bazaar-Moiskal,Titanium,Sedimentary related,21.4380000001,92.0079999999,Bangladesh,
+Campo Alegre de Lourdes,Titanium,Magmatic deposits in igneous and related rocks,-11.0000000004,-43.0000000003,Brazil,
+Mataraca,Titanium,Sedimentary related,-6.5000000004,-35.0000000001,Brazil,
+Salitre,Titanium,Weathered alkalic rocks,-18.6666670001,-45.9999999997,Brazil,
+Tapira,Titanium,Weathered alkalic rocks,-19.8666670004,-46.8333330001,Brazil,
+Patrocinio,Titanium,Magmatic deposits in igneous and related rocks,-18.9166669996,-46.8333330001,Brazil,
+Victoria district,Titanium,Sedimentary related,-20.0000000004,-40.9999999998,Brazil,
+Lac la Blache,Titanium,Magmatic deposits in igneous and related rocks,50.0666669996,-69.6333330004,Canada,
+Lac du Pin Rouge,Titanium,Magmatic deposits in igneous and related rocks,48.966667,-74.0500000003,Canada,
+St. Urbain complex,Titanium,Magmatic deposits in igneous and related rocks,47.5333329998,-70.5500000001,Canada,
+Bad Vermillion Lake,Titanium,Magmatic deposits in igneous and related rocks,48.6999999999,-92.783333,Canada,
+Suncor,Titanium,Sedimentary related,56.9450000001,-111.355,Canada,
+Syncrude,Titanium,Sedimentary related,57.0333329997,-111.616667,Canada,
+Panzhihua,Titanium,Layered mafic intrusion,26.6,101.764,China,
+Heishan,Titanium,Magmatic deposits in igneous and related rocks,41,118,China,
+Behai district,Titanium,Sedimentary related,21.4833329997,109.1,China,
+Wazhaung district,Titanium,Sedimentary related,18.7166670002,110.366667,China,
+Xun Jiang,Titanium,Sedimentary related,23.4999999999,110.833333,China,
+Daixian,Titanium,Amphibolite-hosted,39.0860000003,112.946,China,
+Otanmaki,Titanium; Vanadium,Magmatic deposits in igneous and related rocks; Vanadiferous Titanomagnetite,64.1270000001,27.1029999998,Finland,
+Tamil Nadu,Titanium,Sedimentary related,10.9370000001,79.7630000004,India,
+Piampaludo,Titanium,Eclogite-hosted,44.466667,8.58300000025,Italy,
+QMM,Titanium,Sedimentary related,-25.0699999998,46.8410000004,Madagascar,
+Pluma Hidalgo,Titanium,Magmatic deposits in igneous and related rocks,15.9230000001,-96.4170000003,Mexico,
+Grande Côte,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,15.1289999997,-16.798,Senegal,
+Sierra Rutile,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,7.78333300012,-12.2999999996,Sierra Leone,
+Barrytown,Titanium,Sedimentary related,-42.2333330003,171.316667,New Zealand,
+Westport,Titanium,Sedimentary related,-41.7659999996,171.469,New Zealand,
+Tellnes,Titanium; Vanadium,Massif anorthosite; Vanadiferous Titanomagnetite,58.334,6.42140000021,Norway,
+Ødegård,Titanium,Magmatic deposits in igneous and related rocks,58.946,9.4519999997,Norway,
+Storgangen,Titanium,Magmatic deposits in igneous and related rocks,58.3799999998,6.3639999999,Norway,
+Engebøfjellet,Titanium,Eclogite-hosted,61.2370000003,5.3699999998,Norway,
+Kodal,Titanium,Magmatic deposits in igneous and related rocks,59.115,10.0200000004,Norway,
+Bothaville,Titanium,Lithified paleo-placers (fluvial and [or] beach),-27.1833329998,26.5000000002,South Africa,
+Hillendale - Fairbreeze,Titanium,Sedimentary related,-28.8450000003,31.9140000001,South Africa,
+RBM,Titanium,Sedimentary related,-28.7470000001,31.9489999999,South Africa,
+Lukoyanovskoye,Titanium,Sedimentary related,56.3459999998,44.0040000004,Russia,
+Taraskova,Titanium,Sedimentary related,49.4460000001,31.9330000003,Ukraine,
+Tsentral'noye,Titanium,Sedimentary related,52.2300000004,41.7100000002,Russia,
+Tuganskoye,Titanium,Sedimentary related,57.8600000003,80.8899999996,Russia,
+Yugo-Vostochnaya Gremyakha,Titanium,Magmatic deposits in igneous and related rocks,68.0099999998,30.4299999999,Russia,
+Bol'shoy Seyim,Titanium,Magmatic deposits in igneous and related rocks,55.5999999996,133.6,Russia,
+Chineyskoye,Titanium,Magmatic deposits in igneous and related rocks,55.2500000003,130.22,Russia,
+Yaregskoye,Titanium,Sedimentary related,62.2599999996,52.8300000001,Russia,
+Shubino Village,Titanium,Metamorphic,50.9980000002,58.0000000002,Kazakhstan,
+Cerro Blanco,Titanium,Metamorphic,-29.6300000004,-70.9699999998,Chile,
+Svoranzkoye,Titanium,Magmatic deposits in igneous and related rocks,39.2999999998,46.1833329998,Armenia,
+Irshansk district,Titanium,Sedimentary related,50.4529999999,29.2330000003,Ukraine,
+Volnogorsk district,Titanium,Sedimentary related,48.5500000002,33.4499999998,Ukraine,
+Aurora,Titanium,Sedimentary related,35.2330000001,-76.8330000003,United States of America,North Carolina
+Lakehurst,Titanium,Sedimentary related,40.0666669998,-74.333333,United States of America,New Jersey
+Longnose,Titanium,Troctolite/ultramafic,47.5570000003,-92.0070000003,United States of America,Minnesota
+Brunswick,Titanium,Sedimentary related,31.3166670002,-81.4666669996,United States of America,Georgia
+Cumberland Island,Titanium,Sedimentary related,30.8499999996,-81.4333330002,United States of America,Georgia
+Green Cove Springs,Titanium,Sedimentary related,29.8333330001,-81.6829999997,United States of America,Florida
+Kerr-McGee,Titanium,Sedimentary related,36.1166669996,-88.1833330002,United States of America,Tennessee
+Manchester,Titanium,Sedimentary related,39.9833329996,-74.3499999997,United States of America,New Jersey
+Natchez Trace,Titanium,Sedimentary related,35.8333329998,-88.1999999999,United States of America,Tennessee
+Oak Grove,Titanium,Sedimentary related,36.3833329996,-88.1666669997,United States of America,Tennessee
+Piney River (Roseland) district,Titanium,Albititic/metasomatized,37.7019999999,-79.0229999998,United States of America,Virginia
+Magnet Cove district,Titanium,Alkalic/metasomatized,34.455,-92.8460000004,United States of America,Arkansas
+Sanford Lake district,Titanium,Anorthosite-gabbro,44.0549999997,-74.0549999998,United States of America,New York
+Old Hickory,Titanium,Sedimentary related,36.9169999999,-77.566,United States of America,Virginia
+Brink,Titanium,Sedimentary related,36.6029999997,-77.5780000003,United States of America,Virginia
+Yadkin Valley,Titanium,Metamorphic,36.0669999998,-81.5499999997,United States of America,North Carolina
+Halifax (Aurelian Springs),Titanium,Sedimentary related,36.3579999996,-77.7849999999,United States of America,North Carolina
+Amelia,Titanium,Sedimentary related,31.575,-81.9800000001,United States of America,Georgia
+Laramie Range district,Titanium,Magmatic deposits in igneous and related rocks,41.5999999997,-105.327,United States of America,Wyoming
+Tucker Lake,Titanium,Magmatic deposits in igneous and related rocks,48.0540000004,-90.6079999998,United States of America,Minnesota
+Horse Creek,Titanium,Sedimentary related,33.4929999998,-81.893,United States of America,South Carolina
+Folkston,Titanium,Sedimentary related,30.8500999997,-81.9798500004,United States of America,Georgia
+Dinning,Titanium,Greenschist-hosted,39.6999999999,-76.3830000003,United States of America,Maryland
+Windimurra,Vanadium,Vanadiferous Titanomagnetite,-28.3551833333,118.839733333,Australia,
+Balla Balla,Vanadium,Vanadiferous Titanomagnetite,-21.1433222225,118.063888888,Australia,
+"Central, Red Hill, Buckman",Vanadium,Vanadiferous Titanomagnetite,-16.4713888886,128.201388889,Australia,
+Gabanintha,Vanadium,Vanadiferous Titanomagnetite,-27.0017361114,118.604519445,Australia,
+Julia Creek,Vanadium,Shale-Hosted V,-20.6452777777,141.733333333,Australia,
+Mount Peake,Vanadium,Vanadiferous Titanomagnetite,-21.658888889,133.6625,Australia,
+"Nalaqing, Gongshan, Damakan, Lanjian",Vanadium,Vanadiferous Titanomagnetite,26.6499999999,102,China,
+Luanping,Vanadium,Vanadiferous Titanomagnetite,41.4981920002,117.499199,China,
+"Shan Yang, Zhong Cun",Vanadium,Vanadiferous Titanomagnetite,33.8713888891,109.940277778,China,
+"Maocaoping, Baiguoyuan",Vanadium,Shale-Hosted V,31.2694439997,111.0844444,China,
+Singhbhum-Mayurbhanj,Vanadium,Vanadiferous Titanomagnetite,21.9994599996,86.0001980001,India,
+Ganjang,Vanadium,Vanadiferous Titanomagnetite,26.1597222226,93.3333333337,India,
+Shaltora,Vanadium,Vanadiferous Titanomagnetite,23.4159910001,86.9168320001,India,
+Gusevogorsk,Vanadium,Vanadiferous Titanomagnetite,58.7006027775,59.486713889,Russia,
+Guseva Gora,Vanadium,Vanadiferous Titanomagnetite,58.7006027775,59.486713889,Russia,
+Yubryahkinskoe,Vanadium,Vanadiferous Titanomagnetite,59.9327777777,59.1675,Russia,
+Pervouralsk,Vanadium,Vanadiferous Titanomagnetite,56.898611111,59.5327777776,Russia,
+Lysanovskoe,Vanadium,Vanadiferous Titanomagnetite,53.9977420003,93.9999620002,Russia,
+Kharlovskoe,Vanadium,Vanadiferous Titanomagnetite,51.9977989997,81.0004880001,Russia,
+Kusinskoe,Vanadium,Vanadiferous Titanomagnetite,55.7511111108,57.3516666665,Russia,
+Visean,Vanadium,Vanadiferous Titanomagnetite,52.9979520003,59.0013389997,Russia,
+Svorantskoe,Vanadium,Vanadiferous Titanomagnetite,38.9985310001,46.0013619998,Azerbaijan,
+Tsagin,Vanadium,Vanadiferous Titanomagnetite,67.9983900004,36.0032200002,Russia,
+Afrikanda,Vanadium; Titanium,Vanadiferous Titanomagnetite; Magmatic deposits in igneous and related rocks,67.4166999997,32.6833000001,Russia,
+Koykara Koyarsk,Vanadium,Vanadiferous Titanomagnetite,60.99839,30.0026399998,Russia,
+Yelet' ozero,Vanadium,Vanadiferous Titanomagnetite,67.066666667,34.2055555557,Russia,
+Pudozhgaraskoe,Vanadium,Vanadiferous Titanomagnetite,61.3666666667,36.4833333331,Russia,
+Rivash,Vanadium,Vanadiferous Titanomagnetite,35.6405555554,58.3277777778,Iran,
+Taberg,Vanadium,Vanadiferous Titanomagnetite,57.7486689996,14.1693099999,Sweden,
+Ruoutevare,Vanadium,Vanadiferous Titanomagnetite,67.082077,17.5035710003,Sweden,
+Viken,Vanadium,Shale-Hosted V,63.1166666668,14.3622221996,Sweden,
+Häggån,Vanadium,Shale-Hosted V,63.5,12.7300000002,Sweden,
+Mustavaara,Vanadium,Vanadiferous Titanomagnetite,65.7817920002,27.986469,Finland,
+Rodsand,Vanadium,Vanadiferous Titanomagnetite,62.8488690004,8.11980000037,Norway,
+Stjernoy-Seiland,Vanadium,Vanadiferous Titanomagnetite,70.4987179997,23.0040489997,Norway,
+Vantra,Vanadium,Vanadiferous Titanomagnetite,-25.6303944447,27.7810749999,South Africa,
+Mapochs mine,Vanadium,Vanadiferous Titanomagnetite,-25.2166000001,29.9166700004,South Africa,
+Krokodilkraal mine,Vanadium,Vanadiferous Titanomagnetite,-25.6049309999,28.18474,South Africa,
+Rhovan mine,Vanadium,Vanadiferous Titanomagnetite,-25.5677777776,27.5747222227,South Africa,
+Green Giant,Vanadium,Shale-Hosted V,-24.6925861114,44.7453027777,Madagascar,
+"Berg Aukas, Abenad, Tsumeb",Vanadium,Vanadate,-19.5136111111,18.2511111111,Namibia,
+Broken Hill,Vanadium,Vanadate,-14.4158333334,28.5505555559,Zambia,
+Bulawayo,Vanadium,Vanadate,-20.1691666663,28.5816666668,Zimbabwe,
+Kafferskrall,Vanadium,Vanadate,-31.146666667,25.8497222225,South Africa,
+Lueca,Vanadium,Vanadate,-7.92333333347,13.6533333334,Angola,
+Sept Îles,Vanadium,Vanadiferous Titanomagnetite,50.341111111,-66.5058333329,Canada,
+Lac Doré,Vanadium,Vanadiferous Titanomagnetite,49.7603916667,-77.6243111107,Canada,
+Lac St. Jean,Vanadium,Vanadiferous Titanomagnetite,49.3333020002,-71.4994129999,Canada,
+La Blache,Vanadium,Vanadiferous Titanomagnetite,50.0583333329,-69.6338888885,Canada,
+Lake Michikamau,Vanadium,Vanadiferous Titanomagnetite,54.1197222223,-63.9813888888,Canada,
+Ring of Fire,Vanadium,Vanadiferous Titanomagnetite,52.7999999998,-86.4999999997,Canada,
+Banks Island,Vanadium,Vanadiferous Titanomagnetite,53.466111111,-130.130555555,Canada,
+Porcher Island,Vanadium,Vanadiferous Titanomagnetite,53.9997500003,-130.25167,Canada,
+Union Bay,Vanadium,Vanadiferous Titanomagnetite,55.7664109998,-132.101807,United States of America,Alaska
+Klukwan Fan,Vanadium,Vanadiferous Titanomagnetite,59.4209100003,-135.88111,United States of America,Alaska
+"Tahawus, MacIntyre",Vanadium,Vanadiferous Titanomagnetite,44.0000000003,-74.0833333333,United States of America,New York
+Ossining,Vanadium,Vanadiferous Titanomagnetite,41.16666,-73.8328929996,United States of America,New York
+Diana,Vanadium,Vanadiferous Titanomagnetite,44.1499789999,-75.2495879996,United States of America,New York
+TiTac,Vanadium,Vanadiferous Titanomagnetite,47.5755555556,-92.0694444446,United States of America,Minnesota
+Mecca Quarry shale,Vanadium,Shale-Hosted V,40.0199999998,-87.5299999998,United States of America,Indiana
+Iron Mountain,Vanadium,Vanadiferous Titanomagnetite,41.3763888888,-104.834722223,United States of America,Wyoming
+Phosphoria Formation,Vanadium,Shale-Hosted V,42.7000000002,-111.83,United States of America,Idaho
+Gibellini,Vanadium,Shale-Hosted V,39.2083300001,-116.09,United States of America,Nevada
+Carlin Vanadium,Vanadium,Shale-Hosted V,40.613938193,-116.120257734,United States of America,Nevada
+"King Tut, Carrizo, Lukachukai",Vanadium,Sandstone-Hosted V,36.7416666665,-109.0075,United States of America,New Mexico
+"Mike, Pandora Mine",Vanadium,Sandstone-Hosted V,38.3125,-109.248333333,United States of America,Utah
+"Slick Rock, Uravan",Vanadium,Sandstone-Hosted V,38.3686111108,-108.736388889,United States of America,Colorado
+McClure Mountain,Vanadium,Vanadiferous Titanomagnetite,38.3402777782,-105.422777778,United States of America,Colorado
+Buckmaster Draw,Vanadium,Sandstone-Hosted V,38.680833333,-110.034444445,United States of America,Utah
+"Tony M, Frank M",Vanadium,Sandstone-Hosted V,38.109444444,-110.813888889,United States of America,Utah
+Maracas,Vanadium,Vanadiferous Titanomagnetite,-13.4082694444,-40.4274444446,Brazil,
+Tapajos,Vanadium,Vanadiferous Titanomagnetite,-3.6085138889,-54.4874944447,Brazil,
+Stony Creek,Zirconium and Hafnium,Coastal placer or paleoplacer,36.9441839998,-77.3995329999,United States of America,"Stony Creek, Virginia"
+Seven Devils,Zirconium and Hafnium,Coastal placer or paleoplacer,43.2553009998,-124.36321,United States of America,"Coos Bay, Oregon"
+Coos Bay,Zirconium and Hafnium,Coastal placer or paleoplacer,43.3586870002,-124.203268,United States of America,"Coos Bay, Oregon"
+Tutunup South,Zirconium and Hafnium,Coastal placer or paleoplacer,-33.6421339998,115.615631,Australia,Perth Basin
+Douglas,Zirconium and Hafnium,Coastal placer or paleoplacer,-37.1337019996,141.778617,Australia,Murray Basin
+Coburn,Zirconium and Hafnium,Coastal placer or paleoplacer,-26.5447339999,114.046875,Australia,Perth Basin
+Keysbrook,Zirconium and Hafnium,Coastal placer or paleoplacer,-32.468979,115.979807,Australia,Perth Basin
+Kilimiraka,Zirconium and Hafnium,Coastal placer or paleoplacer,-11.8172249999,130.150478,Australia,Tiwi Island
+Lethbridge Bay,Zirconium and Hafnium,Coastal placer or paleoplacer,-11.3653319999,131.013095,Australia,Tiwi Island
+Kwale,Zirconium and Hafnium; Titanium,Coastal placer or paleoplacer; Sedimentary related,-4.41912699991,39.4226720001,Kenya,
+Namakwa,Zirconium and Hafnium; Titanium,Coastal placer or paleoplacer; Sedimentary related,-31.2820150001,17.9017789996,South Africa,
+Srikurmam,Zirconium and Hafnium,Coastal placer or paleoplacer,18.281875,84.0763739998,India,Andhra Pradesh
+Pulmoddai,Zirconium and Hafnium; Titanium,Coastal placer or paleoplacer,8.94074999991,80.985275,Sri Lanka,
+Guaju,Zirconium and Hafnium,Coastal placer or paleoplacer,-6.5149079999,-34.9743059996,Brazil,Paraiba
+Buena,Zirconium and Hafnium,Coastal placer or paleoplacer,-21.4110530001,-41.0052429997,Brazil,Rio de Janeiro
+Athabasca oil sands,Zirconium and Hafnium,Oil sands,57.0325870004,-111.616112,Canada,Alberta
+Bismarck Creek,Tin,Sn-polymetallic vein or polymetallic vein,62.4225965856,-157.027033007,United States of America,Alaska
+Cosna Dome,Tin,Plutonic related mesothermal sn veins,64.5084713527,-151.999442749,United States of America,Alaska
+Won - North; Stockwork Zone; Standoff Ridge,Tin,Sn polymetallic,63.5033931115,-155.698390835,United States of America,Alaska
+Won - South; Prospect Pit; Dog Day; Gash; Tin Ridge,Tin,Sn polymetallic,63.4813925358,-155.719390356,United States of America,Alaska
+Win,Tin,Sn polymetallic,63.2003836946,-155.883383919,United States of America,Alaska
+Groundhog Basin,Tin,Banded Ag-Cu-Sn-Pb-Zn tabular replacement bodies,56.5136705158,-132.064900801,United States of America,Alaska
+Potato Mountain,Tin,Hydrothermal,65.6632273251,-167.556784602,United States of America,Alaska
+Kankberg,Tellurium,Volcanogenic Massive Sulfide,64.8733615476,20.3828058148,Sweden,Vasterbotten County
+Almalyk,Tellurium,Te in Porphyry Cu,40.8315100002,69.6674500001,Uzbekistan,
+Ashanti,Tellurium,Te in Orogenic Au,7.96084999983,-1.20585000018,Ghana,
+Bodie Hills,Tellurium,Te in Epithermal Au-Ag,38.21,-119,United States of America,California
+Carlin,Tellurium,Te in Carlin-type Au,40.9093339999,-116.318286,United States of America,Nevada
+Commoner,Tellurium,Te in Orogenic Au,-18.4220000001,29.4430599998,Zimbabwe,
+Cripple Creek,Tellurium,Te in Epithermal Au-Ag,38.7333300002,-105.15,United States of America,Colorado
+Cyprus,Tellurium,Volcanogenic Massive Sulfide,35.139138,32.8440259998,Cyprus,
+Deep Star,Tellurium,Te in Carlin-type Au,40.960899,-116.362654,United States of America,Nevada
+Ducktown,Tellurium,Te in Oil Sands,35.0360000003,-83.0360000004,United States of America,North Carolina
+El Indio,Tellurium,Te in Epithermal Au-Ag,-29.6800000003,-69.97,Chile,
+Elatsite,Tellurium,Te in Porphyry Cu,42.7486699999,24.50182,Bulgaria,
+Emperor,Tellurium,Te in Epithermal Au-Ag,-17.4972200004,177.85072,Fiji,
+Fortitutde,Tellurium,Skarn,40.5482999998,-117.13244,United States of America,Nevada
+Getchell,Tellurium,Te in Carlin-type Au,41.2218439997,-117.252881,United States of America,Nevada
+Golden Mile,Tellurium,Te in Orogenic Au,-30.7460999996,121.53253,Australia,
+Golden Sunlight,Tellurium,Te in Epithermal Au-Ag,45.8987999996,-112.01417,United States of America,Montana
+Kochbulak,Tellurium,Te in Epithermal Au-Ag,41.1314899996,70.5007299999,Uzbekistan,
+Kumtor,Tellurium,Te in Orogenic Au,41.8981199996,77.5838100004,Kyrgyzstan,
+La Plata,Tellurium,Te in Porphyry Cu,37.3994000002,-108.0636,United States of America,Colorado
+Lone Pine,Tellurium,Te in Epithermal Au-Ag,33.2373,-108.71983,United States of America,New Mexico
+Meikle,Tellurium,Te in Carlin-type Au,41.0036290001,-116.381326,United States of America,Nevada
+Mount Milligan,Tellurium,Te in Porphyry Cu,55.12454,-124.02931,Canada,
+Pebble,Tellurium; Rhenium,Porphyry Cu-(Mo-Au),59.8988132124,-155.285377585,United States of America,Alaska
+Porgera,Tellurium,Te in Epithermal Au-Ag,-5.46462000041,143.08219,Papua New Guinea,
+Pueblo Viejo,Tellurium,Te in Epithermal Au-Ag,18.9400000002,-70.1800000003,Dominican Republic,
+Rodalquilar,Tellurium,Te in Epithermal Au-Ag,38.8599999996,-2.0600000001,Spain,
+Sapo Alegre,Tellurium,Te in Porphyry Cu,18.19788,-66.6786400003,Puerto Rico,
+Sukhoi Log,Tellurium,Te in Orogenic Au,57.5077800002,114.09903,Russia,
+Ural Mountains,Tellurium,Volcanogenic Massive Sulfide,61.9438399996,96.5774900002,Russia,
+Zarshuran,Tellurium,Te in Carlin-type Au,36.6653200002,47.4512800003,Iran,
+Zortman-Landusky,Tellurium,Te in Epithermal Au-Ag,47.93743,-108.56328,United States of America,Montana
+Dashuigou,Tellurium,Te in Epithermal Au-Ag,29.1713888886,102.185,China,
+Kalamazoo,Tellurium,Te in Porphyry Cu,32.6997222196,-110.67777778,United States of America,Arizona
+Ortiz Mountains,Tellurium,Te in Epithermal Au-Ag,35.3361700003,-106.15085,United States of America,New Mexico
+Willow Creek district,Tellurium,Te in Orogenic Au,62.3750700001,-158.06919,United States of America,Alaska
+Baguio Lepanto,Tellurium,Te in Epithermal Au-Ag,16.8600000004,120.78,Philippines,
+Bereznyakovskoe,Tellurium,Te in Epithermal Au-Ag,54.8193990001,61.148631,Russia,
+Ely,Tellurium,Te in Porphyry Cu,39.2571230001,-114.974229,United States of America,Nevada
+Grass Valley,Tellurium,Te in Orogenic Au,39.2061989999,-121.045773,United States of America,California
+Joplin,Tellurium,Mississippi Valley-type,37.0831830003,-94.5131890002,United States of America,Missouri
+Hedley,Tellurium,Skarn,49.3708549999,-120.047569,Canada,
+La Bambolla,Tellurium,Te in Orogenic Au,29.6911999999,-109.7131,Mexico,
+Leadville,Tellurium,Te in Oil Sands,39.2486529998,-106.27451,United States of America,Colorado
+Lihir,Tellurium,Te in Epithermal Au-Ag,-3.12881200037,152.635105,Papua New Guinea,
+Majiagou,Tellurium,Te in Epithermal Au-Ag,29.233167,102.356502,China,
+Metaliferi Mountains,Tellurium,Te in Epithermal Au-Ag,46.298084,23.1206129998,Romania,
+Mother Lode,Tellurium,Te in Orogenic Au,37.4645600004,-119.948248,United States of America,California
+Mt. Kare,Tellurium,Te in Epithermal Au-Ag,-5.50909800017,142.935565,Papua New Guinea,
+Kensington,Tellurium,Te in Orogenic Au,58.8673229997,-135.103979,United States of America,Alaska
+Patagonia Mountains,Tellurium,Te in Epithermal Au-Ag,31.4797776827,-110.737373197,United States of America,Arizona
+Red Lake,Tellurium,Te in Orogenic Au,51.0615269998,-93.7439209999,Canada,
+Sandaowanzi,Tellurium,Te in Epithermal Au-Ag,50.366142,127.003915,China,
+Sentyabr-sky,Tellurium,Te in Epithermal Au-Ag,67.6833333301,168.8666667,Russia,
+Skouriés,Tellurium,Te in Porphyry Cu,40.4722222201,23.7036111103,Greece,
+Stormont,Tellurium,Skarn,-41.4927421102,146.0301295,Australia,
+Deer Horn,Tellurium,Te in Epithermal Au-Ag,53.3620072026,-127.289114756,Canada,
+Geodo,Tellurium,Skarn,37.1297845764,128.906544711,South Korea,
+La Ortosa,Tellurium,Skarn,43.37914887,-6.26972782968,Spain,
+Antimony Line (Consolidated Murchison),Antimony,Simple Quartz-Stibnite,-23.89669,30.5313899999,South Africa,
+Bau,Antimony,Deposit type unclassified,2.59430000004,113.30325,Malaysia,
+Chatkal Range,Antimony,Deposit type unclassified,41.3731799999,70.9357200002,Kyrgyzstan,
+Eagle Creek,Antimony,Deposit type unclassified,58.3061400004,-134.46645,United States of America,Alaska
+"Jijikrut, Chulboi",Antimony,Deposit type unclassified,-21.3308899996,-66.0161100003,Bolivia,
+"Kharma, Chilcobija",Antimony,Au-Sb,-19.7623199998,-65.8425,Bolivia,
+Krupanj-Zajaca,Antimony,Deposit type unclassified,44.4487100002,19.2519300003,Serbia,
+McLaughlin,Antimony,Deposit type unclassified,38.8370499998,-122.3613,United States of America,California
+Tupiza area,Antimony,Deposit type unclassified,-22.7558599998,-66.0827700004,Argentina,
+Yellow Pine,Antimony,Deposit type unclassified,44.9268199996,-115.33263,United States of America,Idaho
+Bawdin,Antimony,Deposit type unclassified,23.0660499999,97.4331800001,Myanmar,
+Costerfield,Antimony,Simple Sb,-36.8846319999,144.791137,Australia,
+Stadtschlaining,Antimony,Deposit type unclassified,47.3450780004,16.2784950001,Austria,
+Turhal,Antimony,Deposit type unclassified,39.99861,36.0015800001,Turkey,
+Workman’s Bench,Antimony,Deposit type unclassified,67.4689000003,-150.2241,United States of America,Alaska
+Xikuangshan,Antimony,Simple Quartz-Stibnite,27.7833333334,111.483333333,China,
+Alto do Sobrido,Antimony,Au-Sb,41.0741459722,-8.43371257008,Portugal,
+Bolivian antimony belt,Antimony,Au-Sb,-18.6807366219,-66.5535416462,Bolivia,
+Yinshan belt,Antimony,Deposit type unclassified,41.4527149552,110.205757958,China,
+Dubbo,Niobium and Tantalum; Rare-Earth Elements,Alkaline granite and syenite; Peralkaline,-32.4200000004,148.6,Australia,New South Wales
+Kougarok,Niobium and Tantalum; Tin,Rare-metal granite; Sn greisen,65.7103000002,-165.2289,United States of America,Alaska
+Magpie Mountain,Titanium; Vanadium,Layered mafic intrusion; Vanadiferous Titanomagnetite,51.3800000003,-64.0700000001,Canada,
+Mount Cattlin,Beryllium; Niobium and Tantalum,Pegmatite; Lithium-Cesium-Tantalum type pegmatite,-33.5600000001,120.04,Australia,
+Mountain Pass,Barite; Rare-Earth Elements,"Vein, cavity-fill, metasomatic; Carbonatite",35.4808660576,-115.533987944,United States of America,California
+Red Dog,Barite; Gallium; Germanium,Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn; Sedimentary exhalative Pb-Zn,68.0613259997,-162.856706,United States of America,Alaska
+San Gabriel Mountains,Vanadium; Titanium,Vanadiferous Titanomagnetite; Magmatic deposits in igneous and related rocks,34.3700000003,-118.3,United States of America,California
+Sleitat Mountain,Tin,Sn greisen,60.0499999997,-157.08,United States of America,Alaska
+Spor Mountain,Beryllium; Fluorite,Volcanogenic-hosted Be; Peralkaline to Alkaline-Intrusion-Related F,39.721643131,-113.197078854,United States of America,Utah
+Spruce Pine,Beryllium; Lithium,Non-pegmatite; Li-Cs-Ta type pegmatite,35.9429220003,-82.0826800003,United States of America,North Carolina
+Stillwater Complex,Tellurium; Platinum-Group Elements,"Magmatic Cu-Ni-PGM Sulfide; Reef, sulfide",45.3894146856,-109.875266717,United States of America,Montana
+Strange Lake,Beryllium; Niobium and Tantalum; Rare-Earth Elements,Peralkaline intrusion Be,56.3,-64.12,Canada,Quebec/Labrador
+Thor Lake,Beryllium; Niobium and Tantalum; Rare-Earth Elements,Peralkaline intrusion Be,62.1099999999,-112.6,Canada,
+White Picacho,Beryllium; Lithium,Pegmatite,33.9629493999,-112.571722493,United States of America,Arizona
+Wodgina,Beryllium; Lithium; Niobium and Tantalum,Pegmatite; Li-Cs-Ta type pegmatite,-21.1800000002,118.68,Australia,
+Mount Lindsay,Beryllium; Tin,Non-pegmatite; Hydrothermal,-41.7500000001,145.36,Australia,Tasmania
+Kings Valley,Lithium,Li-Clay,41.8855066779,-118.141941449,United States of America,Nevada
+Ertsberg,Tellurium,Skarn,-4.05581400002,137.113136,Indonesia,
+Chordi,Barite,"Vein, cavity-fill, metasomatic",42.4999999997,43.6833333331,Georgia,
+Black Hills,Beryllium; Lithium; Tellurium,Be Type Rare-Metal Pegmatite; Te in Epithermal Au-Ag,44.1129810151,-103.813429754,United States of America,South Dakota
+Cuyuna Range,Manganese,Deposit type unclassified,46.3778267338,-94.0276429582,United States of America,Minnesota
+Aroostook County,Manganese,Deposit type unclassified,46.7119531774,-68.1544328775,United States of America,Maine
+Cape Mountain,Tin,Deposit type unclassified,65.580664124,-168.01791024,United States of America,Alaska
+Tofty,Tin,Deposit type unclassified,64.8590917322,-150.343186331,United States of America,Alaska
+Sithylemenkat,Tin,Deposit type unclassified,66.1418439936,-152.472935152,United States of America,Alaska
+Lime Peak,Tin,Deposit type unclassified,65.653051042,-145.321174354,United States of America,Alaska
+Circle Hot Springs,Tin,Deposit type unclassified,65.2779097511,-144.546893803,United States of America,Alaska
+Coal Creek,Tin,Deposit type unclassified,62.9128481152,-149.888001938,United States of America,Alaska
+Galmoy,Gallium,Ga in Mississippi Valley-type Pb-Zn,52.7999999998,-7.5900000002,Ireland,
+Trail Ridge,Titanium; Zirconium and Hafnium,Beach (strandline) and (or) coastal dune; Coastal placer or paleoplacer,30.0135714563,-82.0400142109,United States of America,Florida
+Barrambie,Titanium; Vanadium,Vanadiferous Titanomagnetite; Magmatic deposits in igneous and related rocks,-27.4160720001,119.112081,Australia,
+Bikita,Lithium; Beryllium,Be Type Rare-Metal Pegmatite,-19.9609439998,31.4279689996,Zimbabwe,
+Catalao No. 1 Mine,Niobium and Tantalum; Titanium,Carbonatite; Weathered alkalic rocks,-18.13,-47.7997200003,Brazil,
+El Teniente,Rhenium; Titanium,Porphyry Cu-(Mo-Au),-34.0875830004,-70.4580730003,Chile,
+Eneabba,Zirconium and Hafnium; Titanium,Coastal placer or paleoplacer,-29.8726629134,115.284148893,Australia,Perth Basin
+Bolivar deposit,Indium,Polymetallic Sn veins,-18.4027764014,-66.7561166755,Bolivia,
+Porco deposit,Indium,Polymetallic Sn veins,-19.7055313019,-65.9768431959,Bolivia,
+Huari Huari deposit,Indium,Polymetallic Sn veins,-19.2950742783,-65.6437186546,Bolivia,
+Potosi deposit,Indium,Polymetallic Sn veins,-19.5330203793,-65.7269997899,Bolivia,
+San Lorenzo deposit,Indium,Polymetallic Sn veins,-19.6579420814,-65.7269997899,Bolivia,
+Toyoha Mine,Indium,Pb-Zn-Ag-In Vein,42.9814789999,141.041994,Japan,
+Lincang Mine,Germanium,Coal and Lignite,23.7727521934,99.9690627828,China,Yunnan Province
+Murchison greenstone belt,Indium,Volcanogenic Massive Sulfide,-23.9308844725,30.2942195075,South Africa,Limpopo Province
+Gordonsvile Mine,Germanium,Mississippi Valley-type,36.196936389,-85.9344020315,United States of America,Tennessee
+Cumberland Mine,Germanium,Mississippi Valley-type,36.2580555554,-85.9330555558,United States of America,Tennessee
+Carthage mineral district,Germanium,Mississippi Valley-type,36.2580555554,-85.9330555558,United States of America,Tennessee
+Elmwood Mine,Germanium,Mississippi Valley-type,36.2242599997,-85.90663,United States of America,Tennessee
+Crypto Project,Indium,"Zn-Cu Skarn
+",39.8581529259,-113.464584392,United States of America,Utah
+Ampangadiatany,Graphite,Crystalline Graphite,-19.408,48.891,Madagascar,
+Andhra Pradesh,Titanium,Sedimentary related,17.0400000004,82.3019999998,India,
+Butte (Lexington Mine),Beryllium,Pegmatite,46.0200000004,-112.544,United States of America,Montana
+Carguaicollo,Indium,Polymetallic Sn veins,-19.5132380615,-66.6058940262,Bolivia,
+Chorolque,Indium,Polymetallic Sn veins,-20.9254481685,-66.005080122,Bolivia,
+Colquechaca,Indium,Polymetallic Sn veins,-18.6768575186,-66.0764639524,Bolivia,
+Colquiri,Indium,Polymetallic Sn veins,-17.3503080073,-67.0222997028,Bolivia,
+Comanche,Indium,Polymetallic Sn veins,-17.2075403474,-69.1400199977,Bolivia,
+Pirquitas,Indium,Polymetallic Sn veins,-22.8944521506,-66.6118426791,Argentina,
+Pulacayo,Indium,Polymetallic Sn veins,-20.3841207898,-66.6415859418,Bolivia,
+Reserva,Indium,Polymetallic Sn veins,-19.6821797935,-65.5470338787,Bolivia,
+San Vincente,Indium,Polymetallic Sn veins,-21.2942646245,-66.2608721809,Bolivia,
+Siete Suyos-Animas,Indium,Polymetallic Sn veins,-20.9194995165,-66.2906154427,Bolivia,
+Tatasi,Indium,Polymetallic Sn veins,-21.1990861843,-66.1121558672,Bolivia,
+Hetaoping,Germanium,Skarn,25.4204312413,99.1331269466,China,
+Jinding,Germanium; Gallium,Sandstone-hosted; Ga in Clastic-dominated Pb-Zn,26.5816082121,99.4567336433,China,
+Luziyuan,Germanium,Skarn,23.8023977574,98.8666273139,China,
+Wulik prospect,Germanium,Sedimentary exhalative Pb-Zn,68.1946617732,-163.056766179,United States of America,Alaska
+Oak showing,Germanium,Sedimentary exhalative Pb-Zn,68.1841921448,-163.060573317,United States of America,Alaska
+Su-Lik deposit,Germanium,Sedimentary exhalative Pb-Zn,68.1156636672,-163.170028524,United States of America,Alaska
+Tramp Ridge area,Indium,Kipushi Zn-Pb-Cu,36.3518720003,-114.173401,United States of America,Nevada
+Gold Butte area,Indium,Kipushi Zn-Pb-Cu,36.2724840004,-114.186495,United States of America,Nevada
+Romotshidi,Indium,Volcanogenic Massive Sulfide,-23.9877299491,30.5057917512,South Africa,
+Solomons,Indium,Volcanogenic Massive Sulfide,-23.8899341013,30.6928173863,South Africa,
+Vatomandry-Area,Graphite,Crystalline Graphite,-19.3410000003,48.945,Madagascar,
+Rudny-Altai Area,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",50.4000000001,81.3833333,Kazakhstan,
+Jiajika,Beryllium; Lithium,Pegmatite,30.2889999998,101.284,China,
+Kamativi,Beryllium; Tin; Lithium,Pegmatite; Hydrothermal,-18.3290000002,27.0690000002,Zimbabwe,Matabeleland North Province
+Lac Tio,Titanium; Vanadium,Massif anorthosite; Vanadiferous Titanomagnetite,50.5560000004,-63.4139999999,Canada,
+Meggen,Barite; Gallium,Bedded-sedimentary; Ga in Clastic-dominated Pb-Zn,51.1289999997,8.06299999985,Germany,
+Moma,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,-16.6999999998,39.3990000002,Mozambique,
+Motzfeldt,Beryllium; Niobium and Tantalum,Non-pegmatite; Alkaline granite and syenite,61.1979999996,-44.9959999998,Greenland,
+Mount Isa,Gallium; Cobalt,Ga and Co in Clastic-dominated Pb-Zn,-20.5699999998,139.472,Australia,
+Olympic Dam,Cobalt; Tellurium,Iron oxide-Cu-Au(Ag-U-REE-Co-Ni),-30.4330000004,136.878,Australia,
+Orsk,Gallium,"Ga in Volcanogenic Massive Sulfide, Kuroko type",51.1899999996,58.6499999998,Russia,
+Pilgangoora,Beryllium; Lithium,Pegmatite,-21.071,118.902,Australia,
+Ranobe,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,-22.9499999999,43.6690000003,Madagascar,
+Richards Bay,Titanium; Zirconium and Hafnium,Coastal placer or paleoplacer,-28.581,32.3470000003,South Africa,
+Rosebery,Barite; Gallium,"Bedded-volcanic; Ga in Volcanogenic Massive Sulfide, Kuroko type",-41.7739999998,145.539,Australia,
+Sargipali,Gallium,Ga in Clastic-dominated Pb-Zn,22.558333333,83.9213888889,India,
+Selvag,Vanadium,Vanadiferous Titanomagnetite,68.655,15.0039999999,Norway,
+"Transkei (Xolobeni, Wave Crest)",Titanium,Sedimentary related,-31.1670000003,30.1180000002,South Africa,
+Taskainar (Taskaynar),Fluorite,Tin-granite-related,43.1166999997,75.1166999996,Kazakhstan,
+Telluride,Tellurium,Te in Epithermal Au-Ag,37.9499999998,-107.8,United States of America,Colorado
+"A–B chromitite, West Fork area",Platinum-Group Elements,Reef,45.3799999997,-110.01,United States of America,Montana
+Aganozero,Platinum-Group Elements,"Reef, chromitite",62.1999999999,36.5199999996,Russia,
+Benbow,Platinum-Group Elements,Contact,45.3600000001,-109.81,United States of America,Montana
+Birch Lake (Twin Metals),Platinum-Group Elements,Contact,47.7300000004,-91.7999999999,United States of America,Minnesota
+Boikgantsho Project,Platinum-Group Elements,Contact,-23.8999999998,28.8800000003,South Africa,
+Bokai and Unki East (Main Sulphide  Zone),Platinum-Group Elements,"Reef, sulfide",-19.7400000002,30.0399999996,Zimbabwe,
+Camp deposit,Platinum-Group Elements,Contact,45.41,-110.08,United States of America,Montana
+Chernogorskoye deposit,Platinum-Group Elements,Conduit,69.1500000004,88.2699999996,Russia,
+Gold zone,Platinum-Group Elements,"Reef, sulfide",68.1899999998,-31.6700000001,Greenland,
+"Ivanhoe (Turfspruit, Rietfontein, Macalacaskop)",Platinum-Group Elements,Contact,-24.1000000003,28.9800000001,South Africa,
+Kalplats Project,Platinum-Group Elements,"Reef, Ti-V layers",-26.3100000002,24.8599999997,South Africa,
+Kilvenjärvi,Platinum-Group Elements,Contact,66.2400000001,26.1699999996,Finland,
+Kilvenjoki,Platinum-Group Elements,Offset type contact,66.2599999997,26.1699999996,Finland,
+Koivukivalonaapa,Platinum-Group Elements,Reef,66.2499999999,26.1999999999,Finland,
+Konttijärvi,Platinum-Group Elements,Contact,66.1199999998,25.9799999998,Finland,
+Lower Pseudo Reef,Platinum-Group Elements,"Reef, sulfide",-25.1800000003,26.9699999998,South Africa,
+Maslovskoe deposit,Platinum-Group Elements,Conduit,69.2000000003,88.0399999997,Russia,
+Maturi (Nokomis) (Twin Metals),Platinum-Group Elements,Contact,47.8099999997,-91.7300000004,United States of America,Minnesota
+Merensky Reef,Platinum-Group Elements,"Reef, sulfide",-25.2999999997,27.3000000004,South Africa,
+Mimosa (Main Sulphide Zone),Platinum-Group Elements,"Reef, sulfide",-20.2999999998,29.8099999997,Zimbabwe,
+Mogalakwena Mine,Platinum-Group Elements,Contact,-23.9999999996,28.9499999998,South Africa,
+Mokopane,Platinum-Group Elements,Contact,-24.1400000004,28.9999999997,South Africa,
+Mouat,Platinum-Group Elements,Contact,45.3799999997,-109.9,United States of America,Montana
+Niittylampi,Platinum-Group Elements,Contact,66.1000000002,26.1999999999,Finland,
+Northern Limb projects -  Aurora and Hacra,Platinum-Group Elements,Contact,-23.4999999997,28.8999999999,South Africa,
+Northmet (Polymet),Platinum-Group Elements,Contact,47.6199999999,-91.9700000001,United States of America,Minnesota
+Nutturalampi,Platinum-Group Elements,Contact,66.2599999997,26.3100000004,Finland,
+Nye Basin,Platinum-Group Elements,Contact,45.3699999999,-109.84,United States of America,Montana
+Pudozhgorskoe,Platinum-Group Elements,"Reef, Ti-V layers",62.2800000001,35.9000000003,Russia,
+Rocky Claim Group (Chrome Lake),Platinum-Group Elements,Contact,45.3500000003,-109.8,United States of America,Montana
+Rooiport,Platinum-Group Elements,Contact,-24.2699999996,29.0100000004,South Africa,
+Shalozerskoe (Kuk Ruchi Zone),Platinum-Group Elements,"Reef, chromitite",62.1000000001,36.4699999997,Russia,
+Sheba’s Ridge,Platinum-Group Elements,Contact,-25.3200000002,29.3599999997,South Africa,
+Siika-Kämä (SK Reef),Platinum-Group Elements,"Reef, sulfide",66.2199999996,26.4799999997,Finland,
+Suhanko,Platinum-Group Elements,Contact,66.1000000002,26.0900000003,Finland,
+Talnakh ore field,Platinum-Group Elements,Conduit,69.53,88.4499999996,Russia,
+UG2,Platinum-Group Elements,"Reef, chromitite",-24.6000000002,30.0000000004,South Africa,
+Upper Pseudo Reef,Platinum-Group Elements,"Reef, sulfide",-25.1800000003,26.9699999998,South Africa,
+Vaaralampi,Platinum-Group Elements,Contact,66.1000000002,26.1800000003,Finland,
+Volspruit project - North Pit Mines,Platinum-Group Elements,Contact,-24.3499999998,28.9499999998,South Africa,
+War Springs,Platinum-Group Elements,Contact,-24.2199999997,29.0499999996,South Africa,
+Western Panskoe,Platinum-Group Elements,"Reef, Sulfide",67.5300000004,35.2700000003,Russia,
+Yli-Portimo,Platinum-Group Elements,Contact,66.1299999996,26.1699999996,Finland,
+Zimplats Hartley Mine (Main Sulphide Zone),Platinum-Group Elements,"Reef, sulfide",-17.9900000001,30.4500000004,Zimbabwe,
+Zimplats Ngezi Mine (Main Sulphide Zone),Platinum-Group Elements,"Reef, sulfide",-18.4199999996,30.4100000003,Zimbabwe,
+Mission,Zirconium and Hafnium,Coastal placer or paleoplacer,31.0337639996,-81.9673939997,United States of America,Georgia
+Kragerø,Titanium,Albititic/metasomatized,58.8666666672,9.41666666713,Norway,
+Pitinga,Gallium,Ga in Bauxite,-1.0539999997,-59.7970000001,Brazil,
+Nick,Vanadium,Shale-Hosted V,68.6499999996,-135.25,Canada,
+Kilvenlatvalampi,Platinum-Group Elements,Contact,66.2499999999,26.2700000003,Finland,
+Moanda,Manganese,Secondary enrichment,-1.56666700008,13.2833329999,Gabon,
+Kovdor,Zirconium and Hafnium,Igneous,67.55,30.5000000003,Russia,Kola Peninsula
+Kadamzhai,Antimony,Sb-Hg,40.1315299998,71.71738,Kyrgyzstan,
+Maranda J,Indium,Volcanogenic Massive Sulfide,-24.0100000003,30.4200000001,South Africa,
+Kabwe,Gallium; Germanium,Ga in Clastic-dominated Pb-Zn; Ge in Kipushi Zn-Pb-Cu,-14.2065276277,28.2970627712,Zambia,
+Voznesenka and Pogranichny,Fluorite,Tin-granite-related; Felsic and intermediate intrusion-associated,44.1661999997,132.1922,Russia,
+Gejiu District,Tin,Hydrothermal; Felsic and intermediate intrusion-associated,23.3333333333,103.333333333,China,Yunnan Province
+Emmaville-Torrington District,Beryllium,Felsic and intermediate intrusion-associated; Non-pegmatite,-29.333333,151.65,Australia,New South Wales
+Ertzgebirge Region,Beryllium,Non-pegmatite; Felsic and intermediate intrusion-associated,50.6539999997,12.9839999998,Germany,
+Krušné Hory,Beryllium,Felsic and intermediate intrusion-associated; Non-pegmatite,50.727,13.7689999999,Czech Republic,
+Shizhuyuan District,Fluorite,Tin-granite-related; Felsic and intermediate intrusion-associated,25.6599999999,113.17,China,
+Pacific prime crust zone,Cobalt; Manganese,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,14.9999999998,160,Pacific Ocean,
+Maderia-Tore Rise (MTR),Cobalt,Sea-floor Fe-Mn(-Co-Mo-REE) crusts,36.0000000001,-14.9999999996,Atlantic Ocean,
+La Paz,Rare-Earth Elements,Deposit type unclassified,34.1447629458,-113.792087607,United States of America,Arizona
+Hsiang-tan,Manganese,Marine sedimentary,27.8299999997,112.92,China,
+Leiping,Manganese,Marine sedimentary,23.3299999997,109.5,China,
+Tsun-i,Manganese,Marine sedimentary,27.5,106.5,China,
+Lofdal project,Rare-Earth Elements,Carbonatite,-20.3061999997,14.7056999998,Namibia,
+Mfima Hill,Rare-Earth Elements,Carbonatite,-4.48359999994,39.2599999997,Kenya,
+Songwe Hill,Rare-Earth Elements,Carbonatite,-15.7019000004,35.8359999996,Malawi,
+Chailag-Khem,Fluorite,Carbonatite-related F,51.9097000002,92.3972000002,Russia,
+Castel Giuliano-Pianciano,Fluorite,"Apparently conformable in tuffaceous, limy lacustrine sediments",42.0670000003,12.1440999996,Italy,
+Bétic Cordillera region,Fluorite,Deposit type unclassified,36.8870999997,-2.63029999985,Spain,
+Kropfmühl-Cesky Krumlov,Graphite,Flake Graphite,48.7999999997,14.3199999999,Czech Republic,
+Zavalyevskiy,Graphite,Flake Graphite,48.2,30.0299999998,Ukraine,
+Clay-Coosa-Chilton graphite district,Graphite,Flake and Crystalline Graphite,33.2799999996,-85.8400000003,United States of America,Alabama
+Ahmavaara,Platinum-Group Elements,Contact,66.1000000002,26.0400000004,Finland,
+Akanani (P1  and P2),Platinum-Group Elements,Contact,-23.9700000002,28.85,South Africa,
+Broken Hammer,Platinum-Group Elements,Offset type,46.7699999998,-81.04,Canada,
+Fedorovo,Platinum-Group Elements,Contact,67.5099999999,35.0000000003,Russia,
+Parkin,Platinum-Group Elements,Offset type,46.8300000004,-80.8500000002,Canada,
+"Platinometal horizon ""A""",Platinum-Group Elements,"Reef, chromitite",62.0699999998,36.4500000001,Russia,
+Kibara pegmatite belt,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-2.0000000004,27.9999999999,Democratic Republic of the Congo,
+Nuweibi,Niobium and Tantalum,Rare-metal granite,25.2000000001,34.5000000004,Egypt,
+Tamazeght,Niobium and Tantalum,Alkaline granite and syenite,32.6100000004,-4.5300000002,Morocco,
+Muiane,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,-15.7400000001,38.2500000001,Mozambique,
+Central Nigerian pegmatite belt,Niobium and Tantalum,Lithium-Cesium-Tantalum type pegmatite,8.0000000003,5.9999999998,Nigeria,
+Pilanesberg,Niobium and Tantalum,Alkaline granite and syenite,-24.2300000004,27.0699999996,South Africa,
+Victorio Mountains,Beryllium,Carbonate-hosted epithermal Be,32.1877775124,-108.08567186,United States of America,New Mexico
+Hardshell Mine,Manganese,Deposit type unclassified,31.4570816613,-110.712215675,United States of America,Arizona
+Maggie Mine,Manganese,Deposit type unclassified,34.2091669444,-111.375556111,United States of America,Arizona
+Sunnyside Mine,Manganese,Deposit type unclassified,37.9030555554,-107.611388889,United States of America,Colorado
+Maple Mountain-Hovey Mountain,Manganese,Deposit type unclassified,46.3912725517,-68.0400066198,United States of America,Maine
+Three Kids Mine,Manganese,Deposit type unclassified,36.0814727499,-114.911516059,United States of America,Nevada
+Hellroaring Creek,Beryllium,Deposit type unclassified,49.575,-116.172222222,Canada,British Columbia
+Syerston,Platinum-Group Elements,Laterite,-32.7659121412,147.424517666,Australia,New South Wales
+San Juan and Atrato Rivers districts,Platinum-Group Elements,Deposit type unclassified,5.70130000009,-76.6497400002,Colombia,
+Yubdo,Platinum-Group Elements,Deposit type unclassified,8.94521344584,35.4540042479,Ethiopia,
+Fifield district,Platinum-Group Elements,Deposit type unclassified,-32.9002348569,147.199328613,Australia,New South Wales
+White Mountains,Titanium,Metasomatized aluminum-rich schist,37.6200153102,-118.317711484,United States of America,California
+Ship Island,Titanium,Beach (strandline) and (or) coastal dune,30.21056858,-88.9647739764,United States of America,Mississippi
+Escalante Mine,Titanium,Lithified paleo-placers (fluvial and [or] beach),37.6822367136,-113.718244199,United States of America,Utah
+Willis Mountain kyanite,Titanium,Metasomatized aluminum-rich schist,37.477176611,-78.4637217672,United States of America,Virginia
+Roseland District,Titanium,Albititic/metasomatized; Weathered anorthositic rocks,37.7500000002,-79.0000000003,United States of America,Virginia
+Port Leyden Mine,Titanium,Fluvial,43.5856176158,-75.354520976,United States of America,New York
+Evergreen District,Titanium,Metasomatized aluminum-rich schist,39.6175573457,-105.356094367,United States of America,Colorado
+Ione,Titanium,Fluvial,38.355055287,-120.976431523,United States of America,California
+Kamchatka,Platinum-Group Elements,Deposit type unclassified,60.1986849936,162.720976685,Russia,
+Noril'sk Talnakh area,Cobalt; Platinum-Group Elements; Tellurium,Magmatic Ni-Cu(-Co-PGE) sulfide; Conduit,69.3570292027,88.3111854303,Russia,
+Oktyabr-sk,Platinum-Group Elements,Ni-Cu-PGE,69.5240673649,88.3370422404,Russia,
+Komsolmosk Mine,Platinum-Group Elements,Ni-Cu-PGE,69.506221408,88.3694029098,Russia,
+Taimyrsky Mine,Platinum-Group Elements,Ni-Cu-PGE,69.5414374303,88.3839176223,Russia,
+Skalisty Mine,Platinum-Group Elements,Ni-Cu-PGE,69.5357267236,88.4683884878,Russia,
+Mayak Mine,Platinum-Group Elements,Ni-Cu-PGE,69.4855200964,88.4181818606,Russia,
+Medvezhy Creek open pit,Platinum-Group Elements,Ni-Cu-PGE,69.2777931514,88.1704799698,Russia,
+Zopolyarny Mine,Platinum-Group Elements,Ni-Cu-PGE,69.2787449354,88.1324085937,Russia,
+Noril-sk II deposit,Platinum-Group Elements,Ni-Cu-PGE,69.2754136901,88.314675307,Russia,
+Sugraly,Rhenium,Roll-front sandstone U,41.6441790001,64.1443259996,Uzbekistan,
+Agarak,Rhenium,Porphyry Cu,38.9219444442,46.1883333329,Armenia,
+Ajax West,Rhenium,Porphyry Cu,50.6141666674,-120.530833333,Canada,
+Aksug,Rhenium,Porphyry Cu,53.4333333334,96.6666666672,Russia,
+Aktogai (Aktogay),Rhenium,Porphyry Cu-Mo,46.9333333329,79.9666666673,Kazakhstan,
+Berg,Rhenium,Porphyry Cu-Mo,53.8036111113,-127.435,Canada,
+Bethlehem,Rhenium,Porphyry Cu-Mo,50.4941666671,-120.996666667,Canada,
+Borly,Rhenium,Porphyry Cu,47.5019444436,74.0833333326,Kazakhstan,
+Boschekul,Rhenium,Porphyry Cu-Mo,51.8166666669,74.1833333333,Kazakhstan,
+Brenda,Rhenium,Porphyry Cu-Mo,49.8777777776,-120.005555556,Canada,
+Bronson Slope,Rhenium,Porphyry Cu-Au,56.6666666671,-131.0925,Canada,
+Cananea,Rhenium,Porphyry Cu,30.9541666673,-110.316666667,Mexico,
+Casino,Rhenium,Porphyry Cu,62.736111111,-138.829166667,Canada,
+Castle Dome (Pinto Valley),Rhenium,Porphyry Cu-Au,33.3999999999,-110.95,United States of America,Arizona
+Collahuasi,Rhenium,Porphyry Cu-Mo,-20.9630555556,-68.7083333332,Chile,
+Copper Creek,Rhenium,Porphyry Cu,32.7500000003,-110.48,United States of America,Arizona
+Cuajone,Rhenium,Porphyry Cu,-17.0455555558,-70.7072222222,Peru,
+Cuatro Hermanos,Rhenium,Porphyry Cu,28.3861111113,-109.656944444,Mexico,
+Cumobabi,Rhenium,Porphyry Cu-Mo,29.8724999996,-109.961944444,Mexico,
+Dastakert,Rhenium,Porphyry Cu,39.3749999997,46.0227777778,Armenia,
+Duobaoshan,Rhenium,Porphyry Cu,50.1666666666,125.692222222,China,
+Erdenet (Erdenetuin-Obo),Rhenium,Porphyry Cu,49.0000000002,104.133333333,Mongolia,
+Gibraltar,Rhenium,Porphyry Cu,52.518055556,-122.2875,Canada,
+Granisle (or Bell),Rhenium,Porphyry Cu,54.9463888892,-126.156666667,Canada,
+Highmont West Pit,Rhenium,Porphyry Cu-Mo,50.4327777778,-120.920555556,Canada,
+Hushamu,Rhenium,Porphyry Cu-Au,50.6752777776,-127.858055556,Canada,
+Ingerbelle (or Similco),Rhenium,Porphyry Cu-Au,49.3393999999,-120.5561,Canada,
+Island Copper,Rhenium,Porphyry Cu,50.5999999997,-127.477777778,Canada,
+Kemess South,Rhenium,Cu-Au,57.0058333332,-126.750833333,Canada,
+Lomex,Rhenium,Porphyry Cu-Mo,50.4502777781,-121.043055556,Canada,
+Machangqing,Rhenium,Porphyry Cu-Au,25.666666667,100.5,China,
+Maggie,Rhenium,Porphyry Cu-Mo,50.9238888894,-121.421111111,Canada,
+Majdanpek,Rhenium,Porphyry Cu-Au,44.3833333326,21.9500000003,Serbia,
+Medet,Rhenium,Porphyry Cu,42.7199999998,24.0852777784,Bulgaria,
+Miami,Rhenium,Porphyry Cu-Mo,33.4200000004,-110.74,United States of America,Arizona
+Mineral Park (Ithaca Peak),Rhenium,Porphyry Cu,35.3666666674,-114.15,United States of America,Arizona
+Mitchell  (Sulphurets),Rhenium,Porphyry Cu-Au,56.5044444438,-130.262777778,Canada,
+Mt. Tolman,Rhenium,Porphyry Cu-Mo,48.0569000001,-118.6922,United States of America,Washington
+OK,Rhenium,Porphyry Cu,50.0466666672,-124.645,Canada,
+Qulong,Rhenium,Porphyry Cu-Mo,29.6000000003,91.5833333327,China,
+Ray,Rhenium,Porphyry Cu,33.163611111,-110.983055556,United States of America,Arizona
+Sar Cheshmeh,Rhenium,Porphyry Cu,29.9450000001,55.8619444438,Iran,
+Schaft Creek,Rhenium,Porphyry Cu,57.3641666674,-130.990277778,Canada,
+Silver Bell,Rhenium,Porphyry Cu-Mo,32.4000000001,-111.5,United States of America,Arizona
+Snowfields,Rhenium,Porphyry Cu-Au,56.4829999999,-130.2,Canada,
+Sora (Sorsk),Rhenium,Porphyry Cu,53.51667,90.1499999998,Russia,
+Tominskoe,Rhenium,Porphyry Cu,54.9330555559,61.2672222222,Russia,
+Tongchankou,Rhenium,Porphyry Cu,30.166666667,114.8,China,
+Tsagaan-Suvarga,Rhenium,Porphyry Cu,43.8666666666,108.333333333,Mongolia,
+Twin Buttes,Rhenium,Porphyry Cu-Mo,31.8927777778,-111.035277778,United States of America,Arizona
+Valley Copper,Rhenium,Porphyry Cu-Au,50.4855555559,-121.048333333,Canada,
+Veliki Krivelj,Rhenium,Porphyry Cu,44.131111111,22.0969444436,Serbia,
+Wunugetushan,Rhenium,Porphyry Cu-Mo,49.3899999996,117.433333333,China,
+Yulong,Rhenium,Porphyry Cu-Au,31.4000000003,97.733333333,China,
+Boss Mountain,Rhenium,Porphyry Mo,52.0966699996,-120.9075,Canada,
+Carmi,Rhenium,Porphyry Mo,49.5180600002,-119.1678,Canada,
+Endako,Rhenium,Porphyry Mo,54.0361099998,-125.11,Canada,
+Glacier Gulch (Davidson),Rhenium,Porphyry Mo,54.8166700001,-127.3,Canada,
+Kitsault (Lime Creek),Rhenium,Porphyry Mo,55.42194,-129.4194,Canada,
+Lucky Ship,Rhenium,Porphyry Mo,54.0244400003,-127.4781,Canada,
+Mount Haskin,Rhenium,Porphyry Mo,59.3166700001,-129.4583,Canada,
+Nithi Mountain,Rhenium,Porphyry Mo,53.96667,-124.8333,Canada,
+Red Bird,Rhenium,Porphyry Mo,53.2991700001,-127.0103,Canada,
+Red Mountain,Rhenium,Porphyry Mo,60.9891700002,-133.7494,Canada,
+Storie Moly,Rhenium,Porphyry Mo,59.2469399996,-129.8683,Canada,
+Thompson Creek,Rhenium,Porphyry Mo,44.3169400003,-114.5358,United States of America,Idaho
+Trout Lake (Max),Rhenium,Porphyry Mo,50.6363899997,-117.6028,Canada,
+Adanac (Ruby Creek),Rhenium,Porphyry Mo,59.7000000004,-133.4,Canada,
+Climax,Rhenium,Porphyry Mo,39.3700000002,-106.17,United States of America,Colorado
+Donggou,Rhenium,Porphyry Mo,31.8027979999,114.000166,China,
+Questa,Rhenium,Porphyry Mo,36.6999999996,-105.51,United States of America,New Mexico
+Shapinggou,Rhenium,Porphyry Mo,31.55,115.49,China,
+Urad-Henderson,Rhenium,Porphyry Mo,39.5699999998,-105.35,United States of America,Colorado
+Xiaodonggou,Rhenium,Porphyry Mo,43.0100000003,117.3,China,
+Quartz Hill,Rhenium,Porphyry Mo,55.4029999999,-130.483,United States of America,Alaska
+Suluchekinskoye,Rhenium,Roll-front sandstone U,43.6496729985,80.4134312816,Kazakhstan,
+Manono-Kitolo Mine,Lithium; Beryllium,Pegmatite,-7.27749999992,27.4508333335,Democratic Republic of the Congo,
+Odisha,Titanium; Zirconium and Hafnium; Manganese,Sedimentary related; Coastal placer or paleoplacer; Secondary enrichment,21.6300000004,85.6700000003,India,
+Pudozhgorsk,Vanadium,Vanadiferous Titanomagnetite,61.6190000004,36.245,Russia,
+Jinduicheng,Rhenium,Porphyry Mo,34.33,100.95,China,
+Sheep Creek,Tin,Deposit type unclassified,63.561,-147.677,United States of America,Alaska
