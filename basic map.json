@@ -1,0 +1,112 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 400,
+    "layer": [
+        {
+            "data": {
+                "name": "countries",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/b06955b92e413d726a676c1989e833ec75454b13/data/ne_10m_admin_0_countries.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_10m_admin_0_countries"
+                }
+            },
+            "projection": {
+                "type": "equirectangular"
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "darkgray",
+                "strokeWidth": 0.5
+            },
+            "encoding": {
+                "tooltip": {
+                    "field": "properties.NAME",
+                    "type": "nominal",
+                    "title": "Name"
+                }
+            }
+        },
+        {
+            "data": {
+                "name": "critical minerals",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv"
+            },
+            "mark": {
+                "type": "text"
+            },
+            "encoding": {
+                "text": {
+                    "field": "CRITICAL_M",
+                    "type": "nominal"
+                },
+                "longitude": {
+                    "field": "LONGITUDE",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "LATITUDE",
+                    "type": "quantitative"
+                },
+                "size": {
+                    "value": 10
+                },
+                "opacity": {
+                    "value": 0.6
+                },
+                "color": {
+                    "field": "CRITICAL_M",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                            "Antimony",
+                            "Barite",
+                            "Beryllium",
+                            "Cobalt",
+                            "Fluorite",
+                            "Gallium",
+                            "Germanium",
+                            "Graphite",
+                            "Indium",
+                            "Lithium",
+                            "Manganese",
+                            "Niobium and Tantalum",
+                            "Platinum-Group Elements",
+                            "Rare-Earth Elements",
+                            "Rhenium",
+                            "Tellurium",
+                            "Tin",
+                            "Titanium",
+                            "Vanadium",
+                            "Zirconium and Hafnium"
+                        ],
+                        "range": [
+                            "#e41a1c",
+                            "#984ea3",
+                            "#000080",
+                            "#a6cee3",
+                            "#377eb8",
+                            "#a65628",
+                            "#a6cee3",
+                            "#1f78b4",
+                            "#b2df8a",
+                            "#33a02c",
+                            "#fb9a99",
+                            "#e31a1c",
+                            "#fdbf6f",
+                            "#ff7f00",
+                            "#cab2d6",
+                            "#6a3d9a",
+                            "#ffff99",
+                            "#b15928",
+                            "#b2df8a",
+                            "#66c2a5"
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIT3179 Assignment 2</title>
+
+    <!-- Import vega stuff -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+      <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- styles css file -->
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+</head>
+<body style="width: 800px;">
+    
+
+    <div class="page">
+
+
+
+        <div class="container">
+            <div class="Title">
+                <h1>FIT3179 Data Visuaisation Assignment 2</h1>
+                <p>By Kit Kirby 30571790</p>
+            </div>
+
+
+            <div class="Map">
+              <div class="Map-Vis"></div>
+              <div id="Map" class="vis-container"></div>
+              <div class="Map-Desc">
+                <h6>Map of the Critical Mineral Deposits worldwide.</h6>
+              </div>
+            </div>
+
+            <div class="BarChart">
+              <div class="BarChart-Vis"></div>
+              <div id="BarChart"  class="vis-container"></div>
+              <div class="BarChart-Desc">
+                <h6>Bar Chart of the occurence of each Critical Mineral</h6>
+              </div>
+            </div>
+
+            <div class="Text2">
+                <h2>Text about how we are running out of these minerals.</h2>
+            <p>More explanation about how it is important.</p>
+            <div id="PieChart"  class="vis-container"></div>
+            </div>
+            
+            <div class="Text1">
+                <h2>Fact about the world mineral deposits.</h2>    
+            </div>
+
+        </div>
+       
+     
+       </div> <!-- end page -->
+
+
+    <!-- vega light files-->
+    <script type="text/javascript">
+        var specVis1 = "./basic bar chart.json";
+        var specVis2= "./basic map.json";
+        var specVis3= "./basic pie chart.json";
+      
+        vegaEmbed('#BarChart', specVis1, {"actions": false});
+        
+         vegaEmbed('#Map', specVis2, {"actions": false});
+
+         vegaEmbed('#PieChart', specVis3, {"actions": false});
+      
+      </script>
+</body>
+</html>
