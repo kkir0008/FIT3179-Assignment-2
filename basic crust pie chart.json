@@ -1,0 +1,56 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 200,
+    "height": 200,
+    "title": "Elemental Abundance in Earths Crust",
+    "data": {
+        "name": "Crust Composition",
+             "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/Crust%20Composition.csv",
+             "format": {"type": "csv"}
+    },
+    "encoding": {
+        "theta": {
+            "type": "quantitative",
+            "field": "Category Percentage",
+            "title": "Count of Mineral Deposits",
+            "stack": true
+        },
+        "color": {
+            "type": "nominal",
+            "field": "Category",
+            "title": "Elements:",
+            "scale": {
+                  "scheme": "Category20"                  
+              },
+            "legend": null
+        },
+        "order": {
+          "field": "Category Percentage", 
+          "type": "quantitative", 
+          "sort": "ascending"
+          }
+    },
+    "layer": [{
+        "mark": {
+        "type": "arc",
+  "outerRadius": 130,
+  "innerRadius": 53,
+  "stroke": "ivory",
+  "strokeWidth": 0.1,
+  "strokeOpacity": 0.8
+      }
+    },
+      {
+    "mark": {"type": "text", "radius": 90},
+    "encoding": {
+      "text": {
+        "field": "Category", 
+        "type": "nominal"
+        },
+        "opacity": {
+          "value": 0.7
+        },
+        "color": {}
+    }
+  }]
+}

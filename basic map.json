@@ -32,14 +32,17 @@
         {
             "data": {
                 "name": "critical minerals",
-                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv"
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv",
+                "format": {
+                    "type": "csv"
+                }
             },
             "mark": {
                 "type": "text"
             },
             "encoding": {
                 "text": {
-                    "field": "CRITICAL_M",
+                    "field": "Symbol",
                     "type": "nominal"
                 },
                 "longitude": {
@@ -81,7 +84,7 @@
                             "Titanium",
                             "Vanadium",
                             "Zirconium and Hafnium"
-                        ],
+                            ],
                         "range": [
                             "#e41a1c",
                             "#984ea3",
