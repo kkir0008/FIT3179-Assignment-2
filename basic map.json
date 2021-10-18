@@ -37,6 +37,16 @@
                     "type": "csv"
                 }
             },
+            "params": [
+                {
+                    "name": "Mineral Filter",
+                    "select": {
+                        "type": "point",
+                        "fields": ["CRITICAL_M"]
+                    },
+                    "bind": "legend"
+                }
+            ],
             "mark": {
                 "type": "text"
             },
@@ -57,8 +67,29 @@
                     "value": 10
                 },
                 "opacity": {
-                    "value": 0.8
+                    "condition": {
+                        "param": "Mineral Filter",
+                        "value": 0.8
+                    },
+                    "value": 0.05
                 },
+                "tooltip": [
+                    {
+                        "field": "LOCATION",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "CRITICAL_M",
+                        "type": "nominal",
+                        "title": "Mineral"
+                    },
+                    {
+                        "field": "DEPOSIT_NA",
+                        "type": "nominal",
+                        "title": "Deposit Name"
+                    }
+                ],
                 "color": {
                     "field": "CRITICAL_M",
                     "title": "Critical Minerals: ",

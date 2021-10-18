@@ -12,10 +12,6 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-  <!-- Import pure.css -->
-  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
-    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- styles css file -->
   <link rel="stylesheet" type="text/css" href="/styles.css">
 
@@ -32,66 +28,75 @@
         <h1>FIT3179 Data Visuaisation Assignment 2</h1>
         <sub>By Kit Kirby 30571790</sub>
       </div>
-    
+
       <div class="center">
         <p>
-          Earth has a finite supply of materials. Hoever, while demand for raw materials has steadilty increased and will continue to increase, we<br>
-          are not likely to run out any time soon. Global 'reserves' are one method for estimating how much we have left but there is a significant<br>
-          difference btween 'reserves' and 'all there is'. Many compaies will only drill out so much of a resource due to the time value of money.<br>
-          Some mines have quoted 20 years worth of reserves for over a century. Combined with this, teh importance and use of materials can change<br>
-          significantly over time as technology changes.
+          Earth has a finite supply of materials. Hoever, while demand for raw materials has steadilty increased and
+          will continue to increase, we<br>
+          are not likely to run out any time soon. Global 'reserves' are one method for estimating how much we have left
+          but there is a significant<br>
+          difference btween 'reserves' and 'all there is'. Many compaies will only drill out so much of a resource due
+          to the time value of money.<br>
+          Some mines have quoted 20 years worth of reserves for over a century. Combined with this, the importance and
+          use of materials can<br>
+          change significantly over time as technology changes.
         </p>
-    </div>
+      </div>
 
 
       <div class="Map center">
         <h2>Map of the Critical Mineral Deposits</h2>
         <figure>
           <div id="Map" class="vis-container"></div>
-          <figcaption>A map of critical mineral deposits across the globe. The data is from <a href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
+          <figcaption>A map of critical mineral deposits across the globe. The data is from <a
+              href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
         </figure>
       </div>
 
       <div class="flex-row center">
         <figure>
           <div id="BarChart" class="vis-container"></div>
-<figcaption>Bar Chart of the occurence of each Critical Mineral. Data from <a href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
+          <figcaption>Bar Chart of the occurence of each Critical Mineral. Data from <a
+              href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
         </figure>
-        <div class="chart-description">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore cupiditate cumque nihil reprehenderit! Nihil, harum, perspiciatis saepe aliquam veritatis obcaecati fuga ad placeat dolor, accusantium magnam facilis eos perferendis. Maxime?</p>
+        <div class="chart-description1">
+          <h3>Of over 2,000 major critical mineral deposits that have been found, 5 countries hold over half of all deposits.</h3>
         </div>
       </div>
 
       <div class="PieChart center">
-        <h2>Text about how we are runnin gout of these minerals.</h2>
+        <h2>The total composition of the critical minerals in earths crust is less than 1%.<br>
+          Most critical minerals are less than 0.002% in total composition.</h2>
         <div class="flex-row">
-        <figure>
-          <div id="PieChart" class="vis-container"></div>
-          <figcaption>Pie Chart of the abundance of elements in the earth's crust. <br> Data from the <a href="https://archive.org/details/CRCHandbookOfChemistryAndPhysics97thEdition2016/page/n33/mode/2up" target="_blank">Handbook of Chemistry and Physics</a>.</figcaption>
-        </figure>
-        <div class="chart-description">
-          <p>Explanation about how this is important.</p>
+          <figure>
+            <div id="PieChart" class="vis-container"></div>
+            <figcaption>Pie Chart of the abundance of elements in the earth's crust. <br> Data from the <a
+                href="https://archive.org/details/CRCHandbookOfChemistryAndPhysics97thEdition2016/page/n33/mode/2up"
+                target="_blank">Handbook of Chemistry and Physics</a>.</figcaption>
+          </figure>
+          <div class="chart-description2">
+            <p>In the comming change for renewable energy sources and the electrification of cars, a significant increase in demand in critical minerals such as lithium for batteries. Wind farms require 9x the minerals to make than a coal power plant of the same size.</p>
+          </div>
         </div>
       </div>
-      </div>
 
 
-  </div> <!-- end page -->
+    </div> <!-- end page -->
 
 
-  <!-- vega light files-->
-  <script type="text/javascript">
-    var specVis1 = "./basic bar chart.json";
-    var specVis2 = "./basic map.json";
-    var specVis3 = "./basic crust pie chart.json";
+    <!-- vega light files-->
+    <script type="text/javascript">
+      var specVis1 = "./basic bar chart.json";
+      var specVis2 = "./basic map.json";
+      var specVis3 = "./complex crust pie chart.json";
 
-    vegaEmbed('#BarChart', specVis1, { "actions": false });
+      vegaEmbed('#BarChart', specVis1, { "actions": false });
 
-    vegaEmbed('#Map', specVis2, { "actions": false });
+      vegaEmbed('#Map', specVis2, { "actions": false });
 
-    vegaEmbed('#PieChart', specVis3, { "actions": false });
+      vegaEmbed('#PieChart', specVis3, { "actions": false });
 
-  </script>
+    </script>
 </body>
 
 </html>

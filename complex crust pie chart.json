@@ -1,8 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "description": "Elemental Abundance in Earths Crust",
-    "width": 600,
-    "height": 600,
+    "width": 400,
+    "height": 400,
     "padding": 50,
     "autosize": "none",
     "title": {

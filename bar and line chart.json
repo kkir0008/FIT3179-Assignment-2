@@ -1,0 +1,141 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+    "title": "Critical Mineral Deposites",
+    "params": [
+                {
+                    "name": "Mineral Filter",
+                    "select": {
+                        "type": "point"
+                    }
+                }
+            ],
+    "vconcat": [
+        {
+                "width": 800,
+    "height": 150,
+            "data": {
+                "name": "critical minerals",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv",
+                "format": {
+                    "type": "csv"
+                }
+            },
+            "mark": {
+                "type": "bar"
+            },
+            "encoding": {
+                "x": {
+                    "field": "Symbol",
+                    "type": "nominal",
+                    "title": "Critical Mineral Deposits"
+                },
+                "y": {
+                    "type": "quantitative",
+                    "aggregate": "count",
+                    "scale": {
+                        "type": "log",
+                        "domain": [0.8,1000]
+                    },
+                    "title": "Count of Mineral Deposits"
+                },
+                "color": {
+                    "type": "nominal",
+                    "field": "Symbol",
+                    "title": "Critical Minerals",
+                    "scale": {
+                      "scheme": "Category20"
+                    },
+                    "legend": null
+                },
+                "opacity": {
+                    "condition": {
+                        "param": "Mineral Filter",
+                        "value": 1
+                    },
+                    "value": 0.1
+                },
+                "tooltip": [{
+                    "field": "CRITICAL_M",
+                    "type": "nominal",
+                    "title": "Mineral"
+                },
+                {
+                    "aggregate": "count",
+                    "type": "quantitative",
+                    "title": "Count of Mineral Deposits"
+                }
+                ]
+            }
+        },
+        {
+                "width": 800,
+    "height": 150,
+            "data": {
+                "name": "critical minerals",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv",
+                "format": {
+                    "type": "csv"
+                }
+            },
+            "transform": [
+                {
+                    "filter": {
+                        "param": "Mineral Filter"
+                    }
+                }
+            ],
+            "mark": {
+                "type": "bar"
+            },
+            "encoding": {
+                "x": {
+                    "field": "LOCATION",
+                    "type": "nominal",
+                    "title": "Country",
+                    "sort": "-y"
+                },
+                "y": {
+                    "type": "quantitative",
+                    "aggregate": "count",
+                    "scale": {
+                        "type": "log",
+                        "domain": [0.8,500]
+                    },
+                    "title": "Count of Mineral Deposits"
+                },
+                "color": {
+                    "type": "nominal",
+                    "field": "Symbol",
+                    "title": "Critical Minerals",
+                    "condition": {
+                        "param": "Mineral Filter",
+                        "value": "lightgrey"
+                    },
+                    "scale": {
+                      "scheme": "Category20"
+                    },
+                    "legend": null
+                },
+                "tooltip": [
+                    {
+                        "field": "CRITICAL_M",
+                        "type": "nominal",
+                        "title": "Mineral Deposit"
+                    },
+                    {
+                    "field": "LOCATION",
+                    "type": "nominal",
+                    "title": "Country"
+                },
+                {
+                    "aggregate": "count",
+                    "type": "quantitative",
+                    "title": "Count of Mineral Deposits"
+                }
+                ]
+            }
+        }
+    ]
+    
+}
