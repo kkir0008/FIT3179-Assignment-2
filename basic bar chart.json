@@ -23,7 +23,7 @@
     ],
     "encoding": {
         "x": {
-            "field": "CRITICAL_M",
+            "field": "Symbol",
             "type": "nominal",
             "title": "Critical Mineral Deposits"
         },
@@ -31,60 +31,37 @@
             "type": "quantitative",
             "aggregate": "count",
             "scale": {
-                "type": "log"
+                "type": "log",
+                "domain": [0.8,1000]
             },
             "title": "Count of Mineral Deposits"
         },
         "color": {
             "type": "nominal",
-            "field": "CRITICAL_M",
-            "title": "Critical Minerals: ",
+            "field": "Symbol",
+            "title": "Critical Minerals",
             "scale": {
-                "domain": [
-                    "Antimony",
-                    "Barite",
-                    "Beryllium",
-                    "Cobalt",
-                    "Fluorite",
-                    "Gallium",
-                    "Germanium",
-                    "Graphite",
-                    "Indium",
-                    "Lithium",
-                    "Manganese",
-                    "Niobium and Tantalum",
-                    "Platinum-Group Elements",
-                    "Rare-Earth Elements",
-                    "Rhenium",
-                    "Tellurium",
-                    "Tin",
-                    "Titanium",
-                    "Vanadium",
-                    "Zirconium and Hafnium"
-                ],
-                "range": [
-                    "#e41a1c",
-                    "#984ea3",
-                    "#ff7f00",
-                    "#a6cee3",
-                    "#377eb8",
-                    "#a65628",
-                    "#a6cee3",
-                    "#1f78b4",
-                    "#b2df8a",
-                    "#33a02c",
-                    "#fb9a99",
-                    "#e31a1c",
-                    "#fdbf6f",
-                    "#ff7f00",
-                    "#cab2d6",
-                    "#6a3d9a",
-                    "#ffff99",
-                    "#b15928",
-                    "#b2df8a",
-                    "#66c2a5"
-                ]
-            }
+              "scheme": "Category20"
+            },
+            "legend": null
+        },
+        "opacity": {
+            "condition": {
+                "param": "Mineral Filter",
+                "value": 1
+            },
+            "value": 0.1
+        },
+        "tooltip": [{
+            "field": "CRITICAL_M",
+            "type": "nominal",
+            "title": "Mineral"
+        },
+        {
+            "aggregate": "count",
+            "type": "quantitative",
+            "title": "Count of Mineral Deposits"
         }
+        ]
     }
 }

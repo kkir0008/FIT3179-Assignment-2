@@ -1,0 +1,205 @@
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "description": "Elemental Abundance in Earths Crust",
+    "width": 600,
+    "height": 600,
+    "padding": 50,
+    "autosize": "none",
+    "title": {
+      "text": "Elemental Abundance in Earths Crust",
+      "frame": "group"
+    },
+    "signals": [
+      {
+        "name": "select",
+        "value": {"value":""},
+        "on": [
+          {
+            "events": "@mark:click",
+            "update": "{value: datum.Category_Key}"
+          },
+          {
+            "events": "mouseup",
+            "update": "{value: null}"
+          }
+        ]
+      }
+    ],
+    "data": [
+      {
+        "name": "data",
+        "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/Crust%20Composition.csv",
+        "format": {
+        "type": "csv"
+      },
+      "transform": [
+        {"type": "fold", "fields": ["Percentage"]},
+        {
+    "type": "nest",
+    "generate": true,
+    "keys": ["Category_Key"]
+  },
+  
+          {
+            "type": "partition",
+            "field": "value",
+            "sort": {
+              "field": "value"
+            },
+            "size": [
+              {
+                "signal": "2 * PI"
+              },
+              {
+                "signal": "width>height ? (height-10)/2 : (width-10) / 2"
+              }
+            ],
+            "as": [
+              "a0",
+              "r0",
+              "a1",
+              "r1",
+              "depth",
+              "children"
+            ]
+          },
+          {"type": "formula", "as": "Category_Key", "expr": "datum.Category_Key == null ? datum.key : datum.Category_Key"},
+          {
+            "type": "filter",
+            "expr": "datum.depth != 0"
+          },
+          {
+            "type": "filter",
+            "expr": "select.value == '' || select.value == null || datum.Category_Key == select.value || datum.depth != 2"
+          }
+      ]
+      },{
+        "name": "total",
+        "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/Crust%20Composition.csv",
+        "format": {
+        "type": "csv"
+      },
+      "transform": [
+        {"type": "formula", "as": "sum", "expr": "parseInt(datum.Percentage)"},
+        {"type": "aggregate",
+            "fields": ["sum"],
+            "ops":["sum"],
+            "as":["total"]}
+        ]
+      }
+    ],
+    "scales": [
+      {
+        "name": "color",
+        "type": "ordinal",
+        "range": {"scheme": "tableau20"}
+      }
+    ],
+    "legend": null,
+    "marks": [
+      {
+        "type": "arc",
+        "name": "mark",
+        "interactive": true,
+        "from": {
+          "data": "data"
+        },
+        "encode": {
+          "enter": {
+            "x": {
+              "signal": "width / 2"
+            },
+            "y": {
+              "signal": "height / 2"
+            },
+            "fill": {
+              "scale": "color",
+              "field": "Category_Key"
+            },
+        "fillOpacity": {"signal": "datum.key == 'Percentage' ? 0.5 : 0.8"},
+            "tooltip": {
+              "signal": "datum.Category_Key + (datum.value ? ': ' + datum.value + '% ' + datum.Element : '')"
+            }
+          },
+          "update": {
+            "startAngle": {
+              "field": "a0"
+            },
+            "endAngle": {
+              "field": "a1"
+            },
+            "innerRadius": {
+              "field": "r0"
+            },
+            "outerRadius": {
+              "field": "r1"
+            },
+            "stroke": {
+              "value": "white"
+            },
+            "strokeWidth": {
+              "value": 0.5
+            },
+            "opacity": {
+              "signal": "1 / (datum.depth/2)"
+            },
+            "zindex": {
+              "value": 0
+            }
+          },
+          "hover": {
+            "stroke": {
+              "value": "red"
+            },
+            "strokeWidth": {
+              "value": 2
+            },
+            "zindex": {
+              "value": 1
+            }
+          }
+        }
+      },
+      {
+        "from": {
+          "data": "total"
+        },
+        "type": "text",
+        "encode": {
+          "enter": {
+            "fill": {
+              "value": "#525252"
+            },
+            "text": {
+              "value": ""
+            }
+          },
+          "update": {
+            "opacity": {
+              "value": 1
+            },
+            "x": {
+              "signal": "width / 2"
+            },
+            "y": {
+              "signal": "height / 2"
+            },
+            "align": {
+              "value": "center"
+            },
+            "baseline": {
+              "value": "middle"
+            },
+            "fontSize": {
+              "signal": "if(width >= height, height, width) * 0.05"
+            },
+            "text": [{
+              "signal": "'Earths Crust'"
+            }
+            ]
+          }
+        }
+      }]
+  }
+  
+   

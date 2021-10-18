@@ -1,81 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FIT3179 Assignment 2</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FIT3179 Assignment 2</title>
 
-    <!-- Import vega stuff -->
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+  <!-- Import vega stuff -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
 
-      <!-- Import pure.css -->
-  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+    integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- styles css file -->
-    <link rel="stylesheet" type="text/css" href="/css/styles.css">
+  <link rel="stylesheet" type="text/css" href="/css/styles.css">
 
 </head>
-<body style="width: 800px;">
+
+<body>
+
+
+  <div class="page">
+
+    <div class="container fonts">
+
+      <div class="Title center">
+        <h1>FIT3179 Data Visuaisation Assignment 2</h1>
+        <sub>By Kit Kirby 30571790</sub>
+      </div>
     
+      <div class="center">
+        <p>
+          Earth has a finite supply of materials. Hoever, while demand for raw materials has steadilty increased and will continue to increase, we<br>
+          are not likely to run out any time soon. Global 'reserves' are one method for estimating how much we have left but there is a significant<br>
+          difference btween 'reserves' and 'all there is'. Many compaies will only drill out so much of a resource due to the time value of money.<br>
+          Some mines have quoted 20 years worth of reserves for over a century. Combined with this, teh importance and use of materials can change<br>
+          significantly over time as technology changes.
+        </p>
+    </div>
 
-    <div class="page">
 
+      <div class="Map center">
+        <h2>Map of the Critical Mineral Deposits</h2>
+        <figure>
+          <div id="Map" class="vis-container"></div>
+          <figcaption>A map of critical mineral deposits across the globe. The data is from <a href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
+        </figure>
+      </div>
 
-
-        <div class="container">
-            <div class="Title">
-                <h1>FIT3179 Data Visuaisation Assignment 2</h1>
-                <p>By Kit Kirby 30571790</p>
-            </div>
-
-
-            <div class="Map">
-              <div class="Map-Vis"></div>
-              <div id="Map" class="vis-container"></div>
-              <div class="Map-Desc">
-                <h6>Map of the Critical Mineral Deposits worldwide.</h6>
-              </div>
-            </div>
-
-            <div class="BarChart">
-              <div class="BarChart-Vis"></div>
-              <div id="BarChart"  class="vis-container"></div>
-              <div class="BarChart-Desc">
-                <h6>Bar Chart of the occurence of each Critical Mineral</h6>
-              </div>
-            </div>
-
-            <div class="Text2">
-                <h2>Text about how we are running out of these minerals.</h2>
-            <p>More explanation about how it is important.</p>
-            <div id="PieChart"  class="vis-container"></div>
-            </div>
-            
-            <div class="Text1">
-                <h2>Fact about the world mineral deposits.</h2>    
-            </div>
-
+      <div class="flex-row center">
+        <figure>
+          <div id="BarChart" class="vis-container"></div>
+<figcaption>Bar Chart of the occurence of each Critical Mineral. Data from <a href="https://mrdata.usgs.gov/pp1802/" target="_blank">USGS</a>.</figcaption>
+        </figure>
+        <div class="chart-description">
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore cupiditate cumque nihil reprehenderit! Nihil, harum, perspiciatis saepe aliquam veritatis obcaecati fuga ad placeat dolor, accusantium magnam facilis eos perferendis. Maxime?</p>
         </div>
-       
-     
-       </div> <!-- end page -->
+      </div>
+
+      <div class="PieChart center">
+        <h2>Text about how we are runnin gout of these minerals.</h2>
+        <div class="flex-row">
+        <figure>
+          <div id="PieChart" class="vis-container"></div>
+          <figcaption>Pie Chart of the abundance of elements in the earth's crust. <br> Data from the <a href="https://archive.org/details/CRCHandbookOfChemistryAndPhysics97thEdition2016/page/n33/mode/2up" target="_blank">Handbook of Chemistry and Physics</a>.</figcaption>
+        </figure>
+        <div class="chart-description">
+          <p>Explanation about how this is important.</p>
+        </div>
+      </div>
+      </div>
 
 
-    <!-- vega light files-->
-    <script type="text/javascript">
-        var specVis1 = "./basic bar chart.json";
-        var specVis2= "./basic map.json";
-        var specVis3= "./basic pie chart.json";
-      
-        vegaEmbed('#BarChart', specVis1, {"actions": false});
-        
-         vegaEmbed('#Map', specVis2, {"actions": false});
+  </div> <!-- end page -->
 
-         vegaEmbed('#PieChart', specVis3, {"actions": false});
-      
-      </script>
+
+  <!-- vega light files-->
+  <script type="text/javascript">
+    var specVis1 = "./basic bar chart.json";
+    var specVis2 = "./basic map.json";
+    var specVis3 = "./basic crust pie chart.json";
+
+    vegaEmbed('#BarChart', specVis1, { "actions": false });
+
+    vegaEmbed('#Map', specVis2, { "actions": false });
+
+    vegaEmbed('#PieChart', specVis3, { "actions": false });
+
+  </script>
 </body>
+
 </html>

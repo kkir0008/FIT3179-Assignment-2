@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 200,
-    "height": 200,
+    "width": 400,
+    "height": 400,
     "title": "Elemental Abundance in Earths Crust",
     "data": {
         "name": "Crust Composition",
@@ -11,7 +11,7 @@
     "encoding": {
         "theta": {
             "type": "quantitative",
-            "field": "Category Percentage",
+            "field": "Category_Percentage",
             "title": "Count of Mineral Deposits",
             "stack": true
         },
@@ -33,15 +33,15 @@
     "layer": [{
         "mark": {
         "type": "arc",
-  "outerRadius": 130,
-  "innerRadius": 53,
+  "outerRadius": 160,
+  "innerRadius": 60,
   "stroke": "ivory",
   "strokeWidth": 0.1,
   "strokeOpacity": 0.8
       }
     },
       {
-    "mark": {"type": "text", "radius": 90},
+    "mark": {"type": "text", "radius": 110},
     "encoding": {
       "text": {
         "field": "Category", 

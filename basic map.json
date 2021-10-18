@@ -57,10 +57,11 @@
                     "value": 10
                 },
                 "opacity": {
-                    "value": 0.6
+                    "value": 0.8
                 },
                 "color": {
                     "field": "CRITICAL_M",
+                    "title": "Critical Minerals: ",
                     "type": "nominal",
                     "scale": {
                         "domain": [

@@ -1,0 +1,253 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 400,
+    "data": {
+        "name": "critical minerals",
+        "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "params": [
+        {
+            "name": "Mineral_Selection_1",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Antimony",
+                    "Barite",
+                    "Beryllium",
+                    "Cobalt",
+                    "Fluorite",
+                    "Gallium",
+                    "Germanium",
+                    "Graphite",
+                    "Indium",
+                    "Lithium",
+                    "Manganese",
+                    "Niobium and Tantalum",
+                    "Platinum-Group Elements",
+                    "Rare-Earth Elements",
+                    "Rhenium",
+                    "Tellurium",
+                    "Tin",
+                    "Titanium",
+                    "Vanadium",
+                    "Zirconium and Hafnium"
+                ],
+                "labels": [
+                    "No Selection",
+                    "Antimony",
+                    "Barite",
+                    "Beryllium",
+                    "Cobalt",
+                    "Fluorite",
+                    "Gallium",
+                    "Germanium",
+                    "Graphite",
+                    "Indium",
+                    "Lithium",
+                    "Manganese",
+                    "Niobium and Tantalum",
+                    "Platinum-Group Elements",
+                    "Rare-Earth Elements",
+                    "Rhenium",
+                    "Tellurium",
+                    "Tin",
+                    "Titanium",
+                    "Vanadium",
+                    "Zirconium and Hafnium"
+                ],
+                "name": "Mineral Selection 1"
+            }
+        },
+        {
+            "name": "Mineral_Selection_2",
+            "bind": {
+                "input": "select",
+                "options": [
+                    null,
+                    "Antimony",
+                    "Barite",
+                    "Beryllium",
+                    "Cobalt",
+                    "Fluorite",
+                    "Gallium",
+                    "Germanium",
+                    "Graphite",
+                    "Indium",
+                    "Lithium",
+                    "Manganese",
+                    "Niobium and Tantalum",
+                    "Platinum-Group Elements",
+                    "Rare-Earth Elements",
+                    "Rhenium",
+                    "Tellurium",
+                    "Tin",
+                    "Titanium",
+                    "Vanadium",
+                    "Zirconium and Hafnium"
+                ],
+                "labels": [
+                    "No Selection",
+                    "Antimony",
+                    "Barite",
+                    "Beryllium",
+                    "Cobalt",
+                    "Fluorite",
+                    "Gallium",
+                    "Germanium",
+                    "Graphite",
+                    "Indium",
+                    "Lithium",
+                    "Manganese",
+                    "Niobium and Tantalum",
+                    "Platinum-Group Elements",
+                    "Rare-Earth Elements",
+                    "Rhenium",
+                    "Tellurium",
+                    "Tin",
+                    "Titanium",
+                    "Vanadium",
+                    "Zirconium and Hafnium"
+                ],
+                "name": "Mineral Selection 2"
+            }
+        }
+    ],
+    "layer": [
+        {
+            "data": {
+                "name": "countries",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/b06955b92e413d726a676c1989e833ec75454b13/data/ne_10m_admin_0_countries.json",
+                "format": {
+                    "type": "topojson",
+                    "feature": "ne_10m_admin_0_countries"
+                }
+            },
+            "projection": {
+                "type": "equirectangular"
+            },
+            "mark": {
+                "type": "geoshape",
+                "fill": "lightgray",
+                "stroke": "darkgray",
+                "strokeWidth": 0.2
+            },
+            "encoding": {
+                "tooltip": {
+                    "field": "properties.NAME",
+                    "type": "nominal",
+                    "title": "Name"
+                }
+            }
+        },
+        {
+            "data": {
+                "name": "critical minerals",
+                "url": "https://raw.githubusercontent.com/kkir0008/FIT3179-Assignment-2/main/PP1802_CritMin_pts.csv",
+                "format": {
+                    "type": "csv"
+                }
+            },
+            "transform": [
+                {
+                    "filter": "if(Mineral_Selection_1 == null && Mineral_Selection_2 == null, datum['CRITICAL_M'] == datum['CRITICAL_M'], datum['CRITICAL_M'] == [Mineral_Selection_1  , Mineral_Selection_2])"
+                }
+            ],
+            "mark": {
+                "type": "text"
+            },
+            "encoding": {
+                "text": {
+                    "field": "Symbol",
+                    "type": "nominal"
+                },
+                "longitude": {
+                    "field": "LONGITUDE",
+                    "type": "quantitative"
+                },
+                "latitude": {
+                    "field": "LATITUDE",
+                    "type": "quantitative"
+                },
+                "size": {
+                    "value": 9
+                },
+                "opacity": {
+                    "value": 0.8
+                },
+                "tooltip": [
+                    {
+                        "field": "LOCATION",
+                        "type": "nominal",
+                        "title": "Country"
+                    },
+                    {
+                        "field": "CRITICAL_M",
+                        "type": "nominal",
+                        "title": "Mineral"
+                    },
+                    {
+                        "field": "DEPOSIT_NA",
+                        "type": "nominal",
+                        "title": "Deposit Name"
+                    }
+                ],
+                "color": {
+                    "field": "CRITICAL_M",
+                    "title": "Critical Minerals: ",
+                    "type": "nominal",
+                    "scale": {
+                        "domain": [
+                            "Antimony",
+                            "Barite",
+                            "Beryllium",
+                            "Cobalt",
+                            "Fluorite",
+                            "Gallium",
+                            "Germanium",
+                            "Graphite",
+                            "Indium",
+                            "Lithium",
+                            "Manganese",
+                            "Niobium and Tantalum",
+                            "Platinum-Group Elements",
+                            "Rare-Earth Elements",
+                            "Rhenium",
+                            "Tellurium",
+                            "Tin",
+                            "Titanium",
+                            "Vanadium",
+                            "Zirconium and Hafnium"
+                        ],
+                        "range": [
+                            "#e41a1c",
+                            "#984ea3",
+                            "#000080",
+                            "#a6cee3",
+                            "#377eb8",
+                            "#a65628",
+                            "#a6cee3",
+                            "#1f78b4",
+                            "#b2df8a",
+                            "#33a02c",
+                            "#fb9a99",
+                            "#e31a1c",
+                            "#fdbf6f",
+                            "#ff7f00",
+                            "#cab2d6",
+                            "#6a3d9a",
+                            "#ffff99",
+                            "#b15928",
+                            "#b2df8a",
+                            "#66c2a5"
+                        ]
+                    }
+                }
+            }
+        }
+    ]
+}
